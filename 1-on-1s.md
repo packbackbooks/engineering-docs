@@ -39,7 +39,7 @@ These topics don’t need to be covered every week, but you should discuss them 
 
 ### Question bank
 
-Occasionally, you may not have much to discuss. Use the questions to prompt conversation. This list was adapted from [this source](https://getlighthouse.com/blog/one-on-one-meeting-questions-great-managers-ask/)
+Occasionally, you may not have much to discuss. Use the questions like the ones below to prompt conversation. [This source](https://getlighthouse.com/blog/one-on-one-meeting-questions-great-managers-ask/) has a lot more great examples.
 
 - How can we make our 1:1s more helpful?
 - What do you want to be doing in [6 mo, 1 yr, 2 yrs] that you're not doing now?
