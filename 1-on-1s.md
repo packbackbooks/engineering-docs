@@ -25,7 +25,7 @@ While discussion should primarily be driven by you, your manager may also come t
 
 These topics should be addressed in every 1:1.
 
-- **Is there anything on your mind? Are there any specific issues you want to discuss?** - You should spend the majority of the time in your 1:1 here. This is your chance to talk about areas where you want to - grow. This may be in the form of questions about the business, product, or technical architecture, asking for feedback on an area where you are having trouble, or talking about what you want for the future of your career and what needs to happen to get you there. If you have feedback for them, or suggestions of how to improve our process, let them know.
+- **Is there anything on your mind? Are there any specific issues you want to discuss?** - You should spend the majority of the time in your 1:1 here. This is your chance to talk about areas where you want to grow. This may be in the form of questions about the business, product, or technical architecture; asking for feedback on an area where you are having trouble; or talking about what you want for the future of your career and what needs to happen to get you there. If you have feedback or suggestions of how to improve our process, let them know.
 - **How is your relationship with your manager? (Skip-level only)** - 
 During skip-level 1:1s (with your manager’s manager), share feedback on how your manager is doing. Do you feel supported by them and satisfied with the coaching you are receiving? What can they do to improve?
 
