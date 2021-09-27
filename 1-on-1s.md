@@ -34,7 +34,7 @@ During skip-level 1:1s (with your manager’s manager), share feedback on how yo
 These topics don’t need to be covered every week, but you should discuss them frequently (as needed).
 
 - **How are you doing on your OKRs?** - Discuss any changes to your progress towards OKRs, especially changes to the status of your OKRs (completed, on-track, behind, at-risk). This is a great opportunity to discuss risks to hitting OKRs and come up with strategies to get as much value as possible from OKRs if they fall behind.
-- **How are you doing?** - Share with your manager how you’re feeling. We value developer joy, and want to create a work environment that fosters happiness and satisfaction. For example if there is something you’ve enjoyed working on and want to do more of in the future, let your manager know. On the flip side, if you’re feeling burnt out, frustrated, or bad about something related to your job, talk to your manager about it.
+- **How are you feeling about your work at Packback?** - Share with your manager how you’re feeling. We value developer joy, and want to create a work environment that fosters happiness and satisfaction. For example if there is something you’ve enjoyed working on and want to do more of in the future, let your manager know. On the flip side, if you’re feeling burnt out, frustrated, or bad about something related to your job, talk to your manager about it.
 - **Do any items from last week need follow-up conversation?** - Discuss any unresolved items from your last 1:1 that still require additional conversation.
 
 ### Question bank
