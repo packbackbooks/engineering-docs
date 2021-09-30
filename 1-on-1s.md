@@ -10,9 +10,9 @@ Regular 1:1 meetings with your manager are one of the most important meetings yo
 - Getting feedback on that 10% formed idea you have, that you're just not ready to share widely yet.
 - Making sure you have a focused place to address those important topics that are hard to carve out time for (e.g. career development)
 
-From the point of view of the employee, 1:1s are a great opportunity to be proactive about your career advancement, and from the point-of-view of the manager, 1:1s are an ideal opportunity to learn quickly about any frustrations and annoyances before they become larger issues.
+From the point of view of the employee, 1:1s are a great opportunity to be proactive about your career advancement, and from the point of view of the manager, 1:1s are an ideal opportunity to learn quickly about any frustrations and annoyances before they become larger issues.
 
-1:1s are a key part of growing personally and professionally in your role. The key to a good one-on-one meeting is the understanding that it is the employee’s meeting rather than the manager’s meeting, and that, you should take ownership of proactively setting the agenda for your 1:1s
+1:1s are a key part of growing personally and professionally in your role. The key to a good 1:1 meeting is the understanding that it is the employee’s meeting rather than the manager’s meeting, and that, you should take ownership of proactively setting the agenda for your 1:1s
 
 At Packback, everybody should expect to have 1:1 meetings with their managers weekly, and additionally have skip-level 1:1s (that is: 1:1s with their manager's manager) on a regular cadence.
 
