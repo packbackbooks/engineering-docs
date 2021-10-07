@@ -64,7 +64,7 @@ __get_confluence_page_ids_to_delete()
 {
     # ################################# WARNING ################################# #
     # This deletes all child pages in Confluence underneath the specified page:
-    # https://packback.atlassian.net/wiki/spaces/QUESTIONS/pages/1226375277
+    # https://packback.atlassian.net/wiki/spaces/ENG/pages/1242529793
     # Use caution when changing this. Triple-check you're deleting the right pages.
     curl -X GET -H "$h1" -H "$h2" "https://packback.atlassian.net/wiki/rest/api/content/1242529793/child/page?limit=1000" | \
         jq -re '.results[].id'
