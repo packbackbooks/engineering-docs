@@ -14,9 +14,12 @@ jobs:
         env:
           JIRA_USER: ${{ secrets.JIRA_USER }}
           JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
-  # sync-docs:
-  #   runs-on: kovetskiy/mark
-  #   needs: clear-docs
-  #   steps:
-  #     - uses: actions/checkout@v2
-  #     - run: ./scripts/sync.sh
+  sync-docs:
+    runs-on: kovetskiy/mark
+    needs: clear-docs
+    steps:
+      - uses: actions/checkout@v2
+      - run: ./scripts/sync.sh
+        env:
+          JIRA_USER: ${{ secrets.JIRA_USER }}
+          JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
