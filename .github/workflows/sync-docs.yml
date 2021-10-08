@@ -15,4 +15,5 @@ jobs:
   #   runs-on: ubuntu-latest
   #   needs: clear-docs
   #   steps:
+  #     - uses: actions/checkout@v2
   #     - run: ./make.sh sync_markdown_to_confluence
