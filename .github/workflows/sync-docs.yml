@@ -23,9 +23,9 @@ jobs:
     steps:
       - name: Checkout to Branch
         uses: actions/checkout@v2
-      - run: ls
-      - name: Sync docs to Confluence
-        run: ./scripts/sync.sh
-        env:
-          JIRA_USER: ${{ secrets.JIRA_USER }}
-          JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
+      - run: find ./ -type f -name \*.md
+      # - name: Sync docs to Confluence
+      #   run: ./scripts/sync.sh
+      #   env:
+      #     JIRA_USER: ${{ secrets.JIRA_USER }}
+      #     JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}

@@ -29,8 +29,6 @@ __find_markdown_files()
     sed 's/.*\t//g'
 }
 
-__find_markdown_files
-
 errors=()
 for file in $(__find_markdown_files); do
     path=${file//'./'/''}
