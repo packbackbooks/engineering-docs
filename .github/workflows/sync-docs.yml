@@ -8,8 +8,10 @@ jobs:
   clear-docs:
     runs-on: ubuntu-latest
     steps:
+      - run: ls
       - run: ./make.sh clear_confluence
-  sync-docs:
-    runs-on: ubuntu-latest
-    steps:
-      - run: ./make.sh sync_markdown_to_confluence
+  # sync-docs:
+  #   runs-on: ubuntu-latest
+  #   needs: clear-docs
+  #   steps:
+  #     - run: ./make.sh sync_markdown_to_confluence
