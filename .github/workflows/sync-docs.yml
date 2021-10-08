@@ -5,17 +5,17 @@ on:
   #   # Runs on Mondays at 8:55 Central
   #   - cron: 55 13 * * 1
 jobs:
-  clear-docs:
-    runs-on: ubuntu-latest
-    steps:
-      # Check out code using git
-      - name: Checkout to Branch
-        uses: actions/checkout@v2
-      - name: Delete existing docs from Confluence
-        run: ./scripts/clear.sh
-        env:
-          JIRA_USER: ${{ secrets.JIRA_USER }}
-          JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
+  # clear-docs:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     # Check out code using git
+  #     - name: Checkout to Branch
+  #       uses: actions/checkout@v2
+  #     - name: Delete existing docs from Confluence
+  #       run: ./scripts/clear.sh
+  #       env:
+  #         JIRA_USER: ${{ secrets.JIRA_USER }}
+  #         JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
   sync-docs:
     runs-on: ubuntu-latest
     container: kovetskiy/mark
@@ -23,8 +23,7 @@ jobs:
     steps:
       - name: Checkout to Branch
         uses: actions/checkout@v2
-      # - name: Install Mark
-      #   run: go get -v github.com/kovetskiy/mark
+      - run: ls
       - name: Sync docs to Confluence
         run: ./scripts/sync.sh
         env:
