@@ -10,10 +10,10 @@ jobs:
     steps:
       # Check out code using git
       - uses: actions/checkout@v2
-      - run: ./make.sh clear_confluence
+      - run: ./scripts/clear.sh
   # sync-docs:
-  #   runs-on: ubuntu-latest
+  #   runs-on: kovetskiy/mark
   #   needs: clear-docs
   #   steps:
   #     - uses: actions/checkout@v2
-  #     - run: ./make.sh sync_markdown_to_confluence
+  #     - run: ./scripts/sync.sh
