@@ -29,6 +29,18 @@ __find_markdown_files()
     sed 's/.*\t//g'
 }
 
+    filesToExclude="node_modules|vendor|PULL_REQUEST_TEMPLATE\.md|LICENSE\.md"
+    # Find all markdown files
+    find ./ -type f -name \*.md | \
+    # Exclude files matching these patterns
+    grep -Ev $filesToExclude | \
+    # Order them by depth and directory
+    while read file; do
+        printf '%s\t%s\t%s\n' "${file%/*}" "$(tr -dc / <<< "$file")" "$file"
+    done
+
+exit
+
 errors=()
 for file in $(__find_markdown_files); do
     path=${file//'./'/''}
