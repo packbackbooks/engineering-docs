@@ -72,6 +72,7 @@ __get_confluence_page_ids_to_delete()
 
 clear_confluence()
 {
+    echo "Clearing existing docs from Confluence"
     h1="Authorization: Basic $(echo -n $JIRA_USER:$JIRA_API_TOKEN | base64)"
     h2="Content-Type: application/json"
     for page_id in $(__get_confluence_page_ids_to_delete); do
