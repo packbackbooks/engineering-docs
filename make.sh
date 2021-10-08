@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -eo pipefail
+set -ex
 
 # Ensure all our paths are based off of the root of the repo
 cd "$(dirname "${BASH_SOURCE[0]}")"
