@@ -1,0 +1,15 @@
+name: Sync Docs to Confluence
+on:
+  push:
+  # schedule:
+  #   # Runs on Mondays at 8:55 Central
+  #   - cron: 55 13 * * 1
+jobs:
+  clear-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - run: ./make.sh clear_confluence
+  sync-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - run: ./make.sh sync_markdown_to_confluence
