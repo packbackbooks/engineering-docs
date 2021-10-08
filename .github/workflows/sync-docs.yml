@@ -17,13 +17,14 @@ jobs:
           JIRA_USER: ${{ secrets.JIRA_USER }}
           JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
   sync-docs:
-    runs-on: ubuntu-latest
+    runs: docker
+    using: kovetskiy/mark
     # needs: clear-docs
     steps:
       - name: Checkout to Branch
         uses: actions/checkout@v2
-      - name: Install Mark
-        run: go get -v github.com/kovetskiy/mark
+      # - name: Install Mark
+      #   run: go get -v github.com/kovetskiy/mark
       - name: Sync docs to Confluence
         run: ./scripts/sync.sh
         env:
