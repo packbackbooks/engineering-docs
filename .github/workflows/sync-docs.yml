@@ -23,7 +23,7 @@ jobs:
     steps:
       - name: Checkout to Branch
         uses: actions/checkout@v2
-      - run: find ./ -type f -name \*.md
+      - run: find ./ -type f -name \*.md | grep -Ev "node_modules|vendor|PULL_REQUEST_TEMPLATE\.md|LICENSE\.md"
       # - name: Sync docs to Confluence
       #   run: ./scripts/sync.sh
       #   env:
