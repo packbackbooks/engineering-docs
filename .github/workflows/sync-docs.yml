@@ -9,17 +9,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Check out code using git
-      - uses: actions/checkout@v2
-      - run: ./scripts/clear.sh
+      - name: Checkout to Branch
+        uses: actions/checkout@v2
+      - name: Delete existing docs from Confluence
+        run: ./scripts/clear.sh
         env:
           JIRA_USER: ${{ secrets.JIRA_USER }}
           JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
   sync-docs:
-    runs-on: kovetskiy/mark
+    runs-on: ubuntu-latest
     needs: clear-docs
     steps:
-      - uses: actions/checkout@v2
-      - run: ./scripts/sync.sh
+      - name: Checkout to Branch
+        uses: actions/checkout@v2
+      - name: Sync docs to Confluence
+        run: |
+          go get -v github.com/kovetskiy/mark
+          ./scripts/sync.sh
         env:
           JIRA_USER: ${{ secrets.JIRA_USER }}
           JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
