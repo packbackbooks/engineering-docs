@@ -1,14 +1,6 @@
 stages:
-  - trigger-pipeline
-  - build-container-builder
-  - build-root-base-image
-  - build-deps
-  - test
-  - build
-  - test-container
   - pre-deploy
   - deploy
-  - post-deploy
 
 .ci-cd-base:
   image: us.gcr.io/packback-shared/builders/docker-helm-gcloud:$BUILDERS_DOCKER_HELM_GCLOUD_IMAGE_TAG
