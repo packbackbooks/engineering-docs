@@ -17,8 +17,8 @@ jobs:
           JIRA_USER: ${{ secrets.JIRA_USER }}
           JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
   sync-docs:
-    runs: docker
-    using: kovetskiy/mark
+    runs-on: ubuntu-latest
+    container: kovetskiy/mark
     # needs: clear-docs
     steps:
       - name: Checkout to Branch
