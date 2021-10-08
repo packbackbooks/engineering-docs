@@ -13,6 +13,7 @@ jobs:
         h2="Content-Type: application/json"
         curl -X GET -H "$h1" -H "$h2" "https://packback.atlassian.net/wiki/rest/api/content/1242529793/child/page?limit=1000" | \
           jq -re '.results[].id'
+
   # sync-docs:
   #   runs-on: ubuntu-latest
   #   needs: clear-docs
