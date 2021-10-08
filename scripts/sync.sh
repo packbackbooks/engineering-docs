@@ -3,7 +3,7 @@
 set -ex
 
 # Ensure all our paths are based off of the root of the repo
-cd "$(dirname "${BASH_SOURCE[0]}")"
+cd "$(dirname "${BASH_SOURCE[0]}")/.."
 
 # Output formatting variables
 NO_FORMAT="\e[0m"
@@ -28,18 +28,6 @@ __find_markdown_files()
     # Strip it down to just the file name again
     sed 's/.*\t//g'
 }
-
-filesToExclude="node_modules|vendor|PULL_REQUEST_TEMPLATE\.md|LICENSE\.md"
-    # Find all markdown files
-find ./ -type f -name \*.md | \
-    # Exclude files matching these patterns
-    grep -Ev $filesToExclude | \
-    # Order them by depth and directory
-    # while read file; do
-    #     printf '%s\t%s\t%s\n' "${file%/*}" "$(tr -dc / <<< "$file")" "$file"
-    # done
-
-exit
 
 errors=()
 for file in $(__find_markdown_files); do

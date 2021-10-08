@@ -1,0 +1,45 @@
+stages:
+  - pre-deploy
+  - deploy
+
+.ci-cd-base:
+  image: us.gcr.io/packback-shared/builders/docker-helm-gcloud:$BUILDERS_DOCKER_HELM_GCLOUD_IMAGE_TAG
+  before_script:
+    # Add login information for https Git URLs
+    - echo -e "machine github.com\n  login ${GITHUB_USERNAME}\n  password ${GITHUB_ACCESS_TOKEN}" > ~/.netrc
+    # Tell git who we are
+    - git config --global user.email "engineering@packback.co"
+    - git config --global user.name "Packback Deployer"
+    # Change origin as we will be pushing/pulling notes
+    - git remote set-url origin $(git remote get-url origin | sed -r 's#https://(.*)@gitlab.com/packback/#https://github.com/packbackbooks/#g')
+    # Fetch any Git notes for later use - attempt to fast-forward, and if that doesn't work then merge
+    - git fetch origin refs/notes/helm-values:refs/notes/helm-values || (git fetch origin refs/notes/helm-values && git notes --ref helm-values merge FETCH_HEAD)
+  variables:
+    # Override default git depth
+    GIT_DEPTH: 0
+    GIT_STRATEGY: clone
+  retry:
+    max: 2
+    when:
+      - runner_system_failure
+      - stuck_or_timeout_failure
+      - job_execution_timeout
+
+clear docs:
+  extends: .ci-cd-base
+  stage: pre-deploy
+  timeout: 10 minutes
+  script:
+    - ./make.sh clear_confluence
+  rules:
+    - if: $SYNC_DOCS == "true"
+
+sync docs:
+  extends: .ci-cd-base
+  stage: deploy
+  timeout: 10 minutes
+  image: kovetskiy/mark
+  script:
+    - ./make.sh sync_markdown_to_confluence
+  rules:
+    - if: $SYNC_DOCS == "true"
