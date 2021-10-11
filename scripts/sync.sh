@@ -38,7 +38,7 @@ for file in $(__find_markdown_files); do
 <!-- Parent: Engineering Docs (Public-facing) -->
 <!-- Title: $path -->\n
 **DO NOT EDIT THIS PAGE** This file was automatically synced to Confluence from GitHub. Any changes to this documentation should be made in git and committed to the repo. Changes made in Confluence will be overwritten.
-[View this file in GitHub.](https://github.com/packbackbooks/questions/blob/master/$path)\n\n
+[View this file in GitHub.](https://github.com/packbackbooks/engineering-docs/blob/master/$path)\n\n
 $(cat $file)" > $file
     # Sync the file in Confluence
     mark -u $JIRA_USER -p $JIRA_API_TOKEN \

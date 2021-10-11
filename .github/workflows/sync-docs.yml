@@ -1,8 +1,8 @@
 name: Sync Docs to Confluence
 on:
-  schedule:
-    # Runs on Mondays at 8:55 Central
-    - cron: 55 13 * * 1
+  push:
+    branches:
+      - main
 jobs:
   clear-docs:
     runs-on: ubuntu-latest
