@@ -112,4 +112,5 @@ This meeting marks the end of a sprint.
 - Sprint demo
     - [ ] Have a representative from each team demo the work that they accomplished.
     - [ ] Let members of other teams ask questions about their work.
+    - [ ] Sprint goals for next sprint.
 - The old sprint has ended. Let a new one begin!
