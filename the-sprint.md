@@ -47,6 +47,7 @@ The goal of division sprint planning is to:
 
 - identify which tickets to be estimated next sprint
 - surface questions, problems, and blockers for the selected tickets
+- determine which teams will be responsible for the selected tickets
 
 **Who participates?** TPMs, team leads, and certain backlog owners.
 
