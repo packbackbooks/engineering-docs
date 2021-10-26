@@ -37,7 +37,7 @@ Each team member should answer:
 
 At the end of sync up, we also ask if anyone has noticed any problems or opportunities for improvement. Sharing an opportunity doesn't mean you will be responsible for implementing it.
 
-**Who participates?** The members of an individual team.
+**Who participates?** The members of an individual team. Additionally, members of other teams may join and observe to facilitate communication and cross-team collaboration.
 
 **When does this meeting happen?** Daily, usually around midday.
 
@@ -49,7 +49,7 @@ The goal of division sprint planning is to:
 - surface questions, problems, and blockers for the selected tickets
 - determine which teams will be responsible for the selected tickets
 
-**Who participates?** TPMs, team leads, and certain backlog owners.
+**Who participates?** TPMs, team leads, and certain backlog owners. Teams may decide who to send to this meeting, such as a DRI (project lead).
 
 **When does this meeting happen?** Towards the end of the sprint before individual team pre-plannings.
 
