@@ -19,7 +19,7 @@ This meeting marks the start of a new sprint. The purpose of sprint planning is 
 
 - align on team-level goals for the new sprint
 - resolve any outstanding questions about planned work
-- create a plan to meet their sprint goals
+- create a plan to meet the sprint goals
 
 **Who participates?** The members of an individual team.
 
