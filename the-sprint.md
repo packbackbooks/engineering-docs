@@ -27,7 +27,7 @@ This meeting marks the start of a new sprint. The purpose of sprint planning is 
 
 ### Daily sync-up
 
-This meeting (elsewhere referred to as stand up or scrum) should last no more than 15 minutes. The purpose of sync-up is to coordinate within the team (and accross teams if needed) to ensure they meet their sprint goals.
+This meeting (elsewhere referred to as stand up or scrum) should last no more than 15 minutes. The purpose of sync-up is to coordinate within the team (and across teams if needed) to ensure they meet their sprint goals.
 
 Each team member should answer:
 
