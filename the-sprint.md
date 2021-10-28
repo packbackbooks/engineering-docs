@@ -57,11 +57,11 @@ The Division sprint planning meeting is how the different teams at Packback engi
 
 **Who participates?** Product managers, team leads, and certain backlog owners. Teams may decide who to send to this meeting, such as a project lead, or anybody who has information relevant to upcoming projects.
 
-**When does this meeting happen?** Towards the end of the sprint before individual team pre-plannings.
+**When does this meeting happen?** Towards the end of the sprint before individual team scrums.
 
-### Team pre-planning
+### Team scrum
 
-Tickets are assigned to teams as a part of division sprint planning. The goal of team pre-planning is then to:
+Tickets are assigned to teams as a part of division sprint planning. The goal of team scrum is then to:
 
 * estimate tickets selected for next sprint
 * surface questions, problems, and blockers for the selected tickets
