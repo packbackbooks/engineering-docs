@@ -1,8 +1,8 @@
 # How Does Packback Engineering Work?
 
-Building a platform isn't easy!  Packback engineering has the goal of executing quickly and reliably on new features, while simultaneously prioritizing the security, accessibility, reliability and performance of the Packback platform.
+Building a platform isn't easy! Packback engineering has the goal of executing quickly and reliably on new features, while simultaneously prioritizing the security, accessibility, reliability and performance of the Packback platform.
 
-This page contains a description of how the engineering teams at Packback keep their work organized, keep different development teams in sync with each other and keep engineering in sync with its partners in the product team.  The rest of this document breaks this down in, but at the highest level, Packback engineering does *agile software development*, using the tools of *continuous delivery* to ensure rapid and reliable delivery of code to users.
+This page contains a description of how the engineering teams at Packback keep their work organized, keep different development teams in sync with each other and keep engineering in sync with its partners in the product team. The rest of this document breaks this down in, but at the highest level, Packback engineering does *agile software development*, using the tools of *continuous delivery* to ensure rapid and reliable delivery of code to users.
 
 * "Agile": Packback engineering follows an agile software development process, where work is planned and executed in two-week "sprints".
 * "Continuous Delivery": Packback engineering deploys its platform multiple times per day, and code is tested and released to production entirely automatically after a developer merges code into the Packback codebase
@@ -15,13 +15,13 @@ Engineering runs a few standard meetings every sprint
 
 ![A visual representation of the sequencing of meetings in each sprint](sprint_process.drawio.png)
 
-Despite the image above looking pretty busy, there are very few regular meetings for engineers.  On nine out of ten working days, the only scheduled meeting is a 15-minute sync up with your team members.
+Despite the image above looking pretty busy, there are very few regular meetings for engineers. On nine out of ten working days, the only scheduled meeting is a 15-minute sync up with your team members.
 
 From left-to-right on the diagram, the meetings that happen each sprint are as follows
 
 ### Team sprint planning
 
-This meeting marks the start of a new sprint. and is when you meet with the members of your team to
+This meeting marks the start of a new sprint and is when you meet with the members of your team to
 
 * align on team-level goals for the new sprint
 * resolve any outstanding questions about planned work
@@ -33,7 +33,7 @@ This meeting marks the start of a new sprint. and is when you meet with the memb
 
 ### Daily sync-up
 
-This meeting (elsewhere referred to as stand up or scrum) should last no more than 15 minutes. It happens daily, at a time chosen to be convenient for all timezones represented on a team.  The purpose of sync-up is to coordinate within the team (and, if necessary, across teams) to ensure they meet their sprint goals.
+This meeting (elsewhere referred to as stand up or scrum) should last no more than 15 minutes. It happens daily, at a time chosen to be convenient for all timezones represented on a team. The purpose of sync-up is to coordinate within the team (and, if necessary, across teams) to ensure they meet their sprint goals.
 
 Each team member should answer:
 
@@ -49,7 +49,7 @@ At the end of sync up, we also ask if anyone has noticed any problems or opportu
 
 ### Division sprint planning
 
-The Division sprint planning meeting is how the different teams at PAckback engineering remain in sync with each other, and is where team leads and product managers collaborate to ensure that engineering is working on the *correct* tickets.  The goal of division sprint planning is to:
+The Division sprint planning meeting is how the different teams at Packback engineering remain in sync with each other, and is where team leads and product managers collaborate to ensure that engineering is working on the *correct* tickets. The goal of division sprint planning is to:
 
 * identify which tickets should be estimated next sprint
 * surface questions, problems, and blockers for the selected tickets
@@ -61,7 +61,7 @@ The Division sprint planning meeting is how the different teams at PAckback engi
 
 ### Team pre-planning
 
-Tickets are assigned to teams as a part of division sprint planning.  The goal of team pre-planning is then to:
+Tickets are assigned to teams as a part of division sprint planning. The goal of team pre-planning is then to:
 
 * estimate tickets selected for next sprint
 * surface questions, problems, and blockers for the selected tickets
