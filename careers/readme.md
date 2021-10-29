@@ -2,9 +2,9 @@
 
 The general Software Engineer levels are common to all engineer paths. At the Senior Engineer level, roles split into different paths focused on management or contributorship. (Project management is integral to both paths). People on the management path will be expected to take on people and team management responsibilities. People on the contributor path will be expected to continue growing their breadth and depth of technical knowledge.
 
-* Software Engineer Path
-* Managing Engineer Path
-* Technical Engineer Path
+* [Software Engineer Path](software_engineer.md)
+* [Managing Engineer Path](managing_engineer.md)
+* [Technical Engineer Path](technical_engineer.md)
 
 ## Levels
 
