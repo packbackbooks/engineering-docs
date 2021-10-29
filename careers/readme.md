@@ -15,16 +15,16 @@ Engineering leveling is not a checkbox exercise, that said, this document contai
 All engineers at Packback should be positive and knowledgeable representatives for the Packback brand in professional interactions with both technical or non-technical individuals, and take personal responsibility to stay abreast of new technologies and their own education to make well-informed decisions and remain personally challenged. In addition to these shared expectations of all engineers, at a high-level the following descriptions of the levels can be applied:
 
 * **Software Engineer**
-    * *Apprentice:* **Rapidly growing into a solid engineer**, works on a predetermined project with more senior resources, is hungry to learn, takes feedback graciously, finds a work-life balance.
-    * *Engineer I:* ** Builds defined features**, investigates and fixes bugs, writes tests, communicates progress, identifies blocking issues.
-    * *Engineer II:* **Owns a functional area.** Breaks large requests down into sub-tasks, gives higher-level status updates, writes test plans, takes operational responsibility. Sets measurable goals, and meets them. Reviews code changes, helps mentor new hires.
-    * *Engineer III:* **Takes undefined projects** and proposes both the possible functional solutions and the recommended technical solutions.
+    * [*Apprentice:*](software_engineer.md#apprentice) **Rapidly growing into a solid engineer**, works on a predetermined project with more senior resources, is hungry to learn, takes feedback graciously, finds a work-life balance.
+    * [*Engineer I:*](software_engineer.md#engineer-i) ** Builds defined features**, investigates and fixes bugs, writes tests, communicates progress, identifies blocking issues.
+    * [*Engineer II:*](software_engineer.md#engineer-ii) **Owns a functional area.** Breaks large requests down into sub-tasks, gives higher-level status updates, writes test plans, takes operational responsibility. Sets measurable goals, and meets them. Reviews code changes, helps mentor new hires.
+    * [*Engineer III:*](software_engineer.md#engineer-iii) **Takes undefined projects** and proposes both the possible functional solutions and the recommended technical solutions.
 * **Managing Engineer**
     * *Team Lead (Senior Engineer):* **Coaches a team on major projects.** Tracks the team's efficiency and quality of work. Champions process and leverages their experience to ensure the team hits their goals.
     * *Engineering Manager:* **Runs an engineering agile team.** Comfortable with management practice. Strong project managers. Track the team's efficiency and quality of work, assist in regularly adjusting processes and timelines to deliver high quality work.
     * *Director of Engineering:* **Runs a "slice" of the engineering organization.** Grow the next generation of leadership at Packback. Manage other engineering managers. Strategically balance immediate and long-term product/business focused work with technical debt and strategic technical development. Guide the planning process for their team.
     * *VP of Engineering:* **Runs of multiple sectors of the engineering organization.** Works cross-functionally to solve problems for the product or company. Builds a health, robust engineering organization.
-* Technical Engineer
+* **Technical Engineer**
     * *Senior Engineer:* **Owns the development for an entire product, or large project.** Champions process, writes tech specs and identifies risks before starting major projects. Sets standards. Goes out of their way to reduce complexity.
     * *Staff Engineer:* **Owns cross-team shared projects.** Works with leadership to choose new technologies, and promote culture/process. Has deep technical expertise in a business-critical area. Does serious research to evaluate and test options. Understands implications (and trade-offs) of reliability, scalability, operational costs, ease of adoption by the organization, recruiting, etc.
     * *Principal Engineer:* **"Chief architect" for our business.** They have significant strategic vision and can take a high-level 3-5 year plan for growth at a business level and translate that into a strategic technology roadmap.

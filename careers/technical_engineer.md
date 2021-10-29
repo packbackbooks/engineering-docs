@@ -1,3 +1,7 @@
+# Technical Engineer Path
+
+The technical engineer focuses on individual contributorship and technical leadership
+
 ## Senior Engineer
 
 Success as a Senior Engineer is based on their ability to make the team and individuals on the team more effective. A Senior Engineer’s technical impact should be focused on using technology to increase the likelihood that Packback succeeds as a business. A Senior Engineer at Packback should be focused on making a 10x impact on the team; which can only be done by empowering others, optimizing processes, and identifying the highest impact projects. They are proficient at project management.

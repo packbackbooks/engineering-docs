@@ -1,4 +1,6 @@
+# Managing Engineer Path
 
+The managing engineer path focuses on team and organizational leadership.
 
 ## Team Lead (Senior Engineer)
 
