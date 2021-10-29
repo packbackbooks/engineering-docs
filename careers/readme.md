@@ -16,7 +16,7 @@ All engineers at Packback should be positive and knowledgeable representatives f
 
 * **Software Engineer**
     * [*Apprentice:*](software_engineer.md#apprentice) **Rapidly growing into a solid engineer**, works on a predetermined project with more senior resources, is hungry to learn, takes feedback graciously, finds a work-life balance.
-    * [*Engineer I:*](software_engineer.md#engineer-i) ** Builds defined features**, investigates and fixes bugs, writes tests, communicates progress, identifies blocking issues.
+    * [*Engineer I:*](software_engineer.md#engineer-i) **Builds defined features**, investigates and fixes bugs, writes tests, communicates progress, identifies blocking issues.
     * [*Engineer II:*](software_engineer.md#engineer-ii) **Owns a functional area.** Breaks large requests down into sub-tasks, gives higher-level status updates, writes test plans, takes operational responsibility. Sets measurable goals, and meets them. Reviews code changes, helps mentor new hires.
     * [*Engineer III:*](software_engineer.md#engineer-iii) **Takes undefined projects** and proposes both the possible functional solutions and the recommended technical solutions.
 * **Managing Engineer**
