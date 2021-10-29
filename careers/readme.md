@@ -48,7 +48,7 @@ Along all senior pathways, expectations ramp up dramatically from level to level
 
 #### Changing Pathways
 
-If they haven’t already decided on a pathway, engineers should use the Senior Engineer level to explore which pathway best suits their skills and goals. If a Senior Engineer embarks down one pathway only to discover that it is not the best fit for them, they may change to a different path (assuming a position is available) without any loss of compensation or seniority. If this change happens beyond the Senior Engineer level, Packback will do it’s best to accommodate a change but will need to take qualifications and experience into consideration (e.g. a VP may not necessarily be qualified to become a Principal Engineer.)
+If they haven't already decided on a pathway, engineers should use the Senior Engineer level to explore which pathway best suits their skills and goals. If a Senior Engineer embarks down one pathway only to discover that it is not the best fit for them, they may change to a different path (assuming a position is available) without any loss of compensation or seniority. If this change happens beyond the Senior Engineer level, Packback will do it's best to accommodate a change but will need to take qualifications and experience into consideration (e.g. a VP may not necessarily be qualified to become a Principal Engineer.)
 
 ## Example Accomplishments by Level
 
@@ -56,7 +56,7 @@ If they haven’t already decided on a pathway, engineers should use the Senior 
 
 * Apprentice engineer
     * Only [allow admins and post authors](https://github.com/packbackbooks/questions/pull/4033) to delete a post. This PR changes backend permissions, restricting the ability to permanently delete a post to admins and the post author only. (Previously, professors and TAs could also delete posts.)
-    * Show the [same text for progress indicators](https://github.com/packbackbooks/questions/pull/4014) on desktop and mobile. This PR standardizes the language presented to desktop and mobile users in our component that displays a user’s progress through a series of steps. (Previously, it hid useful data from mobile users, which is an accessibility failure.)
+    * Show the [same text for progress indicators](https://github.com/packbackbooks/questions/pull/4014) on desktop and mobile. This PR standardizes the language presented to desktop and mobile users in our component that displays a user's progress through a series of steps. (Previously, it hid useful data from mobile users, which is an accessibility failure.)
 * Engineer I
     * Create an endpoint for [getting grading intervals](https://github.com/packbackbooks/questions/pull/4034). This PR adds a new endpoint for fetching a collection of grading intervals belonging to a community. It has full test coverage and updates API documentation.
     * Create a component to [to list grading report deadlines](https://github.com/packbackbooks/questions/pull/3986). This PR adds a new component to list assignment deadlines for community grading. It includes automated testing, is WCAG AA compliant, and makes minor updates to E2E tests.
@@ -65,7 +65,7 @@ If they haven’t already decided on a pathway, engineers should use the Senior 
     * Modifying the edit grading report endpoint to [allow users to update assignments](https://github.com/packbackbooks/questions/pull/3974). This PR includes conditional validation for user-submitted data and includes robust test coverage.
 * Engineer III
     * Plan the project to [update checkout to support Packback Instruct pricing](https://packback.atlassian.net/wiki/spaces/Instruct/pages/734691345). 
-    * When a user uploads a roster with invalid rows, let them [download a CSV of invalid rows with the reason they’re invalid](https://github.com/packbackbooks/questions/pull/4046). This PR adds complex validation for large data sets. Comprehensive test coverage and manual testing are a given.
+    * When a user uploads a roster with invalid rows, let them [download a CSV of invalid rows with the reason they're invalid](https://github.com/packbackbooks/questions/pull/4046). This PR adds complex validation for large data sets. Comprehensive test coverage and manual testing are a given.
 
 ### Managing Engineer
 
@@ -86,8 +86,8 @@ If they haven’t already decided on a pathway, engineers should use the Senior 
 ### Technical Engineer
 
 * Senior Engineer
-    * Plan the project to [pass grades back to an LMS via LTI](https://packback.atlassian.net/wiki/spaces/GBS/pages/615284737). This project relies on implementing a poorly-documented third-party system to update Packback grades in the Professor’s course in the LMS. It documents complex relationship management, defines necessary modifications to the database and API contracts, and breaks work out into multiple stages for delivery.
-    * [Split our frontend grading UI into multiple steps.](https://github.com/packbackbooks/questions/pull/3927) This PR is a significant refactor of a critical user flow. It breaks our existing form for configuring a community’s grading deadlines and rubric into two separate steps. The form contained complex validation logic that needed to be separated out. It also updates E2E tests.
+    * Plan the project to [pass grades back to an LMS via LTI](https://packback.atlassian.net/wiki/spaces/GBS/pages/615284737). This project relies on implementing a poorly-documented third-party system to update Packback grades in the Professor's course in the LMS. It documents complex relationship management, defines necessary modifications to the database and API contracts, and breaks work out into multiple stages for delivery.
+    * [Split our frontend grading UI into multiple steps.](https://github.com/packbackbooks/questions/pull/3927) This PR is a significant refactor of a critical user flow. It breaks our existing form for configuring a community's grading deadlines and rubric into two separate steps. The form contained complex validation logic that needed to be separated out. It also updates E2E tests.
 * Staff Engineer
     * Plan and implement an [upgrade to our kubernetes cluster that minimizes user impact](https://packback.atlassian.net/wiki/spaces/RUT2/pages/246677505). An upgrade to our kubernetes cluster was necessary but would mean some inevitable downtime. This plan outlined the preparatory work necessary to ensure minimal disruption, as well as coordinating a team-wide effort to facilitate the process.
     * [Merge a collection of disparate, highly-dependent microservices into a monolith](https://github.com/packbackbooks/questions/pulls?page=1&q=is%3Apr+author%3AEricTendian+monolith)  with limited disruption to other developers.This series of PRs merged three highly-dependent Laravel APIs into a single application. The change was made in a way that avoided merge conflicts, as all three APIs were under active development by other engineers.
