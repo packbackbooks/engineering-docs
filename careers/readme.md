@@ -8,6 +8,8 @@ The general Software Engineer levels are common to all engineer paths. At the Se
 
 ## Levels
 
+![A visual representation of the sequencing engineering career pathway](career_pathways.drawio.png)
+
 Engineering leveling is not a checkbox exercise, that said, this document contains a representative set of behaviors that should be demonstrated by an engineer to be considered for promotion to the next level. Titles and level changes are lagging indicators of growth, driven by an individual personally choosing to demonstrate the behaviors of the next level of growth. Outside of formal reporting structure changes, higher levels are not "assigned" to an individual to disseminate greater responsibility; rather, the individual assumes the responsibility and their level changes to recognize their growth. To be considered a solid candidate for promotion, it will be considered necessary to demonstrate sustained mastery of the relevant skills.
 
 All engineers at Packback should be positive and knowledgeable representatives for the Packback brand in professional interactions with both technical or non-technical individuals, and take personal responsibility to stay abreast of new technologies and their own education to make well-informed decisions and remain personally challenged. In addition to these shared expectations of all engineers, at a high-level the following descriptions of the levels can be applied:
