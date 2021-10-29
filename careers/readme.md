@@ -41,7 +41,7 @@ Along all senior pathways, expectations ramp up dramatically from level to level
 #### Opportunities for Leadership:
 
 * Team leadership (typically management pathway)
-* DRI (both pathways)
+* Project lead (both pathways)
 * Backlog owner (typically technical pathway)
 * Code owner / signoff (typically technical pathway)
 * Affinity group leader (typically technical pathway)
@@ -93,9 +93,3 @@ If they haven’t already decided on a pathway, engineers should use the Senior 
     * [Merge a collection of disparate, highly-dependent microservices into a monolith](https://github.com/packbackbooks/questions/pulls?page=1&q=is%3Apr+author%3AEricTendian+monolith)  with limited disruption to other developers.This series of PRs merged three highly-dependent Laravel APIs into a single application. The change was made in a way that avoided merge conflicts, as all three APIs were under active development by other engineers.
 * Principal Engineer
     * Plan and implement CI/CD and containerization for our platform. This project involved containerizing all our services, building out our entire software ecosystem as infrastructure-as-code, and creating an intelligent CI pipeline to test and deploy changes in under 60 minutes.
-
-## Internal vs. External Job Titles
-
-The job titles discussed in this document can be considered "internal" job titles used to clarify level of scope, responsibility, and to align pay with a uniform set of levels.
-
-People should continue to use more specific job titles publicly (e.g. QA Team Lead, Data analysis engineer) if it suits them, and their manager signs off that the job title is appropriate. Generally, it’s ok for people to use any relevant job title, as long as they are level appropriate. (Certain words like "senior", "architect", "lead", etc. have special meaning which supersedes individual preference.).
