@@ -82,3 +82,7 @@ They represent Engineering and Data on the senior team to articulate the capabil
 * Develop cross-functional relationships with other business units (Sales, Retention, Revenue)
 * Standardize the development process where needed
 * Measure and improve the happiness of Engineering & ensure psychological safety
+
+## Credits
+
+Packback's engineering ladder was inspired by documentation published by [Rent the Runway](https://dresscode.renttherunway.com/blog/ladder) and [Kickstarter](https://kickstarter.engineering/the-kickstarter-engineering-and-data-team-ladder-96996c3b327) on their engineering ladders. Thanks to them for open-sourcing that information.

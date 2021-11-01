@@ -51,3 +51,7 @@ By the time an engineer is ready to be promoted to Engineer III they will have f
 **Estimation:** An Engineer III Is able to provide reliable estimates for features that take longer than a single sprint to complete. Consistently delivers their work within a small margin of error to their original estimation, allowing the team to plan effectively and rely on the timely delivery of work.
 
 **Communication:** An Engineer III recognizes areas in our process that are redundant, manual, slow down work negatively, or allow for untested/unverified code to be pushed to live systems and offers suggestions to improve the process. An Engineer III knows that their work technically never "ends" in the sense that they always have the opportunity to recognize other opportunities for improvement in the platform and work down technical debt. They regularly examine our codebase, use our product, look at our backlog looking for the most important areas where they can make an impact.
+
+## Credits
+
+Packback's engineering ladder was inspired by documentation published by [Rent the Runway](https://dresscode.renttherunway.com/blog/ladder) and [Kickstarter](https://kickstarter.engineering/the-kickstarter-engineering-and-data-team-ladder-96996c3b327) on their engineering ladders. Thanks to them for open-sourcing that information.

@@ -64,3 +64,7 @@ A Principal Engineer is still acting in a very hands-on role, and as such, they 
 * Provide mentorship to Senior and Staff Engineers to help them grow in their technical responsibilities
 * Ensure the safety and reliability of Packback's technology
 * Manage projects across multiple years
+
+## Credits
+
+Packback's engineering ladder was inspired by documentation published by [Rent the Runway](https://dresscode.renttherunway.com/blog/ladder) and [Kickstarter](https://kickstarter.engineering/the-kickstarter-engineering-and-data-team-ladder-96996c3b327) on their engineering ladders. Thanks to them for open-sourcing that information.
