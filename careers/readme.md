@@ -1,10 +1,20 @@
-# Career Pathways
+# The Engineering Ladder
 
-The general Software Engineer levels are common to all engineer paths. At the Senior Engineer level, roles split into different paths focused on management or contributorship. (Project management is integral to both paths). People on the management path will be expected to take on people and team management responsibilities. People on the contributor path will be expected to continue growing their breadth and depth of technical knowledge.
+Packback's engineering ladder is a set of skills and expectations we use as job descriptions at each level of the engineering organization. They are used both for assessing candidates for new roles and determining when someone is ready for a promotion.
+
+The general Software Engineer levels are common to all engineer paths. At the Senior Engineer level, roles split into different paths focused on management or individual contributorship. (Project management is integral to both paths). People on the management path will be expected to take on people and team management responsibilities. People on the contributor path will be expected to continue growing their breadth and depth of technical knowledge.
 
 * [Software Engineer Path](software-engineer.md)
 * [Managing Engineer Path](managing-engineer.md)
 * [Technical Engineer Path](technical-engineer.md)
+
+## Pay Equity
+
+In our effort to create a diverse, inclusive team, each level of the engineering ladder has a defined salary range associated with it.
+
+Associating salary ranges with engineering levels ensures that all engineers at a given level are paid relatively similarly. It prevents situations where a team member with fewer skills and less experience could get paid more than someone higher on the ladder.
+
+Salary ranges also offer the opportunity for growth within an engineering level. An engineer may earn a raise within their current level even if they're not ready for promotion yet.
 
 ## Levels
 
