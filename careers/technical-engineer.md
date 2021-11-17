@@ -10,7 +10,9 @@ Success as a Senior Engineer is based on their ability to make the team and indi
 
 **Technical Scope:** The Senior Engineer gets a lot done. They are responsible for complex tasks and complete them despite roadblocks, grabbing others for help or insight as necessary. The Senior Engineer requires very little oversight beyond high-level direction; they can take a complex product problem with no defined solution and implement a plan to solve it. The Senior Engineer shows initiative beyond knocking tasks off a list; they are able to identify and suggest areas of future work for themselves or their teams. They seek to build objective and well-defended cases for decisions, and develop a reputation among the leadership team that their requests are objective, self-critical and have due-diligence put in place to understand all viable alternatives. They deliver products with confidence.
 
-The Senior Engineer has end-to-end responsibility for projects of increasing complexity that encompass more than their own development. They contribute to the common code bases and standards for the team. They understand the business that their code supports and use this knowledge to influence their task prioritization. They assist in identifying and validating test cases and can identify regression risks in their features. They develop contingency plans around minimizing risks to delivery. They maintain a laser focus on the customer's needs as they relate to business goals, as they realize that every project comes at the opportunity cost of another project, and therefore think about their time and the team's time as an investment, and seek opportunities that will bring the biggest return for the customer and the business.
+The Senior Engineer has end-to-end responsibility for projects of increasing complexity that encompass more than their own development. They contribute to the common code bases and standards for the team. They understand the business that their code supports and use this knowledge to influence their task prioritization. They assist in identifying and validating test cases and can identify regression risks in their features. They develop contingency plans around minimizing risks to delivery.
+
+They maintain a laser focus on the customer's needs as they relate to business goals. A Senior Engineer realizes that every project comes at the opportunity cost of another project. Therefore, they think about their time and the team's time as an investment and seek opportunities that will bring the biggest return for the customer and the business.
 
 **Communication:** The Senior Engineer is known outside their core team as a technology leader. They participate extensively in code reviews, and mentor others via code reviews and pairing, as well as frequently presenting at team meetings. They work effectively with non-tech members of the Packback community. They are able to identify problems with requirements and help their team course-correct around these issues.
 
@@ -18,7 +20,7 @@ The Senior Engineer has end-to-end responsibility for projects of increasing com
 
 * Backlog or code quality ownership for one or more domains
 * Recognize impediments to our efficiency as a team ("technical debt"); propose and implement solutions
-* Plan and manage projects (DRI) on the scale of a trimester
+* Plan and manage large projects (measured in months)
 * Identify risks in code, features, and design, and communicate these to the appropriate parties early in the design process
 * Anticipate problems across our codebase and proactively address
 * Provide mentorship to Software Engineers to help them grow in their technical responsibilities
@@ -37,13 +39,14 @@ The Staff Engineer has strategic impact over some combination of a large team, a
 
 * Track metrics to ensure code quality standards
 * Advocate for improvements to product quality, security, and performance
-* Maintains a comprehensive technical knowledge of our entire software system
+* Maintain a comprehensive technical knowledge of our entire software system
 * Assume responsibility for fixing problems / "Always Responsible Individual"
 * Participate in Tier 2 on-call rotations
 * Managing projects across multiple trimesters
 
-Principal Engineer
-This person acts as the "chief architect" for our business. They have significant strategic vision and can take a high-level 3-5 year plan for growth at a business level and translate that into a strategic technology roadmap. They are deeply technically savvy, and their primary job is focusing on the architectural and technology needs to grow the business over the longer-term horizon. The principal engineer is able to plan and execute for tasks across all of Packback's engineering domains (including but not limited to: frontend dev, backend dev, site-reliability-engineering, QA and data analysis)
+## Principal Engineer
+
+This person acts as the "chief architect" for our business. They have significant strategic vision and can take a high-level 3-5 year plan for growth at a business level and translate that into a strategic technology roadmap. They are deeply technically savvy, and their primary job is focusing on the architectural and technological needs to grow the business over the longer-term horizon. The principal engineer is able to plan and execute on tasks across all of Packback's engineering domains (including but not limited to: frontend dev, backend dev, site-reliability-engineering, QA and data analysis)
 
 This level signifies strategic impact over the team. The Principal Engineer deals with very deep technical problems and a long time horizon. The problems that the Principal Engineer is solving are very open-ended even to the leadership who presented the problem.
 

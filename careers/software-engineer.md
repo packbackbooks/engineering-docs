@@ -8,7 +8,7 @@ The goal of the Software Engineer path is to train engineers to master the funda
 
 **Technical Scope:** Although initially an apprentice's project will be assigned, and a more senior resource will be available to assist in all stages of design and implementation, they should be becoming more autonomous by (for example) proactively identifying where and when to write tests, and learning to write idiomatic, clean code.
 
-Engineers at this level should be learning how to identify issues and learn from them to improve their skills. 
+Engineers at this level should be learning how to identify issues and learn from them to improve their skills.
 
 **Communication:** The Apprentice is focused on learning the language of software development, and how to effectively communicate and work in an agile scrum environment. They should be a positive and curious presence on the team, working to improve themselves as engineers every day.
 
@@ -22,11 +22,9 @@ Engineers at this level will have input into the estimation and planning process
 
 **Communication:** They are learning how to communicate well and how to deliver feedback to peers and their manager. When given a task with unclear requirements they are learning how to ask for clarification and how to identify underlying assumptions in design and implementation and how to clarify them. They understand how their work fits into the larger picture for their team, and can work with product and other engineers to help identify conflicting requirements. They will start to participate more in the technical design process, often with guidance from more senior engineers.
 
-By the time an Engineer I is ready to be promoted to Engineer II she will have expertise in Engineering best practice, tools, techniques and a solid introduction to the technologies in their domain.
+By the time an Engineer I is ready to be promoted to Engineer II, they will have expertise in Engineering best practice, tools, techniques and a solid introduction to the technologies in their domain.
 
 ## Engineer II
-
-There will be engineers in this role with a broad spectrum of experience. 
 
 **Technical Ability:** Engineer IIs display solid understanding of core engineering concepts. They are focused on growing as an engineer, learning the team's tools and current processes, and developing productivity skills, as well as a strong background in Engineering best-practices like testing, source control, and agile planning. They review their own code first before submitting a PR; they do not expect others to catch sloppy mistakes for them.
 
