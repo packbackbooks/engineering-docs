@@ -1,5 +1,7 @@
 # Packback Engineering
 
+At Packback, we build technology to take best-practices for building student-centered learning environments out of the realm of theory, and into the classroom. The solutions we build here at Packback are used by over a million students (and growing) and have a real, measurable impact on student learning and critical thinking in the classroom.
+
 ## Careers at Packback
 
 ### Open Positions
@@ -18,4 +20,16 @@ In addition to performance reviews, everyone on the engineering team has [weekly
 
 ## Software Development at Packback
 
-Packback follows agile methodology. Learn about what a typical [sprint at Packback](the-sprint.md) looks like. Learn more about [engineering at Packback](files/engineering-at-packback.pdf)
+Packback Questions is built entirely on open source software using agile methodology. (Learn about a typical [sprint at Packback](the-sprint.md).) Our developers have contributed to the open source projects that we use daily at Packback. Software engineers at Packback are exposed to, and work regularly with tools, including: Angular, Django, Laravel, Docker, and Kubernetes.
+
+Learn more about [engineering at Packback](files/engineering-at-packback.pdf)
+
+### Team Culture and Diversity
+
+Working in the Education Technology space, we need to consider the needs of our audience's wide range of backgrounds and educational experiences. At Packback, it is an ethical necessity to build a diverse and inclusive team. Some of the ways we do that include:
+
+- Flexible vacation, paid parental leave, remote-work friendly with customizable hours, 401k, full health and vision.
+- Remote-first team and accommodating work policies to reach a wider audience.
+- Managers are held accountable to diversity key metrics as a core part of performance reviews.
+- Annual, company-wide inclusion & anti-harassment training.
+- Budget for recruiting support to ensure a diverse and representative candidate pool.
