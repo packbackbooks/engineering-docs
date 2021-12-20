@@ -66,7 +66,7 @@ The engineering director is able to take business direction and explain it to th
 * Manage hiring efforts and provide input on staffing plans
 * Set department mission, vision and OKRs
 * Manage vendor and external relationships
-* <20% direct contributorship with a focus on strategic, high-impact contributions
+* Less than 20% direct contributorship with a focus on strategic, high-impact contributions
 
 ## VP of Engineering
 
