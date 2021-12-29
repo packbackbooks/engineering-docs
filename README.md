@@ -22,6 +22,8 @@ In addition to performance reviews, everyone on the engineering team has [weekly
 
 Packback Questions is built on open-source software using agile methodology (learn about a typical [sprint at Packback](the-sprint.md)). Our developers have contributed to the open-source projects that we use daily. Software engineers at Packback are exposed to, and work regularly with tools, including: Angular, Django, Laravel, Docker, and Kubernetes.
 
+[Here](files/engineering-at-packback.pdf) is a PDF with more information about life on the engineering team at Packback.
+
 <!-- To generate the png from the pdf, issue the following commands on a system with
 imagemagick installed:
 
