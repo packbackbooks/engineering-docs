@@ -19,12 +19,12 @@ Despite the image above looking pretty busy, there are *very few regular meeting
 
 Each team follows this process at a high-level, but adapts the details of each meeting so that they work for them.  More detailed information on *how* to run each meeting is in each team's private documentation.
 
-- [Team sprint planning](#team-sprint-planning)
-- [Daily sync up](#daily-sync-up)
-- [Division sprint planning](#division-sprint-planning)
-- [Team scrum](#team-scrum)
-- [Team retrospective](#team-retrospective)
-- [Sprint retrospective & demo](#sprint-retrospective-and-demo)
+* [Team sprint planning](#team-sprint-planning)
+* [Daily sync up](#daily-sync-up)
+* [Division sprint planning](#division-sprint-planning)
+* [Team scrum](#team-scrum)
+* [Team retrospective](#team-retrospective)
+* [Sprint retrospective & demo](#sprint-retrospective-and-demo)
 
 ### Team sprint planning
 
