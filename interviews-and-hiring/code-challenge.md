@@ -9,7 +9,7 @@ This challenge is performed entirely in your web browser, should take approximat
 - The code challenge invite arrives in a separate email from `remoteinterview.io`. Check your spam folder if you can't see it. If you cannot find the email, contact us and let us know.
 - Once you have started the challenge you cannot pause it, so please be somewhere you can focus for an hour.
 - Please complete the challenge within 7 days of receiving the invitation.
-- You may run your code as many times as you want. Testing and debugging are part of the job. We care more about the final product than getting it right the first time. Use whichever language you prefer. Packback uses JavaScript, PHP, and Python, but we are mainly interested in seeing how you write code.
+- You may run your code as many times as you want. Testing and debugging are part of the job. We care more about the final product than getting it right the first time. Use whichever language you prefer. Packback uses Typescript/JavaScript, PHP, and Python, but we are mainly interested in seeing how you write code.
 - We are primarily interested in the correctness of your answers. If you have time left over after you finished, feel free to spend it adding documentation, testing, and optimizations. However, focus first on getting the correct answer.
 - *Please* do all of your work in the web browser, don't work elsewhere and then copy and paste complete answers into the window. Doing this prevents us from seeing how you did your work.
 
