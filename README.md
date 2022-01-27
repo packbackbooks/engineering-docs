@@ -36,11 +36,11 @@ imagemagick installed:
 
 Working in the Education Technology space, we need to consider the needs of our audience's wide range of backgrounds and educational experiences. Packback believes it is an ethical necessity to build a diverse and inclusive team. Some of the ways we do that include:
 
-- Remote-first team and accommodating work policies to reach a wider audience.
-- Flexible vacation and working policy.
-- 401k with employer match, full health and vision insurance.
-- Education stipend for ongoing training and personal development.
-- 8-12 weeks fully paid parental leave policy (for either parent welcoming a new child through birth or adoption, or to care for a family member in need).
-- Managers are held accountable to diversity key metrics as a core part of performance reviews.
-- Annual, company-wide inclusion & anti-harassment training.
-- Budget for recruiting support to ensure a diverse and representative candidate pool.
+* Remote-first team and accommodating work policies to reach a wider audience.
+* Flexible vacation and working policy.
+* 401k with employer match, full health and vision insurance.
+* Education stipend for ongoing training and personal development.
+* 8-12 weeks fully paid parental leave policy (for either parent welcoming a new child through birth or adoption, or to care for a family member in need).
+* Managers are held accountable to diversity key metrics as a core part of performance reviews.
+* Annual, company-wide inclusion & anti-harassment training.
+* Budget for recruiting support to ensure a diverse and representative candidate pool.
