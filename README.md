@@ -16,7 +16,7 @@ The [engineering ladder at Packback](careers/readme.md) provides a clear progres
 
 Packback conducts performance reviews 3 times a year. In your review, you and your manager will discuss the wins and successes you've had since your last review as well as opportunities for growth and improvement.
 
-In addition to performance reviews, everyone on the engineering team has [weekly 1-on-1s](1-on-1s.md) with their manager.
+In addition to performance reviews, everyone on the engineering team has [weekly 1-on-1s](1-on-1s.md) with their manager. We also have annual conversations about [conscious career growth](career-growth.md) you are progressing towards your long-term career goals.
 
 ## Software Development at Packback
 
