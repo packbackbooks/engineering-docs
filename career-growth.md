@@ -9,7 +9,7 @@ This exercise is designed to help you think through your ideal future. We'll be 
 
 ## How This Works
 
-First, this is **not a performance conversation, there is no way to fail at this**. We already have tools in place to help you get to your next promotion (performance reviews every trimester, annual peer reviews, a regular cadence of opportunities for promotion, and (1-on-1s)[1-on-1s.md] for weekly coaching). This exercise is not about your next promotion. Conscious career growth is about longer timescales, so try and forget the next year for now.
+First, this is **not a performance conversation, there is no way to fail at this**. We already have tools in place to help you get to your next promotion (performance reviews every trimester, annual peer reviews, a regular cadence of opportunities for promotion, and [1-on-1s](1-on-1s.md) for weekly coaching). This exercise is not about your next promotion. Conscious career growth is about longer timescales, so try and forget the next year for now.
 
 **This is not an exercise with an end date**. There is no "up and out." When you reach one career milestone it is simply time to look forward to the next. You'll be exploring the overlap between your aspirations and your career at Packback, and revisiting and tweaking regularly. Going into this meeting, both parties should be in a **directional, aspirational mindset!** Don't be afraid or embarrassed to think big. 
 
@@ -24,9 +24,9 @@ We'll revisit this exercise yearly, and you should expect to check in with your 
 
 ### What would you like to be doing in 2-5 years?
 
-> The above question is vague, purposefully so. You may include some, all, or none of the following: Are there any big skills you want to get that you just don't have now? Do you have a desired job title? Desired responsibilities? 
+> The above question is vague, purposefully so. You may include all, some, or none of the following: Are there any big skills you want to get that you just don't have now? Do you have a desired job title? Desired responsibilities? 
 
-### What are the biggest gaps between your current skills, vision, and expertise and those you would need to achieve the goal above?
+### What are the biggest gaps between your current skills and expertise and those you would need to achieve the goal above?
 
 > One useful way to think about this, if you were submitting your resume to apply for your dream job, what issues might a hiring manager flag up?
 
