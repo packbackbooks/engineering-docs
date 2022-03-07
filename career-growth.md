@@ -11,14 +11,14 @@ This exercise is designed to help you think through your ideal future. We'll be 
 
 First, this is **not a performance conversation, there is no way to fail at this**. We already have tools in place to help you get to your next promotion (performance reviews every trimester, annual peer reviews, a regular cadence of opportunities for promotion, and [1-on-1s](1-on-1s.md) for weekly coaching). This exercise is not about your next promotion. Conscious career growth is about longer timescales, so try and forget the next year for now.
 
-**This is not an exercise with an end date**. There is no "up and out." When you reach one career milestone it is simply time to look forward to the next. You'll be exploring the overlap between your aspirations and your career at Packback, and revisiting and tweaking regularly. Going into this meeting, both parties should be in a **directional, aspirational mindset!** Don't be afraid or embarrassed to think big. 
+**This is not an exercise with an end date**. There is no "up and out." When you reach one career milestone it is simply time to look forward to the next. You'll be exploring the overlap between your aspirations and your career at Packback, and revisiting and tweaking regularly. Going into this meeting, both parties should be in a **directional, aspirational mindset!** Don't be afraid or embarrassed to think big. You may feel confident, unsure, excited or nervous. It doesn't matter, just have ideas that make you feel something.
 
 This exercise is done with two meetings:
 
 * A skip-level meeting with your manager's manager where you fill out the three questions below.
 * A meeting with your manager as part of a standard 1:1, where you tell them what was discussed and talk through how this fits into your day-to-day role.
 
-We'll revisit this exercise yearly, and you should expect to check in with your manager during performance reviews simply to pulse-check. Have answers ready for the first two questions before the first meeting. You may be confident, unsure, excited or nervous. It doesn't matter, just have answers that make you feel something.
+We'll revisit this exercise yearly, and you should expect to check in with your manager during performance reviews simply to pulse-check. Have answers ready for the first two questions before the first meeting.
 
 ## Conscious Career Growth = Timescale + Mission + Goals
 
