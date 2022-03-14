@@ -2,10 +2,10 @@
 
 It used to be the case that people would stay with one employer for their entire careers. This is no longer the case today. It is normal and expected for most people to move from role to role throughout their lives. That said, you are at Packback right now for a reason! Your job with Packback is an alliance that benefits both parties:
 
-* You apply your unique skills, vision and expertise to move Packback forward as a company.
+* You apply your unique skills, vision, and expertise to move Packback forward as a company.
 * Your work at Packback pushes you to learn new skills, develop your vision, and build new expertise.
 
-This exercise is designed to help you think through your ideal future. We'll be looking at the intersection of how your skills, vision and expertise move Packback forward, and how your growth in turn will help Packback to accelerate towards its mission.
+This exercise is designed to help you think through your ideal future. We'll be looking at the intersection of how your skills, vision, and expertise move Packback forward, and how your growth in turn will help Packback to accelerate towards its mission.
 
 ## How This Works
 
