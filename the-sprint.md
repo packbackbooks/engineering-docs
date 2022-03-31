@@ -11,18 +11,17 @@ Engineering teams at Packback divide their work into sprints. To manage this wor
 
 ## What Goes Into a Sprint?
 
-Engineering runs a few standard meetings every sprint.  Some of these meetings are run individually for each team, others are engineering-wide.  The meetings are shown visually in this image, where a sprint begins on the left of the diagram and ends on the right.
+Engineering runs a few standard meetings every sprint. Some of these meetings are run individually for each team, others are engineering-wide. The meetings are shown visually in this image, where a sprint begins on the left of the diagram and ends on the right.
 
 ![A visual representation of the sequencing of meetings in each sprint](sprint_process.drawio.png)
 
-Despite the image above looking pretty busy, there are *very few regular meetings* for engineers. On nine out of ten working days, the only scheduled meeting is a 15-minute sync up with your team members.  To respect the [time of each engineer](http://www.paulgraham.com/makersschedule.html), Packback tries to minimize the number of meetings (all the planning docs together fit into approximately two hours of meetings for most engineers) and also tries to be very deliberate with each meeting. The reason for, and purpose of, each meeting is described in the following sections.
+Despite the image above looking pretty busy, there are *very few regular meetings* for engineers. On nine out of ten working days, the only scheduled meeting is a 15-minute sync up with your team members. To respect the [time of each engineer](http://www.paulgraham.com/makersschedule.html), Packback tries to minimize the number of meetings (all the planning docs together fit into approximately two hours of meetings for most engineers) and also tries to be very deliberate with each meeting. The reason for, and purpose of, each meeting is described in the following sections.
 
-Each team follows this process at a high-level, but adapts the details of each meeting so that they work for them.  More detailed information on *how* to run each meeting is in each team's private documentation.
+Each team follows this process at a high-level, but adapts the details of each meeting so that they work for them. More detailed information on *how* to run each meeting is in each team's private documentation.
 
 * [Team sprint planning](#team-sprint-planning)
 * [Daily sync up](#daily-sync-up)
-* [Division sprint planning](#division-sprint-planning)
-* [Team scrum](#team-scrum)
+* [Product backlog refinement](#product-backlog-refinement)
 * [Team retrospective](#team-retrospective)
 * [Sprint retrospective & demo](#sprint-retrospective-and-demo)
 
@@ -33,13 +32,13 @@ This meeting marks the start of a new sprint and is when you meet with the membe
 * resolve any outstanding questions about planned work
 * create a plan to meet the sprint goals (who will do what?)
 
-**Who participates?** The members of an individual team.  The meeting is facilitated by the team lead.
+**Who participates?** The members of an individual team. The meeting is facilitated by the team lead.
 
 **When does this meeting happen?** At the start of each sprint, directly after the sprint retrospective and demo.
 
 ### Daily sync-up
 
-This meeting (elsewhere referred to as stand up or scrum) should last no more than 15 minutes. It happens daily, at a time chosen to be convenient for the team. The purpose of sync-up is to coordinate within the team (and, if necessary, raise issues that need to be communicated across teams), and to ensure that all team members have the opportunity to ask for help from the team, or proactively raise problems.  Each team member should answer:
+This meeting (elsewhere referred to as stand up or scrum) should last no more than 15 minutes. It happens daily, at a time chosen to be convenient for the team. The purpose of sync-up is to coordinate within the team (and, if necessary, raise issues that need to be communicated across teams), and to ensure that all team members have the opportunity to ask for help from the team, or proactively raise problems. Each team member should answer:
 
 * What did you do yesterday?
 * What will you do today?
@@ -51,35 +50,23 @@ At the end of sync up, we also ask if anyone has noticed any problems or opportu
 
 **When does this meeting happen?** Daily, usually around midday.
 
-### Division sprint planning
+### Product backlog refinement
 
-The Division sprint planning meeting kicks off planning of the next sprint, and happens a few days before sprint end.  This meeting is how Packback's engineering and product teams collaborate to ensure we are working on the *correct* things. The goal of division sprint planning is to:
+The product backlog refinement (PBR) meeting kicks off planning of the next sprint, and happens a few days before sprint end. This meeting is how Packback's engineering and product teams collaborate to ensure the work we're hoping to take into next sprint is well-planned and ready for execution. To do this, cross-team groups of engineers will review tickets selected for development and ensure that they are properly estimated. This involves the following steps: split, clarify, estimate.
 
-* identify which tickets should be estimated next sprint
-* surface questions, problems, and blockers for the selected tickets
-* determine which teams will be responsible for the selected tickets
+1. If a ticket is too large, **split** it into manageable tickets. (If the ticket is sufficiently complex that it cannot be easily split or clarified, work with the backlog owner to determine next steps.)
+2. If a ticket is not sufficiently planned, **clarify** it. (Indicate any blockers, and ensure that the description is detailed enough that any team member could implement it without requiring additional clarification.)
+3. Once a ticket is sufficiently planned, **estimate** it.
 
-As a general heuristic, Packback engineering works on 75% feature improvements on its product, and 25% non-functional work and tech debt.  Although any individual sprint may not hit precisely this balance, as a team we ensure that over longer timescales this 75/25 split holds true.  Division sprint planning is where we make sure we deliver on this commitment.
+Prior to PBR, backlog owners will select tickets for development that they hope to bring into the upcoming sprint. As a general heuristic, Packback engineering works on 75% feature improvements on its product, and 25% non-functional work and tech debt. Although any individual sprint may not hit precisely this balance, as a team we ensure that over longer timescales this 75/25 split holds true.
 
-**Who participates?** Product managers, team leads, and certain backlog owners. Teams may decide who to send to this meeting, such as a project lead, or anybody who has information relevant to upcoming projects, or any backlog owner who has tickets that they would like to be prioritized by a team.
+**Who participates?** All members of our product engineering teams. Backlog owners will hold "office hours," being available to consult and answer questions if needed.
 
-**When does this meeting happen?** Towards the end of the sprint before individual team scrums.
-
-### Team scrum
-
-Tickets are assigned to teams as a part of division sprint planning, so the input to this meeting is a preliminary list of tickets that the team will be tackling. The goal of team scrum is then to:
-
-* estimate tickets selected for next sprint
-* surface questions, problems, and blockers for the selected tickets
-* determine sprint goals for the upcoming sprint
-
-**Who participates?** The members of an individual team.
-
-**When does this meeting happen?** The day before the end of the sprint.
+**When does this meeting happen?** Towards the end but at least one day before the last day of the sprint.
 
 ### Team retrospective
 
-The team retrospective is a meeting held at the end of a sprint used to discuss what went well during the previous sprint cycle and what can be improved for the next sprint.  In more detail, during this meeting each team will:
+The team retrospective is a meeting held at the end of a sprint used to discuss what went well during the previous sprint cycle and what can be improved for the next sprint. In more detail, during this meeting each team will:
 
 * discuss any opportunities for improvement mentioned during the sprint
 * discuss any other problems or opportunities for improvement
@@ -92,10 +79,10 @@ The team retrospective is a meeting held at the end of a sprint used to discuss 
 
 ### Sprint retrospective and demo
 
-This meeting marks the end of a sprint. After a team does its individual retrospective, everybody gets together to recap retrospectives and to make sure everybody has a full understanding of what we all plan to get done this sprint.  This meeting is a key part of ensuring everybody gets to know what is going on with *all* the teams, and to hear about any improvements or problems that other teams are facing.  During the overall retrospective, the teams will
+This meeting marks the end of a sprint. After a team does its individual retrospective, everybody gets together to recap retrospectives and to make sure everybody has a full understanding of what we all plan to get done this sprint. This meeting is a key part of ensuring everybody gets to know what is going on with *all* the teams, and to hear about any improvements or problems that other teams are facing. During the overall retrospective, the teams will
 
 * discuss any opportunities from team retrospectives that would be helpful to discuss at an organizational level
-* give shout outs to teammates for exemplary performance
+* give shout-outs to teammates for exemplary performance
 
 Finally, we wrap up with sprint demos, where each team shows:
 
