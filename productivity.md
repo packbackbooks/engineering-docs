@@ -66,9 +66,10 @@ When a developer’s productivity fluctuates dramatically, this is often a sympt
 
 ### Bus-factor 1 (typically senior)
 
-When a developer is the only person who is capable of performing a task, this is a symptom of knowledge siloing.
+What would happen to the team if you got hit by a bus? When a developer is the only person who is capable of performing a task, this is a symptom of knowledge siloing.
 
 - **Document everything.** Create documentation explaining how a system or process works.
 - **Cross-train other developers.** Stop taking tickets related to siloed knowledge, and instead devote time to pairing with other developers until they are confident to maintain it themselves. Use this to drive improvements to documentation.
 - **Designate an alternate.** Once at least one other team member has been adequately trained on a process, designate an alternate to operate in your absence. Periodically, give them the opportunity to run things to surface any questions.
+- **Grant access and permissions.** Ensure that at least one other person has proper access and permissions to all services and vendor accounts within the organization.
 - **Take a vacation!** Then observe what happens when you go on vacation. Use single points of failure that came up as a way to guide building redundancy.
