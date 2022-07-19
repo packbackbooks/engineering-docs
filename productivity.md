@@ -1,4 +1,8 @@
-# Coaching for productivity
+# Becoming a better engineer
+
+Growth is hard, and becoming a better engineer takes time and practice. When trying to become a better engineer, it's not always clear where you should focus your energy or what you can do to solve the challenges you face. Thankfully, you're not alone. Your peers are facing similar challenges.
+
+This guide addresses common challenges that engineers face during their growth path and offers strategies and behaviors that can help them overcome these challenges.
 
 ## Team productivity
 
