@@ -41,7 +41,7 @@ One of the primary goals of agile methodology is ensuring that the most importan
 Low velocity is usually a symptom of either time management issues or taking tickets that are too difficult.
 
 - Limit work-in-progress. You should never have more than 3 tickets open at a time. Ideally you should only ever 1 in progress and 1-2 in PR. Focus on one thing at a time to reduce the need for context switching.
-- Use the "Prioritizing work" section above to decide what you should be working on.
+- Use the guide for [prioritizing work](#prioritizing-work) to decide what you should be working on.
 - Take small, well-defined tickets. Avoid tickets 3-points or higher, as these usually contain large areas of uncertainty.
 - Before starting any ticket, make a plan for how you will accomplish the ticket. Present that plan to a more senior engineer and get feedback.
   - For larger tasks, repeat this process daily, revising your plan as you go along.
