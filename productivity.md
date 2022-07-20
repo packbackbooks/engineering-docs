@@ -69,7 +69,8 @@ When a developer’s productivity fluctuates dramatically, this is often a sympt
 What would happen to the team if you got hit by a bus? When a developer is the only person who is capable of performing a task, this is a symptom of knowledge siloing.
 
 - **Document everything.** Create documentation explaining how a system or process works.
-- **Cross-train other developers.** Stop taking tickets related to siloed knowledge, and instead devote time to pairing with other developers until they are confident to maintain it themselves. Use this to drive improvements to documentation.
-- **Designate an alternate.** Once at least one other team member has been adequately trained on a process, designate an alternate to operate in your absence. Periodically, give them the opportunity to run things to surface any questions.
+- **Create an ownership rotation.** Train another developer to a service or process. Let them handle the majority of responsibilities related to that service for the next several months. Once a developer gains competency, begin cross-training the next person.
+  - **Cross-train technical skills.** Stop taking tickets related to a service, and instead devote time to pairing with the developer until they are confident to maintain it themselves. Use this to drive improvements to documentation.
+  - **Designate an alternate.** Train an alternate on how to operate a process in your absence. Supervise until you feel comfortable letting them operate it independently. For example, attend a meeting but let them run it; later, stop attending the meeting to ensure they can run it without you.
 - **Grant access and permissions.** Ensure that at least one other person has proper access and permissions to all services and vendor accounts within the organization.
 - **Take a vacation!** Then observe what happens when you go on vacation. Use single points of failure that came up as a way to guide building redundancy.
