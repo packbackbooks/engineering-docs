@@ -42,7 +42,7 @@ Low velocity is usually a symptom of either time management issues or taking tic
 
 - Limit work-in-progress. You should never have more than 3 tickets open at a time. Ideally you should only ever 1 in progress and 1-2 in PR. Focus on one thing at a time to reduce the need for context switching.
 - Use the guide for [prioritizing work](#prioritizing-work) to decide what you should be working on.
-- Take small, well-defined tickets. Avoid tickets 3-points or higher, as these usually contain large areas of uncertainty.
+- Take small, well-defined tickets. Avoid 3-point and limit 2-point tickets, as these usually contain large areas of uncertainty.
 - Before starting any ticket, make a plan for how you will accomplish the ticket. Present that plan to a more senior engineer and get feedback.
   - For larger tasks, repeat this process daily, revising your plan as you go along.
 - If you struggle with rabbit-holing, set a repeating timer for 30 minutes. When the timer goes off, if you don’t feel like you’re making meaningful progress, reach out for help.
