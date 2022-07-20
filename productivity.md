@@ -22,6 +22,7 @@ One of the primary goals of agile methodology is ensuring that the most importan
 
 ### Accurately planning work
 
+- Use retrospectives to identify and solve common problems in estimating tickets.
 - Talk to the product team early and often. Understanding the requirements is key to planning work accurately.
 - Collaborate with the product team if you have ideas for how to improve and/or simplify the work. They are aligned to our goal of delivering high-quality work quickly, so suggestions are welcomed.
 - Some work is very difficult to plan by just looking at it. Make prototypes to help gain a better understanding and identify potential issues.
@@ -33,6 +34,7 @@ One of the primary goals of agile methodology is ensuring that the most importan
 - Work with the backlog owner to reduce the scope and update the DoD.
 - Create additional tickets to encompass the remaining work.
 - Working with the backlog owner, determine whether the additional tickets should be pulled into the current sprint or prioritized for an upcoming sprint.
+- Reflect on how we could have estimated this ticket better. Advocate for ways to improve estimation in sprint retrospective.
 
 ## Troubleshooting individual productivity
 
