@@ -25,7 +25,7 @@ One of the primary goals of agile methodology is ensuring that the most importan
 - Use retrospectives to identify and solve common problems in estimating tickets.
 - Talk to the product team early and often. Understanding the requirements is key to planning work accurately.
 - Collaborate with the product team if you have ideas for how to improve and/or simplify the work. They are aligned to our goal of delivering high-quality work quickly, so suggestions are welcomed.
-- Some work is very difficult to plan by just looking at it. Make prototypes to help gain a better understanding and identify potential issues.
+- Some work is very difficult to plan by just looking at it. Make prototypes or use research tickets to help gain a better understanding of the problem and identify potential issues.
 - Ask: What are some non-obvious interactions that might cause problems?
 - In planning meetings, get everyone to speak, so everyone is able to share their unique perspective. There might be long periods of silence while folks are thinking, and that’s ok.
 
