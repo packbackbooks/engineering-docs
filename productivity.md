@@ -69,6 +69,7 @@ When a developer's productivity fluctuates dramatically, this is often a symptom
 
 - Pair when planning for tickets outside your expertise. Talk through your proposed solutions with another engineer proficient in that area to make sure your plan of attack is sound before devoting too much time to it.
   - The same applies when you get stuck on a problem with multiple possible solutions.
+- Create and protect dedicated focus time. As you gain more responsibility on the team, more demands will be placed on your time. If external demands (late-adds, meetings, etc.) are preventing you from getting dedicated focus time, talk to your manager about strategies (cut back, consolidate, delegate, etc.) to free up time.
 - Learning complex problem-solving takes time; keep at it. Unfortunately, the long term solution to this problem is to just keep practicing until you gain mastery over new skills. Keep challenging yourself, just make sure you don't slip into consistently low velocity.
 
 ### Bus-factor 1 (typically senior)
