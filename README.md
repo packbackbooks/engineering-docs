@@ -2,6 +2,8 @@
 
 At Packback, we build technology to take best-practices for building student-centered learning environments out of the realm of theory, and into the classroom. The solutions we build have been used by over a million students (and growing) and have a real, measurable impact on student learning and critical thinking in the classroom.
 
+More information about Packback product, purpose, values, and what it's like to work here can be found in the [Packback Brand Book](https://resources.packback.co/hubfs/Packback_Brand_Book.pdf).
+
 ## Careers at Packback
 
 ### Open Positions
@@ -16,7 +18,7 @@ The [engineering ladder at Packback](careers/readme.md) provides a clear progres
 
 Packback conducts performance reviews 3 times a year. In your review, you and your manager will discuss the wins and successes you've had since your last review as well as opportunities for growth and improvement.
 
-In addition to performance reviews, everyone on the engineering team has [weekly 1-on-1s](1-on-1s.md) with their manager. We also have annual conversations about [conscious career growth](career-growth.md) you progress towards your long-term career goals.
+In addition to performance reviews, everyone on the engineering team has [weekly 1-on-1s](1-on-1s.md) to talk about [how to be a better engineer](productivity.md). We also have annual conversations about [conscious career growth](career-growth.md) you progress towards your long-term career goals.
 
 ## Software Development at Packback
 
@@ -37,7 +39,7 @@ imagemagick installed:
 Working in the Education Technology space, we need to consider the needs of our audience's wide range of backgrounds and educational experiences. Packback believes it is an ethical necessity to build a diverse and inclusive team. Some of the ways we do that include:
 
 * Remote-first team and accommodating work policies to reach a wider audience.
-* Flexible vacation and working policy.
+* Unlimited paid time off with a minimum of 10 days per year.
 * 401k with employer match, full health and vision insurance.
 * Education stipend for ongoing training and personal development.
 * 8-12 weeks fully paid parental leave policy (for either parent welcoming a new child through birth or adoption, or to care for a family member in need).

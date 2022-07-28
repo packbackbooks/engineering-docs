@@ -9,7 +9,7 @@ This exercise is designed to help you think through your ideal future. We'll be 
 
 ## How This Works
 
-First, this is **not a performance conversation, there is no way to fail at this**. We already have tools in place to help you get to your next promotion (performance reviews every trimester, annual peer reviews, a regular cadence of opportunities for promotion, and [1-on-1s](1-on-1s.md) for weekly coaching). This exercise is not about your next promotion. Conscious career growth is about longer timescales, so try and forget the next year for now.
+First, this is **not a performance conversation, there is no way to fail at this**. We already have tools in place to help you get to your next promotion and [become a better engineer](productivity.md) (performance reviews every trimester, annual peer reviews, a regular cadence of opportunities for promotion, and [1-on-1s](1-on-1s.md)). This exercise is not about your next promotion. Conscious career growth is about longer timescales, so try and forget the next year for now.
 
 **This is not an exercise with an end date**. There is no "up and out." When you reach one career milestone it is simply time to look forward to the next. You'll be exploring the overlap between your aspirations and your career at Packback, and revisiting and tweaking regularly. Going into this meeting, both parties should be in a **directional, aspirational mindset!** Don't be afraid or embarrassed to think big. You may feel confident, unsure, excited or nervous. It doesn't matter, just have ideas that make you feel something.
 
