@@ -34,11 +34,11 @@ An apprentice engineer is focused on learning the basic skills of software engin
 
 **Productivity:** They reliably deliver the work assigned to them in a sprint.
 
-**Impact:** They can take the lead on delivering sprint goals and are capable of planning work that multiple engineers can complete in a single sprint. 
+**Impact:** They can take the lead on delivering sprint goals and are capable of planning work that multiple engineers can complete in a single sprint.
 
-**Communication:** 
+**Communication:**
 
-**Collaboration:** They are mindful of the work that others are doing and can critique or suggest improvements to the proposed plans of others.
+**Collaboration:** They are mindful of the work that others are doing and can critique or suggest improvements to the proposed plans of others. They get help from others when stuck, but are also capable of helping unstick their peers.
 
 ## Engineer III
 
@@ -46,13 +46,13 @@ An engineer III is capable of taking on complex technical problems and coordinat
 
 **Technical Knowledge:** They have robust understanding of their technical specialty, and a working of knowledge of other domains. They can solve most problems in their domain. Their code is well-abstracted and performant as a rule and rarely needs a significant refactor at the PR stage.
 
-**Productivity:** They are capable of delivering a large volume of work regardless of the complexity of the work. 
+**Productivity:** They are capable of delivering a large volume of work regardless of the complexity/uncertainty of the work.
 
-**Impact:** They are able to plan for multiple engineers that will take several sprints to complete. They can identify strategic opportunities and risks with a proposed plan and affect the direction of the team.
+**Impact:** They are able to plan work for multiple engineers that will take several sprints to complete. They can identify strategic opportunities and risks with a proposed plan and affect the direction of the team.
 
 **Communication:** They point out novel opportunities for refactoring during code review.
 
-**Collaboration:** Others on the team reach out for help in their area of expertise.
+**Collaboration:** Others on the team reach out for help in their area of expertise, and they make themselves available.
 
 # Credits
 
