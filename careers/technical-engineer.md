@@ -1,24 +1,24 @@
 # Technical Engineer Path
 
-The technical engineer focuses on individual contributorship and technical leadership
+The technical engineer focuses on individual contributorship and technical leadership. Having mastered the fundamentals of software engineering, senior engineers make contributions that level up a sector (codebase, team, tooling, processes, etc.) of the engineering organization and make the entire organization more effective.
 
 ## Senior Engineer
 
-**Technical Knowledge:** They have deep understanding of their technical specialty, and a working of knowledge of other domains. They take responsibility for the overall health and quality of their domain. Feedback on their code usually revolves around subjective decisions, rather than objective issues.
+**Technical Knowledge:** They have deep understanding of their technical specialty, and a working of knowledge of other domains. They take responsibility for the overall health and quality of their domain. They have responsibilities beyond writing code (managing audits, running on-call rotations, owning a backlog, etc.) to help them manage their domain within the organization. Feedback on their code usually revolves around subjective decisions, rather than objective issues.
 
-**Productivity:** 
+**Productivity:** A senior engineer regularly delivers a high volume of complex, critical work while also balancing other responsibilities or initiatives. ### MORE ###
 
 **Impact:** Beyond just delivering work on our roadmap, a senior engineer helps implement innovations across our codebase and department. They recognize and act upon opportunities that others miss.
 
-**Communication:**
+**Communication:** They are comfortable pushing back against or advocating for initiatives to safeguard the best interests of the organization. When pairing with more junior team members, they guide the conversation by asking questions instead of just providing answers.
 
-**Collaboration:**
+**Collaboration:** They ensure that they do not become a single point of failure for their domain by mentoring and training others. When relevant, they work effectively with others outside the organization (whether in other departments or with vendors).
 
 ## Staff Engineer
 
 The Staff Engineer has strategic impact over some combination of a large team, a very deep technical problem, and/or a long time horizon. The problems that the staff engineer is solving are open-ended.
 
-**Technical Knowledge:** A staff engineer is capable of taking untangling and solving complex problems with high uncertainty outside their own domain.
+**Technical Knowledge:** A staff engineer is capable of taking untangling and solving complex problems with high uncertainty outside their own domain. They can gain context and become effective in a new domain quickly.
 
 **Productivity:**
 
