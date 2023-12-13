@@ -6,11 +6,11 @@ The goal of the Software Engineer path is to train engineers to master the funda
 
 An apprentice engineer is focused on learning the basic skills of software engineering.
 
-**Technical Knowledge:** They have a theoretical understanding of core concepts and best practices, but have limited practical experience with them. Certain key concepts may be unfamiliar to them. They know how to write basic code but may be unfamiliar with many of the tools and techniques needed to make code well-abstracted and performant.
+**Technical Knowledge:** They have a theoretical understanding of core concepts and best practices, but have limited practical experience with them. Certain key concepts may be unfamiliar to them. They know how to write basic code and can identify when their code has broken an existing test, but may be unfamiliar with many of the tools and techniques needed to make code well-abstracted and performant.
 
-**Productivity:** They are capable of completing small, well-defined tasks with help from other engineers. Consulting with teammates before each ticket, they develop a plan to complete it on time.
+**Productivity:** They are capable of completing small, well-defined tasks with help from other engineers. Consulting with teammates before each ticket, they develop a plan to complete it on time. They can develop an initial plan to test their code but may need help completing it.
 
-**Impact:** They take on work that helps the team meet its sprint goals. They focus on learning and participating in the team's process.
+**Impact:** They take on work that helps the team meet its sprint goals. They focus on learning and participating in the team's process, and consistently make their best attempt to follow the styles within each project.
 
 **Communication:** They ask questions to understand how their work fits into the larger context. They proactively communicate whether their work is ahead, on track, or behind. They welcome feedback and apply the feedback they received in other contexts.
 
