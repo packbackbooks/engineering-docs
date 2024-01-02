@@ -1,6 +1,6 @@
 # Technical Engineer Path
 
-The technical engineer focuses on individual contributorship and technical leadership. Having mastered the fundamentals of software engineering, senior engineers make contributions that level up a sector (codebase, team, tooling, processes, etc.) of the engineering organization and make the entire organization more effective.
+The technical engineer focuses on individual contributorship and technical leadership. Their contributions level up the quality, effectiveness and efficiency of the entire organization. Whereas the (software engineer path)[software-engineer.md] focused on mastering the fundamentals of software development using a defined set of criteria, the senior technical path focuses more on projects/efforts that have strategic value for the company while driving technical design and up-leveling their team. As engineers progress down this path, examples of success will be less pre-defined and more dependent on the contextual needs of the business.
 
 ## Senior Engineer
 
@@ -16,15 +16,53 @@ The technical engineer focuses on individual contributorship and technical leade
 
 ## Staff Engineer
 
-**Technical Direction:**
+**Technical Direction:** Technology cannot speak for itself and requires effective advocates on its behalf. Staff engineers successfully advance technology by being pragmatic, deliberate, and focused more on the long-term trend of progress than viewing each individual decision as a make-or-break crisis. Staff engineers essentially act like part-time product manager for technology.
 
-**Engineering Perspective:**
+Concrete examples could include:
+
+- Lead or delegate large projects across teams
+- Oversee cross-team initiatives (a11y, code quality, testing, reliability, etc.)
+- Solve problems that span multiple groups
+
+**Engineering Perspective:** Staff-plus engineers are the folks who will often get unexpectedly pulled into the room where this sort of decision is happening. This gives them the opportunity to inject the engineering context and perspective into a decision while it's still possible to change the outcome. These brief moments of input on critical decisions are unduly impactful and will allow you to inject an engineering perspective where it would otherwise be missed.
+
+Concrete examples could include:
+
+- Your perspective is sought out in critical decisions
+- Actively inserting yourself into these critical moments
+- Advocate for effective solutions and strategies
+- Bringing perspective from other teams or departments
 
 **Mentorship:**
 
+A Staff Engineer is far more likely to change your company's long-term trajectory by growing other engineers than through personal heroics. Their work leads to a well-trained team with multiple experts in each domain.
+
+Effective mentorship is not a checkbox on the career ladder that can be satisfied by simply sharing advice an experience. Staff engineers build an ongoing relationship, understands the context of their mentee, and (sponsors)[https://larahogan.me/blog/what-sponsorship-looks-like/] them.
+
+Concrete examples could include:
+
+- Owning onboarding and continuing education initiatives
+- No bus-factor-one concerns / build redundancy in systems and knowledge
+- Sponsorship
+
 **Exploration:**
 
-**Glue:**
+Our teams are already optimized to incrementally improve. The role of the staff engineer is to be transformative.
+
+We don’t care if you walk to the top of a small hill, we want you to jump to a new, bigger hill.
+
+Any ambiguous, important problem that the company's systems are ill-shaped to address. It might be reducing your infrastructure costs by an order of magnitude. It might be identifying a multi-region strategy that takes six months instead of three years. It might be addressing the sudden realization that your primary database only has three months of remaining disk space, and you can't upgrade to a larger size
+
+This is also related to breadth of what you impact… Should be more than just “I make my part of the codebase better”.
+
+Concrete examples could include:
+
+- Tackle impossible technical problems (high ambiguity, no in-house expertise, poorly defined problems)
+- Reduce existential risk
+- Consider org-level problems (2-3 year growth, org health), beyond just team/project problems
+- Set the technical direction for a department
+
+**Be Glue:**
 
 ---
 
