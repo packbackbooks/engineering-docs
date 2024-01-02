@@ -1,6 +1,6 @@
 # Technical Engineer Path
 
-The technical engineer focuses on individual contributorship and technical leadership. Their contributions level up the quality, effectiveness and efficiency of the entire organization. Whereas the (software engineer path)[software-engineer.md] focused on mastering the fundamentals of software development using a defined set of criteria, the senior technical path focuses more on projects/efforts that have strategic value for the company while driving technical design and up-leveling their team. As engineers progress down this path, examples of success will be less pre-defined and more dependent on the contextual needs of the business.
+The technical engineer focuses on individual contributorship and technical leadership. Their contributions level up the quality, effectiveness and efficiency of the entire organization. Whereas the [software engineer path](software-engineer.md) focused on mastering the fundamentals of software development using a defined set of criteria, the senior technical path focuses more on projects/efforts that have strategic value for the company while driving technical design and up-leveling their team. As engineers progress down this path, examples of success will be less pre-defined and more dependent on the contextual needs of the business.
 
 ## Senior Engineer
 
@@ -37,7 +37,7 @@ Concrete examples could include:
 
 A Staff Engineer is far more likely to change your company's long-term trajectory by growing other engineers than through personal heroics. Their work leads to a well-trained team with multiple experts in each domain.
 
-Effective mentorship is not a checkbox on the career ladder that can be satisfied by simply sharing advice an experience. Staff engineers build an ongoing relationship, understands the context of their mentee, and (sponsors)[https://larahogan.me/blog/what-sponsorship-looks-like/] them.
+Effective mentorship is not a checkbox on the career ladder that can be satisfied by simply sharing advice an experience. Staff engineers build an ongoing relationship, understands the context of their mentee, and [sponsors](https://larahogan.me/blog/what-sponsorship-looks-like/) them.
 
 Concrete examples could include:
 
@@ -64,7 +64,7 @@ Concrete examples could include:
 
 **Be Glue:**
 
-Perhaps most difficult to define, Staff Engineers do (glue work)[https://noidea.dog/glue]. They see the important things that need done and make sure they happen (whether doing it themselves or finding the right person or process for the job).
+Perhaps most difficult to define, Staff Engineers do [glue work](https://noidea.dog/glue). They see the important things that need done and make sure they happen (whether doing it themselves or finding the right person or process for the job).
 
 Concrete examples could include:
 
