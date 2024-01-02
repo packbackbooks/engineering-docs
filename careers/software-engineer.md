@@ -57,7 +57,3 @@ An engineer III is capable of taking on complex technical problems and coordinat
 **Communication:** They point out novel opportunities for refactoring during code review.
 
 **Collaboration:** Others on the team reach out for help in their area of expertise, and they make themselves available.
-
-# Credits
-
-Packback's engineering ladder was inspired by documentation published by [Rent the Runway](https://dresscode.renttherunway.com/blog/ladder) and [Kickstarter](https://kickstarter.engineering/the-kickstarter-engineering-and-data-team-ladder-96996c3b327) on their engineering ladders. Thanks to them for open-sourcing that information.
