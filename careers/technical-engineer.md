@@ -53,7 +53,7 @@ We don’t care if you walk to the top of a small hill, we want you to jump to a
 
 Any ambiguous, important problem that the company's systems are ill-shaped to address. It might be reducing your infrastructure costs by an order of magnitude. It might be identifying a multi-region strategy that takes six months instead of three years. It might be addressing the sudden realization that your primary database only has three months of remaining disk space, and you can't upgrade to a larger size
 
-This is also related to breadth of what you impact… Should be more than just “I make my part of the codebase better”.
+This is also related to breadth of what you impact... Should be more than just "I make my part of the codebase better".
 
 Concrete examples could include:
 
@@ -63,6 +63,19 @@ Concrete examples could include:
 - Set the technical direction for a department
 
 **Be Glue:**
+
+Perhaps most difficult to define, Staff Engineers do (glue work)[https://noidea.dog/glue]. They see the important things that need done and make sure they happen (whether doing it themselves or finding the right person or process for the job).
+
+Concrete examples could include:
+
+- decreased onboarding time
+- got the team to agree on coding standards
+- reviewed designs and architecture decisions
+- made us build the right thing
+- made our customers happier
+- public speaking/writing that raised the organization's profile
+- simplified security and compliance concerns
+
 
 ---
 
