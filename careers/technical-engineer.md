@@ -20,7 +20,7 @@ The technical engineer focuses on individual contributorship and technical leade
 
 Concrete examples could include:
 
-- Lead or delegate large projects across teams
+- Lead or delegate extra-large projects across teams
 - Oversee cross-team initiatives (a11y, code quality, testing, reliability, etc.)
 - Solve problems that span multiple groups
 
@@ -43,6 +43,7 @@ Concrete examples could include:
 
 - Owning onboarding and continuing education initiatives
 - No bus-factor-one concerns / build redundancy in systems and knowledge
+- Providing critical feedback on architectural design documents
 - Sponsorship
 
 **Exploration:**
