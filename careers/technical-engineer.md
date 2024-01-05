@@ -4,6 +4,8 @@ The technical engineer focuses on individual contributorship and technical leade
 
 ## Senior Engineer
 
+The senior engineer displays a mastery of the core competencies of software engineering. Strong technical knowledge and high productivity are table stakes at this level. Growth at this level focuses on developing impact, communication, and collaboration skills in preparation for the staff engineer role.
+
 **Technical Knowledge:** They have deep understanding of their technical specialty, and a working of knowledge of other domains. They take responsibility for the overall health and quality of their domain. They have responsibilities beyond writing code (managing audits, running on-call rotations, owning a backlog, etc.) to help them manage their domain within the organization. Feedback on their code usually revolves around subjective decisions, rather than objective issues. They proactively stay abreast of industry best practices and trends, and have acquired at least one major skill outside of core coding such as monitoring, documentation, integration testing, visual design, performance optimization.
 
 **Productivity:** A senior engineer regularly delivers a high volume of complex, critical work while also balancing other responsibilities or initiatives. The Senior Engineer requires very little oversight beyond high-level direction. They hold a depth of knowledge about the larger software ecosystem that enables them to debug quickly and effectively.
@@ -35,7 +37,7 @@ Concrete examples could include:
 
 **Mentorship:**
 
-A Staff Engineer is far more likely to change your company's long-term trajectory by growing other engineers than through personal heroics. Their work leads to a well-trained team with multiple experts in each domain.
+A Staff Engineer is far more likely to change your company's long-term trajectory by growing other engineers than through personal heroics. Their effort here leads to a well-trained team with multiple experts in each domain.
 
 Effective mentorship is not a checkbox on the career ladder that can be satisfied by simply sharing advice an experience. Staff engineers build an ongoing relationship, understands the context of their mentee, and [sponsors](https://larahogan.me/blog/what-sponsorship-looks-like/) them.
 
@@ -48,20 +50,15 @@ Concrete examples could include:
 
 **Exploration:**
 
-Our teams are already optimized to incrementally improve. The role of the staff engineer is to be *transformative*.
-
-We don’t care if you walk to the top of a small hill, we want you to jump to a new, bigger hill.
-
-Any ambiguous, important problem that the company's systems are ill-shaped to address. It might be reducing your infrastructure costs by an order of magnitude. It might be identifying a multi-region strategy that takes six months instead of three years. It might be addressing the sudden realization that your primary database only has three months of remaining disk space, and you can't upgrade to a larger size
-
-This is also related to breadth of what you impact... Should be more than just "I make my part of the codebase better".
+Our teams are already optimized to incrementally improve. The role of the staff engineer is to be *transformative*. A staff engineer does more than improve their part of the codebase; they solve ambiguous, important problems that the company's current systems are ill-shaped to address. They tackle impossible technical problems (high ambiguity, no in-house expertise, poorly defined). They identify and reduce existential risks. They look beyond their team and project to address organization-level problems (2-3 year growth, org health). They set the technical direction for a department.
 
 Concrete examples could include:
 
-- Tackle impossible technical problems (high ambiguity, no in-house expertise, poorly defined problems)
-- Reduce existential risk
-- Consider org-level problems (2-3 year growth, org health), beyond just team/project problems
-- Set the technical direction for a department
+- Reduce infrastructure costs by an order of magnitude
+- Identify a multi-region strategy that takes six months instead of three years
+- Addressing the sudden realization that your primary database only has three months of remaining disk space, and you can't upgrade to a larger size
+- Altering our CI/CD strategy to improve DORA metrics by 50% across the board
+- Identifying a software vendor that reduces churn and increases revenue by 10%
 
 **Be Glue:**
 
