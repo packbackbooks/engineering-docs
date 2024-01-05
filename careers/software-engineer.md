@@ -24,7 +24,7 @@ An engineer II is capable of taking on well-defined technical problems and manag
 
 **Productivity:** They are capable of completing small, well-defined tasks on time with minimal help from other engineers. They are mindful of their technical limitations and take them into account when planning their work. They focus on reliably delivering quality work on time.
 
-**Impact:** They take on work that helps the team meet its sprint goals. They actively participate in team norms, processes, and expectations. They focus on the work assigned to them in a sprint.
+**Impact:** They take on work that helps the team meet its sprint goals. They actively participate in team norms, processes, and expectations. They focus on delivering the work assigned to them in a sprint.
 
 **Communication:** They ask questions to understand how their work fits into the larger context. They proactively communicate whether their work is ahead, on track, or behind and are especially mindful about communicating when work is taking longer than expected. They welcome feedback and apply the feedback they received in other contexts.
 
@@ -36,24 +36,24 @@ An engineer II is capable of taking on most technical problems and coordinating 
 
 **Technical Knowledge:** They have practical experience implementing the core concepts and best practices of software engineering. They are able to write performant, well-abstracted code with minimal help from other engineers. They are able to solve most problems in their domain, but may need help with complex tasks and tasks outside their domain.
 
-**Productivity:** They reliably deliver the work assigned to them in a sprint. When they encounter a complex problem, they leverage the knowledge of their peers to find a suitable solution, even if it means changing the scope of the work.
+**Productivity:** They reliably deliver the work assigned to them in a sprint. When they encounter a complex problem, they leverage the knowledge of their peers to find a suitable solution, even if it means changing the scope of the work. They review their own code first before submitting a PR; they do not expect others to catch sloppy mistakes for them.
 
-**Impact:** They can take the lead on delivering sprint goals and are capable of planning work that multiple engineers can complete in a single sprint.
+**Impact:** They can take the lead on delivering sprint goals and are capable of independently planning work that multiple engineers can complete in a sprint or two. Instead of just executing on a task as written, they think critically about the problem and ensure that the solution will thoroughly solve the problem.
 
-**Communication:** They are able to effectively review code in their area of expertise and regularly point out opportunities for improvement in the code that they review.
+**Communication:** They are able to effectively review code in their area of expertise and regularly point out opportunities for improvement in the code that they review. They proactively point out concerns with proposed or current sprint work as soon as they see them. They can articulate the tradeoffs of different approaches to solving a problem.
 
-**Collaboration:** They are mindful of the work that others are doing and can critique or suggest improvements to the proposed plans of others. They get help from others when stuck, but are also capable of helping unstick their peers.
+**Collaboration:** They are mindful of the work that others are doing and can critique or suggest improvements to the proposed plans of others. They get help from others when stuck, but are also capable of helping unstick their peers. They are capable of effectively running small to medium-sized projects with regular coaching.
 
 ## Engineer III
 
 An engineer III is capable of taking on complex technical problems and coordinating work spanning several months.
 
-**Technical Knowledge:** They have robust understanding of their technical specialty, and a working of knowledge of other domains. They can solve most problems in their domain. Their code is well-abstracted and performant as a rule and rarely needs a significant refactor at the PR stage.
+**Technical Knowledge:** They have robust understanding of their technical specialty, and a working of knowledge of other domains. They can solve most problems in their domain. Their code is well-abstracted and performant as a rule and rarely needs a significant refactor at the PR stage. If an unexpected issue/bug does arise, they see developing a solution to that problem as their personal responsibility. 
 
-**Productivity:** They are capable of delivering a large volume of work regardless of the complexity/uncertainty of the work.
+**Productivity:** They are capable of delivering a large volume of work regardless of the complexity/uncertainty of the work. They provide reliable estimates for features that take longer than a single sprint to complete. 
 
-**Impact:** They are able to plan work for multiple engineers that will take several sprints to complete. They can identify strategic opportunities and risks with a proposed plan and affect the direction of the team.
+**Impact:** An Engineer III takes ownership over the "how" of the feature they implement with a "buck stops here" attitude. They are able to independently plan work for multiple engineers that will take several sprints to complete. They can identify strategic opportunities and risks with a proposed plan and affect the direction of the team. 
 
-**Communication:** They point out novel opportunities for refactoring during code review.
+**Communication:** They point out novel opportunities for refactoring during code review. They proactively work to minimize or mitigate potential problems before they arise.
 
-**Collaboration:** Others on the team reach out for help in their area of expertise, and they make themselves available.
+**Collaboration:** Others on the team reach out for help in their area of expertise, and they make themselves available. They are capable of effectively running small to medium-sized projects independently, but need coaching to successfully manage large projects.
