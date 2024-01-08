@@ -4,7 +4,7 @@ The technical engineer focuses on individual contributorship and technical leade
 
 ## Senior Engineer
 
-The senior engineer displays a mastery of the core competencies of software engineering. Strong technical knowledge and high productivity are table stakes at this level. Growth at this level focuses on developing impact, communication, and collaboration skills in preparation for the staff engineer role.
+The senior engineer displays a mastery of the core competencies of software engineering. Strong technical knowledge and high productivity are table stakes at this level. Growth opportunities focus on developing impact, communication, and collaboration skills in preparation for the staff engineer role.
 
 **Technical Knowledge:** They have deep understanding of their technical specialty, and a working of knowledge of other domains. They take responsibility for the overall health and quality of their domain. They have responsibilities beyond writing code (managing audits, running on-call rotations, owning a backlog, etc.) to help them manage their domain within the organization. Feedback on their code usually revolves around subjective decisions, rather than objective issues. They proactively stay abreast of industry best practices and trends, and have acquired at least one major skill outside of core coding such as monitoring, documentation, integration testing, visual design, performance optimization.
 
