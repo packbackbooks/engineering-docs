@@ -4,9 +4,9 @@ The goal of the Software Engineer path is to train engineers to master the funda
 
 ## Apprentice
 
-An apprentice engineer is focused on learning the basic skills of software engineering.
+An apprentice engineer focuses on learning the basic skills of software engineering.
 
-**Technical Knowledge:** They have a theoretical understanding of core concepts and best practices, but have limited practical experience with them. Certain key concepts may be unfamiliar to them. They know how to write basic code and can identify when their code has broken an existing test, but may be unfamiliar with many of the tools and techniques needed to make code well-abstracted and performant.
+**Technical Knowledge:** They have a theoretical understanding of core concepts and best practices but have limited practical experience with them. Certain key concepts may be unfamiliar to them. They know how to write basic code and can identify when their code has broken an existing test, but may be unfamiliar with many of the tools and techniques needed to make code well-abstracted and performant.
 
 **Productivity:** They are capable of completing small, well-defined tasks with help from other engineers. Consulting with teammates before each ticket, they develop a plan to complete it on time. They can develop an initial plan to test their code but may need help completing it.
 
@@ -48,9 +48,9 @@ An engineer II is capable of taking on most technical problems and coordinating 
 
 An engineer III is capable of taking on complex technical problems and coordinating work spanning several months.
 
-**Technical Knowledge:** They have robust understanding of their technical specialty, and a working of knowledge of other domains. They can solve most problems in their domain. Their code is well-abstracted and performant as a rule and rarely needs a significant refactor at the PR stage. If an unexpected issue/bug does arise, they see developing a solution to that problem as their personal responsibility. 
+**Technical Knowledge:** They have a robust understanding of their technical specialty, and a working knowledge of other domains. They can solve most problems in their domain. Their code is well-abstracted and performant as a rule and rarely needs a significant refactor at the PR stage. If an unexpected issue/bug does arise, they see developing a solution to that problem as their personal responsibility.
 
-**Productivity:** They are capable of delivering a large volume of work regardless of the complexity/uncertainty of the work. They provide reliable estimates for features that take longer than a single sprint to complete. 
+**Productivity:** They are capable of delivering a large volume of work regardless of the complexity/uncertainty of the work. They provide reliable estimates for features that take longer than a single sprint to complete.
 
 **Impact:** An Engineer III takes ownership over the "how" of the feature they implement with a "buck stops here" attitude. They are able to independently plan work for multiple engineers that will take several sprints to complete. They can identify strategic opportunities and risks with a proposed plan and affect the direction of the team. 
 
