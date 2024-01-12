@@ -26,7 +26,7 @@ An engineer I is capable of taking on well-defined technical problems and managi
 
 **Impact:** They take on work that helps the team meet its sprint goals. They actively participate in team norms, processes, and expectations. They focus on delivering the work assigned to them in a sprint.
 
-**Communication:** They ask questions to understand how their work fits into the larger context. They proactively communicate whether their work is ahead, on track, or behind and are especially mindful about communicating when work is taking longer than expected. They welcome feedback and apply the feedback they received in other contexts.
+**Communication:** They ask questions to understand how their work fits into the larger context. They proactively communicate whether their work is ahead, on track, or behind, and are especially mindful about communicating when work is taking longer than expected. They welcome feedback and apply the feedback they received in other contexts.
 
 **Collaboration:** They pair frequently. They are able to quickly recognize when they are stuck and ask for help. For more complicated tasks, they leverage the knowledge of their peers to plan and execute their work on time. They actively participate in code review and offer feedback to others.
 
