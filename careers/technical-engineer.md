@@ -44,7 +44,7 @@ Effective mentorship is not a checkbox on the career ladder that can be satisfie
 Concrete examples could include:
 
 - Owning onboarding and continuing education initiatives
-- No bus-factor-one concerns / build redundancy in systems and knowledge
+- No bus-factor-one concerns / building redundancy in systems and knowledge
 - Providing critical feedback on architectural design documents
 - Sponsorship
 
