@@ -32,7 +32,7 @@ Concrete examples could include:
 
 - Your perspective is sought out in critical decisions
 - Actively inserting yourself into these critical moments
-- Advocate for effective solutions and strategies
+- Advocating for effective solutions and strategies
 - Bringing perspective from other teams or departments
 
 **Mentorship:**
