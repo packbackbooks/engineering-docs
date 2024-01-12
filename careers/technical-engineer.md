@@ -10,7 +10,7 @@ The senior engineer displays a mastery of the core competencies of software engi
 
 **Productivity:** A senior engineer regularly delivers a high volume of complex, critical work while also balancing other responsibilities or initiatives. The Senior Engineer requires very little oversight beyond high-level direction. They hold a depth of knowledge about the larger software ecosystem that enables them to debug quickly and effectively.
 
-**Impact:** Beyond just delivering work on our roadmap, a senior engineer helps implement innovations across our codebase, product, and department. They recognize and act upon opportunities that others miss. They seek to build objective and well-defended cases for decisions, and develop a reputation among the leadership team that their requests are objective, self-critical and have due-diligence put in place to understand all viable alternatives.
+**Impact:** Beyond just delivering work on our roadmap, a senior engineer helps implement innovations across our codebase, product, and department. They recognize and act upon opportunities that others miss. They seek to build objective and well-defended cases for decisions, and develop a reputation among the leadership team that their requests are objective, self-critical, and have the due-diligence to understand all viable alternatives.
 
 **Communication:** They are comfortable pushing back against or advocating for initiatives to safeguard the best interests of the organization. When pairing with more junior team members, they guide the conversation by asking questions instead of just providing answers. They are able to identify problems with requirements and help their team course-correct around these issues.
 
