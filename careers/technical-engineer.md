@@ -66,13 +66,13 @@ Perhaps most difficult to define, Staff Engineers do [glue work](https://noidea.
 
 Concrete examples could include:
 
-- decreased onboarding time
-- got the team to agree on coding standards
-- reviewed designs and architecture decisions
-- made us build the right thing
-- made our customers happier
-- raised the organization's profile through public speaking/writing
-- simplified security and compliance concerns
+- decreasing onboarding time
+- getting the team to agree on coding standards
+- reviewing designs and architecture decisions
+- making us build the right thing
+- making our customers happier
+- raising the organization's profile through public speaking/writing
+- simplifying security and compliance concerns
 
 ## Principal Engineer
 
