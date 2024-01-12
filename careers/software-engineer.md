@@ -18,7 +18,7 @@ An apprentice engineer focuses on learning the basic skills of software engineer
 
 ## Engineer I
 
-An engineer II is capable of taking on well-defined technical problems and managing their own work each sprint.
+An engineer I is capable of taking on well-defined technical problems and managing their own work each sprint.
 
 **Technical Knowledge:** They have a theoretical understanding of the core concepts and best practices of software engineering and have some practical experience implementing them. They understand the basics of writing performant, well-abstracted code, but need help with complex tasks and tasks outside their specialization.
 
