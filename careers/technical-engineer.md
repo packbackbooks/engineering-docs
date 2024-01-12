@@ -39,7 +39,7 @@ Concrete examples could include:
 
 A Staff Engineer is far more likely to change your company's long-term trajectory by growing other engineers than through personal heroics. Their effort here leads to a well-trained team with multiple experts in each domain.
 
-Effective mentorship is not a checkbox on the career ladder that can be satisfied by simply sharing advice and experience. Staff engineers build an ongoing relationship, understands the context of their mentee, and [sponsors](https://larahogan.me/blog/what-sponsorship-looks-like/) them.
+Effective mentorship is not a checkbox on the career ladder that can be satisfied by simply sharing advice and experience. Staff engineers build an ongoing relationship, understand the context of their mentee, and [sponsor](https://larahogan.me/blog/what-sponsorship-looks-like/) them.
 
 Concrete examples could include:
 
