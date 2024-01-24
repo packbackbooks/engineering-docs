@@ -90,10 +90,10 @@ A Principal Engineer is still acting in a very hands-on role, and as such, they 
 
 **Responsibilities:**
 
-- Define strategic technical initiatives
-- Solve technical problems of the highest scope and complexity for the entire organization
-- Actively seek out and prioritize our toughest technical challenges with a goal of creating significant improvement
-- Define code quality standards and metrics
-- Provide mentorship to Senior and Staff Engineers to help them grow in their technical responsibilities
-- Ensure the safety and reliability of Packback's technology
-- Manage projects across multiple years
+- Defining strategic technical initiatives
+- Solving technical problems of the highest scope and complexity for the entire organization
+- Actively seeking out and prioritize our toughest technical challenges with a goal of creating significant improvement
+- Defining code quality standards and metrics
+- Providing mentorship to Senior and Staff Engineers to help them grow in their technical responsibilities
+- Ensuring the safety and reliability of Packback's technology
+- Managing projects across multiple years
