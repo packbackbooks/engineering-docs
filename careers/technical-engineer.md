@@ -1,12 +1,12 @@
 # Technical Engineer Path
 
-The technical engineer focuses on individual contributorship and technical leadership. Their contributions level up the quality, effectiveness and efficiency of the entire organization. Whereas the [software engineer path](software-engineer.md) focused on mastering the fundamentals of software development using a defined set of criteria, the senior technical path focuses more on projects/efforts that have strategic value for the company while driving technical design and up-leveling their team. As engineers progress down this path, examples of success will be less pre-defined and more dependent on the contextual needs of the business.
+The technical engineer focuses on individual contributorship and technical leadership. Their contributions level up the quality, effectiveness and efficiency of the entire organization. Whereas the [software engineer path](software-engineer.md) focused on mastering the fundamentals of software development using a defined set of criteria, the senior technical path focuses more on projects/efforts that have strategic value for the company while driving technical design and up-leveling their team. Their impact is no longer additive, it is multiplicative. As engineers progress down this path, examples of success will be less pre-defined and more dependent on the contextual needs of the business.
 
 ## Senior Engineer
 
 The senior engineer displays a mastery of the core competencies of software engineering. Strong technical knowledge and high productivity are table stakes at this level. Growth opportunities focus on developing impact, communication, and collaboration skills in preparation for the staff engineer role.
 
-**Technical Knowledge:** They have deep understanding of their technical specialty, and a working of knowledge of other domains. They take responsibility for the overall health and quality of their domain. They have responsibilities beyond writing code (managing audits, running on-call rotations, owning a backlog, etc.) to help them manage their domain within the organization. Feedback on their code usually revolves around subjective decisions, rather than objective issues. They proactively stay abreast of industry best practices and trends, and have acquired at least one major skill outside of core coding such as monitoring, documentation, integration testing, visual design, and performance optimization.
+**Technical Knowledge:** They have deep understanding of their technical specialty, and a working knowledge of other domains. They take responsibility for the overall health and quality of their domain. They have responsibilities beyond writing code (managing audits, running on-call rotations, owning a backlog, etc.) to help them manage their domain within the organization. Feedback on their code usually revolves around subjective decisions, rather than objective issues. They proactively stay abreast of industry best practices and trends, and have acquired at least one major skill outside of core coding such as monitoring, documentation, integration testing, visual design, and performance optimization.
 
 **Productivity:** A senior engineer regularly delivers a high volume of complex, critical work while also balancing other responsibilities or initiatives. The Senior Engineer requires very little oversight beyond high-level direction. They hold a depth of knowledge about the larger software ecosystem that enables them to debug quickly and effectively.
 
@@ -18,7 +18,7 @@ The senior engineer displays a mastery of the core competencies of software engi
 
 ## Staff Engineer
 
-**Technical Direction:** Technology cannot speak for itself and requires effective advocates on its behalf. Staff engineers successfully advance technology by being pragmatic, deliberate, and focused more on the long-term trend of progress than viewing each individual decision as a make-or-break crisis. Staff engineers essentially act like part-time product manager for technology. They are able to get everyone focused on a goal and lay out the steps to get there.
+**Technical Direction:** Technology cannot speak for itself and requires effective advocates on its behalf. Staff engineers successfully advance technology by being pragmatic, deliberate, and focused more on the long-term trend of progress than viewing each individual decision as a make-or-break crisis. Staff engineers essentially act like part-time product managers for technology. They are able to get everyone focused on a goal and lay out the steps to get there.
 
 Concrete examples could include:
 
@@ -39,14 +39,14 @@ Concrete examples could include:
 
 A Staff Engineer is far more likely to change your company's long-term trajectory by growing other engineers than through personal heroics. Their effort here leads to a well-trained team with multiple experts in each domain.
 
-Effective mentorship is not a checkbox on the career ladder that can be satisfied by simply sharing advice and experience. Staff engineers build an ongoing relationship, understand the context of their mentee, and [sponsor](https://larahogan.me/blog/what-sponsorship-looks-like/) them.
+Effective mentorship is not a checkbox on the career ladder that can be satisfied by simply sharing advice and experience. Staff engineers build an ongoing relationship, understand the context of their mentee(s), and [sponsor](https://larahogan.me/blog/what-sponsorship-looks-like/) them.
 
 Concrete examples could include:
 
 - Owning onboarding and continuing education initiatives
 - No bus-factor-one concerns / building redundancy in systems and knowledge
 - Providing critical feedback on architectural design documents
-- Sponsorship
+- Encouraging other engineers to take a specific online training or certification course
 
 **Exploration:**
 
