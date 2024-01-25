@@ -30,7 +30,7 @@ Concrete examples could include:
 
 Concrete examples could include:
 
-- Your perspective is sought out in critical decisions
+- Having your perspective sought out in critical decisions
 - Actively inserting yourself into these critical moments
 - Advocating for effective solutions and strategies
 - Bringing perspective from other teams or departments
@@ -76,17 +76,17 @@ Concrete examples could include:
 
 ## Principal Engineer
 
-This person acts as the "chief architect" for our business. They have significant strategic vision and can take a high-level 3-5 year plan for growth at a business level and translate that into a strategic technology roadmap. They are deeply technically savvy, and their primary job is focusing on the architectural and technological needs to grow the business over the longer-term horizon. The principal engineer is able to plan and execute on tasks across all of Packback's engineering domains (including but not limited to: frontend dev, backend dev, site-reliability-engineering, QA and data analysis)
+This person acts as the "chief architect" for our business. They have significant strategic vision and can take a high-level 3-5 year plan for growth at a business level and translate that into a strategic technology roadmap. They are deeply technically savvy, and their primary job is focusing on the architectural and technological needs to grow the business over the longer-term horizon. The principal engineer is able to plan and execute on tasks across all of Packback's engineering domains (including but not limited to: frontend dev, backend dev, site-reliability-engineering, QA, and data analysis)
 
-This level signifies strategic impact over the team. The Principal Engineer deals with very deep technical problems and a long time horizon. The problems that the Principal Engineer is solving are very open-ended even to the leadership who presented the problem.
+This level signifies strategic impact over the team. The Principal Engineer deals with very deep technical problems and a long time horizon. The problems that the Principal Engineer are solving are very open-ended even to the leadership who presented the problem.
 
 **Technical Ability:** The Principal Engineer is sought-after for technical guidance across the team. They have a track record of anticipating technical problems that will fall out of major products and designing solutions to overcome those problems. They are deeply knowledgeable in major parts of our technology stack and are the technical owner of large parts of our code base. They have a sustained track record of creating major improvements in large business-critical systems around stability, security, performance, and scalability.
 
-A Principal Engineer is still acting in a very hands-on role, and as such, they are a prolific contributor to both core projects at Packback and to side and experimental work. When presented with a complex problem, process or existing system they are consistently able to reduce the complexity in order to get more done with less work. This ability to manage and simplify complexity is the hallmark of the Principal Engineer; working with this person should leave team members feeling like they are going to leave with something significantly better than they came into.
+A Principal Engineer is still acting in a very hands-on role, and as such, they are a prolific contributor both to core projects at Packback and to side and experimental work. When presented with a complex problem, process, or existing system, they are consistently able to reduce the complexity in order to get more done with less work. This ability to manage and simplify complexity is the hallmark of the Principal Engineer; working with this person should have team members feeling like they gained something significantly better than what they came in with.
 
-**Technical Scope:** The Principal Engineer has broad impact across Packback tech. They create architecture that shapes large parts of our business, and ship complex projects including many systems or major pieces of infrastructure. The impact of their work is felt across the team in the quality of the engineering that we produce, the ways we write code, the core libraries that we use, and the underlying design of systems. There are multiple obvious large technical contributions that can be pointed to as originating from this team member.
+**Technical Scope:** The Principal Engineer has broad impact across Packback tech. They create architecture that shapes large parts of our business, and ship complex projects including many systems or major pieces of infrastructure. The impact of their work is felt across the team in the quality of the engineering that we produce, the ways we write code, the core libraries that we use, and the underlying design of systems. They are the origin of multiple obvious and large technical contributions.
 
-**Communication:** The Principal Engineer has excellent abilities to influence without requiring reporting authority to do so. They effectively facilitate cross-team work and are influential far beyond their individual group. They are capable of driving groups of disparate interests to decisions, and clearly communicating and seeing those decisions through to impact. The Principal Engineer is capable of setting short, medium and long term strategic direction for part of the technology stack, identifying areas of critical need based on future growth and developing roadmaps to attack those problems.
+**Communication:** The Principal Engineer has excellent abilities to influence without requiring reporting authority to do so. They effectively facilitate cross-team work and are influential far beyond their individual group. They are capable of driving groups of disparate interests to decisions, and clearly communicating and seeing those decisions through to impact. The Principal Engineer is capable of setting short, medium, and long term strategic direction for parts of the technology stack; identifying areas of critical need based on future growth; and developing roadmaps to attack those problems.
 
 **Responsibilities:**
 
