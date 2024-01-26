@@ -38,7 +38,7 @@ An engineer II is capable of taking on most technical problems and coordinating 
 
 **Productivity:** They reliably deliver the work assigned to them in a sprint. When they encounter a complex problem, they leverage the knowledge of their peers to find a suitable solution, even if it means changing the scope of the work. By the PR stage, their code is well-constructed and largely free of sloppy mistakes.
 
-**Impact:** They routinely take the lead on delivering work critical to meeting the sprint goal and are capable of independently planning work that multiple engineers can complete in a several sprints. Instead of just executing on a task as written, they evaluate the proposed solution and suggest changes to ensure that the solution will thoroughly solve the problem.
+**Impact:** They routinely take the lead on delivering work critical to meeting the sprint goal and are capable of independently planning work that multiple engineers can complete in several sprints. Instead of just executing on a task as written, they evaluate the proposed solution and suggest changes to ensure that the solution will thoroughly solve the problem.
 
 **Communication:** They effectively review code in their area of expertise and regularly point out opportunities for improvement in the code that they review. They proactively point out concerns with proposed or current sprint work as soon as they see them. They can articulate the tradeoffs of different approaches to solving a problem.
 
