@@ -10,7 +10,7 @@ The senior engineer displays a mastery of the core competencies of software engi
 
 **Productivity:** A senior engineer regularly delivers a high volume of complex, critical work while also balancing other responsibilities or initiatives. The Senior Engineer requires very little oversight beyond high-level direction. They hold a depth of knowledge about the larger software ecosystem that enables them to debug quickly and effectively.
 
-**Impact:** Beyond just delivering work on our roadmap, a senior engineer helps implement innovations across our codebase, product, and department. They recognize and act upon opportunities that others miss. They seek to build objective and well-defended cases for decisions, and develop a reputation among the leadership team that their requests are objective, self-critical, and have the due-diligence to understand all viable alternatives.
+**Impact:** Beyond just delivering work on our roadmap, a senior engineer helps implement innovations across our codebase, product, and department. They recognize and act upon opportunities that others miss. They build objective and well-defended cases for decisions, and develop a reputation among the leadership team that their requests are objective, self-critical, and have the due-diligence to understand all viable alternatives.
 
 **Communication:** They are comfortable pushing back against or advocating for initiatives to safeguard the best interests of the organization. When pairing with more junior team members, they guide the conversation by asking questions instead of just providing answers. They are able to identify problems with requirements and help their team course-correct around these issues.
 
@@ -92,7 +92,7 @@ A Principal Engineer is still acting in a very hands-on role, and as such, they 
 
 - Defining strategic technical initiatives
 - Solving technical problems of the highest scope and complexity for the entire organization
-- Actively seeking out and prioritize our toughest technical challenges with a goal of creating significant improvement
+- Actively seeking out and prioritizing our toughest technical challenges to deliver significant improvements
 - Defining code quality standards and metrics
 - Providing mentorship to Senior and Staff Engineers to help them grow in their technical responsibilities
 - Ensuring the safety and reliability of Packback's technology
