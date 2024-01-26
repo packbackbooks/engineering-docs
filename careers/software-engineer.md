@@ -48,11 +48,11 @@ An engineer II is capable of taking on most technical problems and coordinating 
 
 An engineer III is capable of taking on complex technical problems and coordinating work spanning several months.
 
-**Technical Knowledge:** They have a robust understanding of their technical specialty, and a working knowledge of other domains. They can solve most problems in their domain. Their code is well-abstracted and performant as a rule and rarely needs a significant refactor at the PR stage. If an unexpected issue/bug does arise, they see developing a solution to that problem as their personal responsibility.
+**Technical Knowledge:** They have a robust understanding of their technical specialty, and a working knowledge of other domains. They can solve most problems in their domain. Their code is well-abstracted and performant and rarely needs a significant refactor at the PR stage. If an unexpected issue/bug does arise, they see developing a solution to that problem as their personal responsibility.
 
 **Productivity:** They are capable of delivering a large volume of work regardless of the complexity/uncertainty of the work. They provide reliable estimates for features that take longer than a single sprint to complete.
 
-**Impact:** An Engineer III takes ownership over the "how" of the feature they implement with a "buck stops here" attitude. They are able to independently plan work for multiple engineers that will take several sprints to complete. They can identify strategic opportunities and risks with a proposed plan and affect the direction of the team. 
+**Impact:** An Engineer III takes ownership over the "how" of the feature they implement with a "buck stops here" attitude. They can independently plan work for multiple engineers that will take several sprints to complete. They can identify strategic opportunities and risks with a proposed plan and affect the direction of the team. 
 
 **Communication:** They point out novel opportunities for refactoring during code review. They proactively work to minimize or mitigate potential problems before they arise.
 
