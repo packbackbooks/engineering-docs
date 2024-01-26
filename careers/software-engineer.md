@@ -8,13 +8,13 @@ An apprentice engineer focuses on learning the basic skills of software engineer
 
 **Technical Knowledge:** They have a theoretical understanding of core concepts and best practices but have limited practical experience with them. Certain key concepts may be unfamiliar to them. They know how to write basic code and can identify when their code has broken an existing test, but may be unfamiliar with many of the tools and techniques needed to make code well-abstracted and performant.
 
-**Productivity:** They are capable of completing small, well-defined tasks with help from other engineers. Consulting with teammates before each ticket, they develop a plan to complete it on time. They can develop an initial plan to test their code but may need help completing it.
+**Productivity:** They are capable of completing small, well-defined tasks with limited uncertainty with help from other engineers. Consulting with teammates before each ticket, they develop a plan to complete it on time. They can develop an initial plan to test their code but may need help completing it.
 
-**Impact:** They take on work that helps the team meet its sprint goals. They focus on learning and participating in the team's process, and consistently make their best attempt to follow the styles within each project.
+**Impact:** They take on work that helps the team meet its sprint goals. They focus on learning and participating in the team's process, and demonstrate consistent improvement in adhering to the styles within each project.
 
 **Communication:** They ask questions to understand how their work fits into the larger context. They proactively communicate whether their work is ahead, on track, or behind. They welcome feedback and apply the feedback they received in other contexts.
 
-**Collaboration:** They pair frequently. When starting a new task, they develop a plan for how to accomplish it and validate that plan with a teammate. When stuck for more than 30 minutes on a problem, they get help.
+**Collaboration:** They pair frequently. When starting a new task, they develop a plan for how to accomplish it and validate that plan with a teammate. When stuck for more than 30 minutes on a problem, they get help. They actively participate in code review with the help of a teammate.
 
 ## Engineer I
 
@@ -24,11 +24,11 @@ An engineer I is capable of taking on well-defined technical problems and managi
 
 **Productivity:** They are capable of completing small, well-defined tasks on time with minimal help from other engineers. They are mindful of their technical limitations and take them into account when planning their work. They focus on reliably delivering quality work on time. They review their own code first before submitting a PR.
 
-**Impact:** They take on work that helps the team meet its sprint goals. They actively participate in team norms, processes, and expectations. They focus on delivering the work assigned to them in a sprint.
+**Impact:** They deliver well-defined tasks that contribute to the team's sprint goals. They actively participate in team norms, processes, and expectations. They deliver the work assigned to them in a sprint with [###WHAT###] consistency.
 
 **Communication:** They ask questions to understand how their work fits into the larger context. They proactively communicate whether their work is ahead, on track, or behind, and are especially mindful about communicating when work is taking longer than expected. They welcome feedback and apply the feedback they received in other contexts.
 
-**Collaboration:** They pair frequently. They are able to quickly recognize when they are stuck and ask for help. For more complicated tasks, they leverage the knowledge of their peers to plan and execute their work on time. They actively participate in code review and offer feedback to others.
+**Collaboration:** They pair frequently. They are able to quickly recognize when they are stuck and ask for help. For more complicated tasks, they leverage the knowledge of their peers to plan and execute their work on time. They provide constructive feedback in code review and know when they need help constructing meaningful feedback.
 
 ## Engineer II
 
@@ -36,11 +36,11 @@ An engineer II is capable of taking on most technical problems and coordinating 
 
 **Technical Knowledge:** They have practical experience implementing the core concepts and best practices of software engineering. They are able to write performant, well-abstracted code with minimal help from other engineers. They are able to solve most problems in their domain, but may need help with complex tasks and tasks outside their domain.
 
-**Productivity:** They reliably deliver the work assigned to them in a sprint. When they encounter a complex problem, they leverage the knowledge of their peers to find a suitable solution, even if it means changing the scope of the work. By the PR stage, their code is well-constructed; they do not expect others to catch sloppy mistakes for them.
+**Productivity:** They reliably deliver the work assigned to them in a sprint. When they encounter a complex problem, they leverage the knowledge of their peers to find a suitable solution, even if it means changing the scope of the work. By the PR stage, their code is well-constructed and largely free of sloppy mistakes.
 
-**Impact:** They can take the lead on delivering work critical to meeting the sprint goal and are capable of independently planning work that multiple engineers can complete in a sprint or two. Instead of just executing on a task as written, they think critically about the problem and ensure that the solution will thoroughly solve the problem.
+**Impact:** They routinely take the lead on delivering work critical to meeting the sprint goal and are capable of independently planning work that multiple engineers can complete in a sprint or two. Instead of just executing on a task as written, they evaluate the proposed solution and suggest changes to ensure that the solution will thoroughly solve the problem.
 
-**Communication:** They are able to effectively review code in their area of expertise and regularly point out opportunities for improvement in the code that they review. They proactively point out concerns with proposed or current sprint work as soon as they see them. They can articulate the tradeoffs of different approaches to solving a problem.
+**Communication:** They effectively review code in their area of expertise and regularly point out opportunities for improvement in the code that they review. They proactively point out concerns with proposed or current sprint work as soon as they see them. They can articulate the tradeoffs of different approaches to solving a problem.
 
 **Collaboration:** They are mindful of the work that others are doing and can critique or suggest improvements to the proposed plans of others. They get help from others when stuck, but are also capable of helping unstick their peers. They are capable of effectively running small to medium-sized projects with regular coaching.
 
