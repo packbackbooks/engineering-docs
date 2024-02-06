@@ -20,11 +20,11 @@ An apprentice engineer focuses on learning the basic skills of software engineer
 
 An engineer I is capable of taking on well-defined technical problems and managing their own work each sprint.
 
-**Technical Knowledge:** They have a theoretical understanding of the core concepts and best practices of software engineering and have some practical experience implementing them. They understand the basics of writing performant, well-abstracted code, but need help with complex tasks and tasks outside their specialization.
+**Technical Knowledge:** They have a theoretical understanding of the core concepts and best practices of software engineering and have some practical experience implementing them. They understand the basics of writing performant, well-abstracted code, but need help with complex tasks.
 
 **Productivity:** They are capable of completing small, well-defined tasks on time with minimal help from other engineers. They are mindful of their technical limitations and take them into account when planning their work. They focus on reliably delivering quality work on time. They review their own code first before submitting a PR.
 
-**Impact:** They deliver well-defined tasks that contribute to the team's sprint goals. They actively participate in team norms, processes, and expectations. They deliver the work assigned to them in a sprint with [###WHAT###] consistency.
+**Impact:** They deliver well-defined tasks that contribute to the team's sprint goals. They actively participate in team norms, processes, and expectations. They deliver the work assigned to them in a sprint often, and demonstrate improved reliability in doing so over time.
 
 **Communication:** They ask questions to understand how their work fits into the larger context. They proactively communicate whether their work is ahead, on track, or behind, and are especially mindful about communicating when work is taking longer than expected. They welcome feedback and apply the feedback they received in other contexts.
 
@@ -56,4 +56,4 @@ An engineer III is capable of taking on complex technical problems and coordinat
 
 **Communication:** They point out novel opportunities for refactoring during code review. They proactively work to minimize or mitigate potential problems before they arise.
 
-**Collaboration:** Others on the team reach out for help in their area of expertise, and they make themselves available. They are capable of effectively running small to medium-sized projects independently, but need coaching to successfully manage large projects.
+**Collaboration:** Others on the team reach out for help in their area of expertise, and they make themselves available. They are capable of effectively running small to medium-sized projects with little to no coaching, but need help to successfully manage large projects.
