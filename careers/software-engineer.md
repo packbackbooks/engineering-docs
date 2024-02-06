@@ -4,52 +4,56 @@ The goal of the Software Engineer path is to train engineers to master the funda
 
 ## Apprentice
 
-**Technical Ability:** Apprentices are working towards having an understanding of core engineering concepts. They are learning the team's tools and processes and on their way to becoming productive software engineers. Apprentices are working to gain an understanding of the functional project to which they have been assigned, and are actively seeking feedback and growth opportunities to learn about fundamental software engineering concepts such as testing and source control. They consistently make their best attempt to follow the styles within each project, and are willing to update their code based on style feedback from their code reviewer. An apprentice is able to recognize when their code has broken an existing test.
+An apprentice engineer focuses on learning the basic skills of software engineering.
 
-**Technical Scope:** Although initially an apprentice's project will be assigned, and a more senior resource will be available to assist in all stages of design and implementation, they should be becoming more autonomous by (for example) proactively identifying where and when to write tests, and learning to write idiomatic, clean code.
+**Technical Knowledge:** They have a theoretical understanding of core concepts and best practices but have limited practical experience with them. Certain key concepts may be unfamiliar to them. They know how to write basic code and can identify when their code has broken an existing test, but may be unfamiliar with many of the tools and techniques needed to make code well-abstracted and performant.
 
-Engineers at this level should be learning how to identify issues and learn from them to improve their skills.
+**Productivity:** They are capable of completing small, well-defined tasks with limited uncertainty with help from other engineers. Consulting with teammates before each ticket, they develop a plan to complete it on time. They can develop an initial plan to test their code but may need help completing it.
 
-**Communication:** The Apprentice is focused on learning the language of software development, and how to effectively communicate and work in an agile scrum environment. They should be a positive and curious presence on the team, working to improve themselves as engineers every day.
+**Impact:** They take on work that helps the team meet its sprint goals. They focus on learning and participating in the team's process, and demonstrate consistent improvement in adhering to the styles within each project.
+
+**Communication:** They ask questions to understand how their work fits into the larger context. They proactively communicate whether their work is ahead, on track, or behind. They welcome feedback and apply the feedback they received in other contexts.
+
+**Collaboration:** They pair frequently. When starting a new task, they develop a plan for how to accomplish it and validate that plan with a teammate. When stuck for more than 30 minutes on a problem, they get help. They actively participate in code review with the help of a teammate.
 
 ## Engineer I
 
-**Technical Ability:** Engineer Is have a reasonable understanding of core engineering concepts. They have a basic understanding of the team's tools and processes and a broad introduction to engineering best practice and productivity skills. They have gained a high-level understanding of the architecture of the Packback codebase and design patterns, which they are able to demonstrate through their lines of inquiry in sprint planning and design conversations. They have an appreciation and understanding of software engineering techniques like testing, source control and agile planning and are focused on learning more about these domains. When a unit/acceptance test does not yet exist but should, the Engineer I identifies this and arranges time to develop the requisite test.
+An engineer I is capable of taking on well-defined technical problems and managing their own work each sprint.
 
-**Technical Scope:** An Engineer I is capable of taking small well-scoped components of larger projects and features and, with the mentoring and assistance of more senior engineers, completing these tasks in a reasonable time frame. Engineers at this level work with more senior members of the Engineering team to ensure they make steady progress on tasks that are assigned to them. More senior engineers may also help when they are blocked.
+**Technical Knowledge:** They have a theoretical understanding of the core concepts and best practices of software engineering and have some practical experience implementing them. They understand the basics of writing performant, well-abstracted code, but need help with complex tasks.
 
-Engineers at this level will have input into the estimation and planning process, and will collaborate with more senior resources to scope out work and understand the larger risks and ramifications of the changes they are making.
+**Productivity:** They are capable of completing small, well-defined tasks on time with minimal help from other engineers. They are mindful of their technical limitations and take them into account when planning their work. They focus on reliably delivering quality work on time. They review their own code first before submitting a PR.
 
-**Communication:** They are learning how to communicate well and how to deliver feedback to peers and their manager. When given a task with unclear requirements they are learning how to ask for clarification and how to identify underlying assumptions in design and implementation and how to clarify them. They understand how their work fits into the larger picture for their team, and can work with product and other engineers to help identify conflicting requirements. They will start to participate more in the technical design process, often with guidance from more senior engineers.
+**Impact:** They deliver well-defined tasks that contribute to the team's sprint goals. They actively participate in team norms, processes, and expectations. They deliver the work assigned to them in a sprint often, and demonstrate improved reliability in doing so over time.
 
-By the time an Engineer I is ready to be promoted to Engineer II, they will have expertise in Engineering best practice, tools, techniques and a solid introduction to the technologies in their domain.
+**Communication:** They ask questions to understand how their work fits into the larger context. They proactively communicate whether their work is ahead, on track, or behind, and are especially mindful about communicating when work is taking longer than expected. They welcome feedback and apply the feedback they received in other contexts.
+
+**Collaboration:** They pair frequently. They are able to quickly recognize when they are stuck and ask for help. For more complicated tasks, they leverage the knowledge of their peers to plan and execute their work on time. They provide constructive feedback in code review and know when they need help constructing meaningful feedback.
 
 ## Engineer II
 
-**Technical Ability:** Engineer IIs display solid understanding of core engineering concepts. They are focused on growing as an engineer, learning the team's tools and current processes, and developing productivity skills, as well as a strong background in Engineering best-practices like testing, source control, and agile planning. They review their own code first before submitting a PR; they do not expect others to catch sloppy mistakes for them.
+An engineer II is capable of taking on most technical problems and coordinating work spanning several sprints.
 
-**Technical Scope:** Capable of taking well-scoped components from a larger project and completing these tasks in a reasonable time frame. Engineers at this level are assumed to be constantly making steady progress on tasks that are assigned to them and know when to ask for help when they are blocked. They can own their independent small-to-medium features all the way through from technical design to launch. An Engineer II is able to troubleshoot medium to high complexity bugs consistently, and execute the best available solution by assessing available options (quick fix, long term) against the urgency of the issue. An Engineer II does not require reminders or accountability coaching to remind them to write tests.
+**Technical Knowledge:** They have practical experience implementing the core concepts and best practices of software engineering. They are able to write performant, well-abstracted code with minimal help from other engineers. They are able to solve most problems in their domain, but may need help with complex tasks and tasks outside their domain.
 
-Engineer IIs are focused on learning about a specific component or product sub-area and mastering that component.
+**Productivity:** They reliably deliver the work assigned to them in a sprint. When they encounter a complex problem, they leverage the knowledge of their peers to find a suitable solution, even if it means changing the scope of the work. By the PR stage, their code is well-constructed and largely free of sloppy mistakes.
 
-**Estimation:** Accountable and reliable to all commitments which they have taken ownership over, both in-office (by completing all work in the Sprint Backlog that they pulled in during Sprint Planning) and when On-Call (by promptly responding to incoming requests)
+**Impact:** They routinely take the lead on delivering work critical to meeting the sprint goal and are capable of independently planning work that multiple engineers can complete in several sprints. Instead of just executing on a task as written, they evaluate the proposed solution and suggest changes to ensure that the solution will thoroughly solve the problem.
 
-**Communication:** They communicate well and are capable of delivering feedback to peers and their manager. When given a task with unclear requirements they know how to ask for clarification, and ensure that all assumptions are vetted before work starts to reduce the need for re-work. They understand how their work fits into the larger picture for their team, and use this to identify conflicting requirements to their people leader and product manager. As Engineers learn they will start to participate more in the technical design process, often with guidance from senior engineers. Consistently speaks up in Sprint Planning meetings to ensure complete understanding of each work item. An Engineer II actively seeks out knowledge to supplement the team's weak points and areas of interest, including attending meetups, reading books, etc.
+**Communication:** They effectively review code in their area of expertise and regularly point out opportunities for improvement in the code that they review. They proactively point out concerns with proposed or current sprint work as soon as they see them. They can articulate the tradeoffs of different approaches to solving a problem.
 
-Engineer IIs can take a bug or a task, and instead of just executing on the task as written, think critically about the problem and ensure that the issue has been thoroughly resolved by identifying root causes, proactively addressing performance concerns, providing proactive feedback on any product requirements and writing solid tests.
-
-By the time an engineer is ready to be promoted to Engineer III they will have focused on a technology or functional area as their expertise and become capable of mentoring interns and new engineers in these areas.
+**Collaboration:** They are mindful of the work that others are doing and can critique or suggest improvements to the proposed plans of others. They get help from others when stuck, but are also capable of helping unstick their peers. They are capable of effectively running small to medium-sized projects with regular coaching.
 
 ## Engineer III
 
-**Technical Ability:** An Engineer III can consistently be relied on to take on an undefined project through to execution while fully and effectively utilizing the skills and intelligence of the team. An Engineer III has the ability to provide an answer to most technical questions that the team may have, but they make a choice to exercise restraint and ask questions to help other team members reach their own conclusions.
+An engineer III is capable of taking on complex technical problems and coordinating work spanning several months.
 
-**Technical Scope:** An Engineer III takes ownership over the "how" of the feature they implement with a "buck stops here" attitude. If an issue/bug does arise, they see developing a solution to that problem as their personal responsibility. An Engineer III actively seeks out knowledge about the risks and challenges in our business, using that knowledge to guide decision-making
+**Technical Knowledge:** They have a robust understanding of their technical specialty, and a working knowledge of other domains. They can solve most problems in their domain. Their code is well-abstracted and performant and rarely needs a significant refactor at the PR stage. If an unexpected issue/bug does arise, they see developing a solution to that problem as their personal responsibility.
 
-**Estimation:** An Engineer III Is able to provide reliable estimates for features that take longer than a single sprint to complete. Consistently delivers their work within a small margin of error to their original estimation, allowing the team to plan effectively and rely on the timely delivery of work.
+**Productivity:** They are capable of delivering a large volume of work regardless of the complexity/uncertainty of the work. They provide reliable estimates for features that take longer than a single sprint to complete.
 
-**Communication:** An Engineer III recognizes areas in our process that are redundant, manual, slow down work negatively, or allow for untested/unverified code to be pushed to live systems and offers suggestions to improve the process. An Engineer III knows that their work technically never "ends" in the sense that they always have the opportunity to recognize other opportunities for improvement in the platform and work down technical debt. They regularly examine our codebase, use our product, look at our backlog looking for the most important areas where they can make an impact.
+**Impact:** An Engineer III takes ownership over the "how" of the feature they implement with a "buck stops here" attitude. They can independently plan work for multiple engineers that will take several sprints to complete. They can identify strategic opportunities and risks with a proposed plan and affect the direction of the team. 
 
-## Credits
+**Communication:** They point out novel opportunities for refactoring during code review. They proactively work to minimize or mitigate potential problems before they arise.
 
-Packback's engineering ladder was inspired by documentation published by [Rent the Runway](https://dresscode.renttherunway.com/blog/ladder) and [Kickstarter](https://kickstarter.engineering/the-kickstarter-engineering-and-data-team-ladder-96996c3b327) on their engineering ladders. Thanks to them for open-sourcing that information.
+**Collaboration:** Others on the team reach out for help in their area of expertise, and they make themselves available. They are capable of effectively running small to medium-sized projects with little to no coaching, but need help to successfully manage large projects.

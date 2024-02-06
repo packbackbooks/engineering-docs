@@ -1,73 +1,99 @@
 # Technical Engineer Path
 
-The technical engineer focuses on individual contributorship and technical leadership
+The technical engineer focuses on individual contributorship and technical leadership. Their contributions level up the quality, effectiveness and efficiency of the entire organization. Whereas the [software engineer path](software-engineer.md) focused on mastering the fundamentals of software development using a defined set of criteria, the senior technical path focuses more on projects/efforts that have strategic value for the company while driving technical design and up-leveling their team. Their impact is no longer additive, it is multiplicative. As engineers progress down this path, examples of success will be less pre-defined and more dependent on the contextual needs of the business.
 
 ## Senior Engineer
 
-Success as a Senior Engineer is based on their ability to make the team and individuals on the team more effective. A Senior Engineer's technical impact should be focused on using technology to increase the likelihood that Packback succeeds as a business. A Senior Engineer at Packback should be focused on making a 10x impact on the team; which can only be done by empowering others, optimizing processes, and identifying the highest impact projects. They are proficient at project management.
+The senior engineer displays a mastery of the core competencies of software engineering. Strong technical knowledge and high productivity are table stakes at this level. Growth opportunities focus on developing impact, communication, and collaboration skills for Senior Engineers and higher.
 
-**Technical Ability:** The Senior Engineer should be seen as a solid engineer who is a go-to expert in at least one domain (e.g. frontend, backend, data, databases, site-reliability-engineering). The Senior Engineer is capable of owning technical design for projects of moderate complexity (measured in multiple sprints), and understands the trade-offs in creating good software in their area. They hold a depth of knowledge in systems that enables them to debug effectively without issues. In addition to writing consistently high-quality (i.e. largely bug free, idiomatic, performant, secure, architecturally sound, appropriately abstracted) code they proactively stay abreast of industry best practices and trends, and have acquired at least one major skill outside of core coding such as monitoring, documentation, integration testing, visual design, performance optimization.
+**Technical Knowledge:** They have deep understanding of their technical specialty, and a working knowledge of other domains. They take responsibility for the overall health and quality of their domain. They have responsibilities beyond writing code (managing audits, running on-call rotations, owning a backlog, etc.) to help them manage their domain within the organization. Feedback on their code usually revolves around subjective decisions, rather than objective issues. They proactively stay abreast of industry best practices and trends, and have acquired at least one major skill outside of core coding such as monitoring, documentation, integration testing, visual design, and performance optimization.
 
-**Technical Scope:** The Senior Engineer gets a lot done. They are responsible for complex tasks and complete them despite roadblocks, grabbing others for help or insight as necessary. The Senior Engineer requires very little oversight beyond high-level direction; they can take a complex product problem with no defined solution and implement a plan to solve it. The Senior Engineer shows initiative beyond knocking tasks off a list; they are able to identify and suggest areas of future work for themselves or their teams. They seek to build objective and well-defended cases for decisions, and develop a reputation among the leadership team that their requests are objective, self-critical and have due-diligence put in place to understand all viable alternatives. They deliver products with confidence.
+**Productivity:** A senior engineer regularly delivers a high volume of complex, critical work while also balancing other responsibilities or initiatives. The Senior Engineer requires very little oversight beyond high-level direction. They hold a depth of knowledge about the larger software ecosystem that enables them to debug quickly and effectively.
 
-The Senior Engineer has end-to-end responsibility for projects of increasing complexity that encompass more than their own development. They contribute to the common code bases and standards for the team. They understand the business that their code supports and use this knowledge to influence their task prioritization. Senior engineers assist in identifying and validating test cases and can identify regression risks in their features. They develop contingency plans around minimizing risks to delivery.
+**Impact:** Beyond just delivering work on our roadmap, a senior engineer helps implement innovations across our codebase, product, and department. They recognize and act upon opportunities that others miss. They build objective and well-defended cases for decisions, and develop a reputation among the leadership team that their requests are objective, self-critical, and have the due-diligence to understand all viable alternatives.
 
-They maintain a laser focus on the customer's needs as they relate to business goals. A Senior Engineer realizes that every project comes at the opportunity cost of another project. Therefore, they think about their time and the team's time as an investment and seek opportunities that will bring the biggest return for the customer and the business.
+**Communication:** They are comfortable pushing back against or advocating for initiatives to safeguard the best interests of the organization. When pairing with more junior team members, they guide the conversation by asking questions instead of just providing answers. They are able to identify problems with requirements and help their team course-correct around these issues.
 
-**Communication:** The Senior Engineer is known outside their core team as a technology leader. They participate extensively in code reviews, and mentor others via code reviews and pairing, as well as frequently presenting at team meetings. Senior engineers work effectively with non-tech members of the Packback community. They are able to identify problems with requirements and help their team course-correct around these issues.
-
-**Responsibilities:**
-
-* Backlog or code quality ownership for one or more domains
-* Recognize impediments to our efficiency as a team ("technical debt"); propose and implement solutions
-* Plan and manage large projects (measured in months)
-* Identify risks in code, features, and design, and communicate these to the appropriate parties early in the design process
-* Anticipate problems across our codebase and proactively address
-* Provide mentorship to Software Engineers to help them grow in their technical responsibilities
+**Collaboration:** They ensure that they do not become a single point of failure for their domain by mentoring and training others. When relevant, they work effectively with others outside the organization (whether in other departments or with vendors). They are capable of effectively running projects of any size independently.
 
 ## Staff Engineer
 
-The Staff Engineer has strategic impact over some combination of a large team, a very deep technical problem, and/or a long time horizon. The problems that the staff engineer is solving are open-ended.
+**Technical Direction:** Technology cannot speak for itself and requires effective advocates on its behalf. Staff engineers successfully advance technology by being pragmatic, deliberate, and focused more on the long-term trend of progress than viewing each individual decision as a make-or-break crisis. Staff engineers essentially act like part-time product managers for technology. They are able to get everyone focused on a goal and lay out the steps to get there.
 
-**Technical Ability:** The Staff Engineer provides considerable high-level technical guidance across the team. They can usually anticipate and plan for technical problems. They are highly knowledgeable in major parts of our technology stack and are the technical owner of significant components of our code base. Staff engineers have a sustained track record of creating improvements in business-critical systems around stability, performance, and scalability.
+Concrete examples could include:
 
-**Technical Scope:** A Staff Engineer is still acting in a very hands-on role, and as such, they are a prolific contributor to both core projects at Packback and to experimental work. When presented with a complex problem, process or existing system they are able to reduce the complexity in order to get more done with less work. They provide guidance, direction and help colleagues build and produce better outcomes.
+- Lead or delegate extra-large projects across teams
+- Oversee cross-team initiatives (a11y, code quality, testing, reliability, etc.)
+- Solve problems that span multiple groups
 
-**Communication:** The Staff Engineer has strong abilities to influence without requiring reporting authority. They facilitate cross-team work and are influential beyond their individual group. They are capable of driving groups of disparate interests to decisions, and clearly communicating and seeing those decisions through to impact. The staff engineer is a very strong communicator and can simplify technical concepts in a way to explain them to non-technical partners. The staff engineer is capable of setting short to medium term strategic direction for part of the technology stack, identifying areas of critical need based on future growth and developing roadmaps to attack those problems. The Staff Engineer may act as the leader of a technical team but is probably not acting as the people manager of fellow engineers.
+**Engineering Perspective:** Staff-plus engineers are the folks who will often get unexpectedly pulled into the room where critical decisions need to be made (often without the luxury of have time or the full context). This gives them the opportunity to inject the engineering context and perspective into a decision while it's still possible to change the outcome. These brief moments of input on critical decisions are unduly impactful and will allow you to inject an engineering perspective where it would otherwise be missed.
 
-**Responsibilities:**
+Concrete examples could include:
 
-* Track metrics to ensure code quality standards
-* Advocate for improvements to product quality, security, and performance
-* Maintain a comprehensive technical knowledge of our entire software system
-* Assume responsibility for fixing problems / "Always Responsible Individual"
-* Participate in Tier 2 on-call rotations
-* Managing projects across multiple trimesters
+- Having your perspective sought out in critical decisions
+- Actively inserting yourself into these critical moments
+- Advocating for effective solutions and strategies
+- Bringing perspective from other teams or departments
+
+**Mentorship:**
+
+A Staff Engineer is far more likely to change your company's long-term trajectory by growing other engineers than through personal heroics. Their effort here leads to a well-trained team with multiple experts in each domain.
+
+Effective mentorship is not a checkbox on the career ladder that can be satisfied by simply sharing advice and experience. Staff engineers build an ongoing relationship, understand the context of their mentee(s), and [sponsor](https://larahogan.me/blog/what-sponsorship-looks-like/) them.
+
+Concrete examples could include:
+
+- Owning onboarding and continuing education initiatives
+- No bus-factor-one concerns / building redundancy in systems and knowledge
+- Providing critical feedback on architectural design documents
+- Encouraging other engineers to take a specific online training or certification course
+
+**Exploration:**
+
+Our teams are already optimized to incrementally improve. The role of the staff engineer is to be *transformative*. A staff engineer does more than improve their part of the codebase; they solve ambiguous, important problems that the company's current systems are ill-shaped to address. They tackle impossible technical problems (high ambiguity, no in-house expertise, poorly defined). They identify and reduce existential risks. They look beyond their team and project to address organization-level problems (2-3 year growth, org health). They set the technical direction for a department.
+
+Concrete examples could include:
+
+- Reduce infrastructure costs by an order of magnitude
+- Identify a multi-region strategy that takes six months instead of three years
+- Addressing the sudden realization that your primary database only has three months of remaining disk space, and you can't upgrade to a larger size
+- Altering our CI/CD strategy to improve DORA metrics by 50% across the board
+- Identifying a software vendor that reduces churn and increases revenue by 10%
+
+**Be Glue:**
+
+Perhaps most difficult to define, Staff Engineers do [glue work](https://noidea.dog/glue). They see the important things that need done and make sure they happen (whether doing it themselves or finding the right person or process for the job).
+
+Concrete examples could include:
+
+- decreasing onboarding time
+- getting the team to agree on coding standards
+- reviewing designs and architecture decisions
+- making us build the right thing
+- making our customers happier
+- raising the organization's profile through public speaking/writing
+- simplifying security and compliance concerns
 
 ## Principal Engineer
 
-This person acts as the "chief architect" for our business. They have significant strategic vision and can take a high-level 3-5 year plan for growth at a business level and translate that into a strategic technology roadmap. They are deeply technically savvy, and their primary job is focusing on the architectural and technological needs to grow the business over the longer-term horizon. The principal engineer is able to plan and execute on tasks across all of Packback's engineering domains (including but not limited to: frontend dev, backend dev, site-reliability-engineering, QA and data analysis)
+This person acts as the "chief architect" for our business. They have significant strategic vision and can take a high-level 3-5 year plan for growth at a business level and translate that into a strategic technology roadmap. They are deeply technically savvy, and their primary job is focusing on the architectural and technological needs to grow the business over the longer-term horizon. The principal engineer is able to plan and execute on tasks across all of Packback's engineering domains (including but not limited to: frontend dev, backend dev, site-reliability-engineering, QA, and data analysis)
 
-This level signifies strategic impact over the team. The Principal Engineer deals with very deep technical problems and a long time horizon. The problems that the Principal Engineer is solving are very open-ended even to the leadership who presented the problem.
+This level signifies strategic impact over the team. The Principal Engineer deals with very deep technical problems and a long time horizon. The problems that the Principal Engineer are solving are very open-ended even to the leadership who presented the problem.
 
 **Technical Ability:** The Principal Engineer is sought-after for technical guidance across the team. They have a track record of anticipating technical problems that will fall out of major products and designing solutions to overcome those problems. They are deeply knowledgeable in major parts of our technology stack and are the technical owner of large parts of our code base. They have a sustained track record of creating major improvements in large business-critical systems around stability, security, performance, and scalability.
 
-A Principal Engineer is still acting in a very hands-on role, and as such, they are a prolific contributor to both core projects at Packback and to side and experimental work. When presented with a complex problem, process or existing system they are consistently able to reduce the complexity in order to get more done with less work. This ability to manage and simplify complexity is the hallmark of the Principal Engineer; working with this person should leave team members feeling like they are going to leave with something significantly better than they came into.
+A Principal Engineer is still acting in a very hands-on role, and as such, they are a prolific contributor both to core projects at Packback and to side and experimental work. When presented with a complex problem, process, or existing system, they are consistently able to reduce the complexity in order to get more done with less work. This ability to manage and simplify complexity is the hallmark of the Principal Engineer; working with this person should have team members feeling like they gained something significantly better than what they came in with.
 
-**Technical Scope:** The Principal Engineer has broad impact across Packback tech. They create architecture that shapes large parts of our business, and ship complex projects including many systems or major pieces of infrastructure. The impact of their work is felt across the team in the quality of the engineering that we produce, the ways we write code, the core libraries that we use, and the underlying design of systems. There are multiple obvious large technical contributions that can be pointed to as originating from this team member.
+**Technical Scope:** The Principal Engineer has broad impact across Packback tech. They create architecture that shapes large parts of our business, and ship complex projects including many systems or major pieces of infrastructure. The impact of their work is felt across the team in the quality of the engineering that we produce, the ways we write code, the core libraries that we use, and the underlying design of systems. They are the origin of multiple obvious and large technical contributions.
 
-**Communication:** The Principal Engineer has excellent abilities to influence without requiring reporting authority to do so. They effectively facilitate cross-team work and are influential far beyond their individual group. They are capable of driving groups of disparate interests to decisions, and clearly communicating and seeing those decisions through to impact. The Principal Engineer is capable of setting short, medium and long term strategic direction for part of the technology stack, identifying areas of critical need based on future growth and developing roadmaps to attack those problems.
+**Communication:** The Principal Engineer has excellent abilities to influence without requiring reporting authority to do so. They effectively facilitate cross-team work and are influential far beyond their individual group. They are capable of driving groups of disparate interests to decisions, and clearly communicating and seeing those decisions through to impact. The Principal Engineer is capable of setting short, medium, and long term strategic direction for parts of the technology stack; identifying areas of critical need based on future growth; and developing roadmaps to attack those problems.
 
 **Responsibilities:**
 
-* Define strategic technical initiatives
-* Solve technical problems of the highest scope and complexity for the entire organization
-* Actively seek out and prioritize our toughest technical challenges with a goal of creating significant improvement
-* Define code quality standards and metrics
-* Provide mentorship to Senior and Staff Engineers to help them grow in their technical responsibilities
-* Ensure the safety and reliability of Packback's technology
-* Manage projects across multiple years
-
-## Credits
-
-Packback's engineering ladder was inspired by documentation published by [Rent the Runway](https://dresscode.renttherunway.com/blog/ladder) and [Kickstarter](https://kickstarter.engineering/the-kickstarter-engineering-and-data-team-ladder-96996c3b327) on their engineering ladders. Thanks to them for open-sourcing that information.
+- Defining strategic technical initiatives
+- Solving technical problems of the highest scope and complexity for the entire organization
+- Actively seeking out and prioritizing our toughest technical challenges to deliver significant improvements
+- Defining code quality standards and metrics
+- Providing mentorship to Senior and Staff Engineers to help them grow in their technical responsibilities
+- Ensuring the safety and reliability of Packback's technology
+- Managing projects across multiple years
