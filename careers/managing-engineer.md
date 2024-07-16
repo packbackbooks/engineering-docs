@@ -2,6 +2,12 @@
 
 The managing engineer path focuses on team and organizational leadership.
 
+Regardless of the level, all managers are fundamentally measured by whether their team(s):
+
+* build the right thing the right way
+* foster growth, productivity, and excellence
+* operate as a black box while offering full observability
+
 ## Team Lead (Senior Engineer)
 
 A Team Lead is the manager of a small to mid-sized team according to agile principles. They are learning the ropes of people management and are proficient project managers. As a leader they track the team's efficiency and quality of work and work alongside their teammates to ensure timely delivery of high quality work. They should be focused on making a 10x impact on the team; which can only be done by empowering others, optimizing processes, and identifying the highest impact projects.
@@ -13,6 +19,12 @@ A Team Lead is the manager of a small to mid-sized team according to agile princ
 In particular, leaders in this role are capable of identifying the most high-value projects and keeping their team focused on these projects. As part of keeping the team focused, the Team Lead will partner closely with the product team to manage project scope and ensure the technical deliverables are met. In addition to focusing on the performance of their current team, they assist with any hiring and recruitment efforts for their team.
 
 **Communication:** The Team Lead gets support from their manager. They focus on developing skills to manage team members with different skill sets from their own. They communicate expectations clearly to all team members, and they solicit and deliver individual feedback frequently. Additionally, they identify areas of technical debt, do the cost/benefit analysis for resolving this debt and communicate suggested timelines for prioritizing this to the Product and Engineering teams.
+
+**Technical Knowledge:**
+**Productivity:**
+**Impact:**
+**Communication:**
+**Collaboration:**
 
 **Responsibilities:**
 
@@ -35,6 +47,12 @@ The Engineering Manager is the manager of a small to mid-sized team. They are co
 
 **Communication:** The Engineering Manager is an independent manager. They are comfortable managing team members with different skill sets from their own. They communicate expectations clearly to all team members and solicit and deliver individual feedback frequently. Additionally, they identify areas of technical debt, do the cost/benefit analysis for resolving this debt and communicate suggested timelines for prioritizing this to the Product and Engineering teams.
 
+**Technical Knowledge:**
+**Productivity:**
+**Impact:**
+**Communication:**
+**Collaboration:**
+
 **Responsibilities:**
 
 * Everything a team lead does plus...
@@ -48,15 +66,85 @@ The Engineering Manager is the manager of a small to mid-sized team. They are co
 
 The Engineering Director is responsible for functional slices of the Engineering organization. The Engineering Director will typically lead engineering managers across multiple teams.
 
-**Technical Ability:** The Engineering Director is not generally expected to write code on a daily basis, although part of every sprint should be spent in technical work. The Engineering Director should have a strong technical background and spend some of their time researching new technologies and staying abreast of trends in the tech industry. They will be expected to help debug and triage critical systems, and should understand the systems they oversee well enough to perform code reviews and help research problems as needed. They should contribute to the architecture and design efforts primarily by serving as the technically-savvy voice that asks business and product questions of the engineers on their teams, ensuring that the code we are writing matches the product and business needs and can scale appropriately as those needs grow.
+A director maintains healthy teams who reliably deliver high-quality initiatives that further our strategic goals.
 
-**Technical Scope:** The Engineering Director is primarily concerned with ensuring smooth execution of complex deliverables. To that end, they focus on ensuring that we continually evaluate and refine our development/infrastructure standards and processes to create technology that will deliver sustained value to the business. They are responsible for creating high performance, high velocity organizations, measuring and iterating on processes as we grow and evolve as a business. They are the leaders for recruiting, headcount management and planning, career growth and training for the organization. As necessary, directors will manage vendor relationships and participate in the budgeting process.
 
-The impact of an Engineering Director should reach across multiple areas of the technology organization. They are responsible for creating and growing the next generation of leadership and management talent in the organization, helping that talent learn how to balance technical and people management. They are obsessed with creating high-functioning, engaged and motivated organizations, and they are expected to own retention goals in their organization. Additionally, Engineering Directors are responsible for strategically balancing immediate and long-term product/business focused work with technical debt and strategic technical development.
 
-**Communication:** Directors are strong leaders, and set the example for cross-functional collaboration both between Engineering and other areas of the company, and across Engineering teams. The goal of this collaboration is to create both a strategic and tactical roadmap that tackles both business needs, efficiencies and revenue as well as fundamental technology innovation. 
+**Build the right thing the right way**
 
-The engineering director is able to take business direction and explain it to the technology team in a way that inspires and guides them. Directors of Engineering help to create a positive public presence for Packback Engineering and are capable of selling the company to potential candidates.
+* Independently execute and contribute to the strategic vision within their functional area with minimal oversight from VP-level leadership.
+* Proactively identify opportunities and challenges, making strategic decisions that align with the broader goals of the organization.
+* Ensure the efficiency and flexibility of their teams by adapting processes and resources to meet changing demands and opportunities.
+
+**Foster growth, productivity, and excellence**
+
+* Lead and develop their teams with a focus on building management and technical capabilities.
+* Cultivate a positive and productive work environment, promoting a culture of excellence, accountability, and continuous improvement.
+* Implement effective talent management strategies, including recruitment, retention, professional growth, and succession planning.
+* Directly responsible for hiring and assembling a skilled team to meet the strategic and operational needs of their department.
+* Foster a responsive team environment where agility and continuous learning are prioritized to meet business needs.
+
+**Operate as a black box while offering full observability**
+
+* Define clear metrics that measure team and platform effectiveness and align with organizational objectives.
+* Regularly analyze and report these metrics to upper management, providing insights and recommendations for improvements.
+* Ensure continuous improvement in service delivery and user satisfaction.
+* Manage their segment of the platform to meet or exceed committed Service Level Objectives (SLOs) and Service Level Agreements (SLAs).
+* Ensure high availability and performance standards to deliver consistent, reliable service to users.
+
+
+
+
+
+**Strategic Execution and Contribution:**
+
+* Independently execute and contribute to the strategic vision within their functional area with minimal oversight from VP-level leadership.
+* Proactively identify opportunities and challenges, making strategic decisions that align with the broader goals of the organization.
+
+**Metrics Optimization and Reporting:**
+
+* Define clear metrics that measure team and platform effectiveness and align with organizational objectives.
+* Regularly analyze and report these metrics to upper management, providing insights and recommendations for improvements.
+* Ensure continuous improvement in service delivery and user satisfaction.
+
+**Service Level Management:**
+
+* Manage their segment of the platform to meet or exceed committed Service Level Objectives (SLOs) and Service Level Agreements (SLAs).
+* Ensure high availability and performance standards to deliver consistent, reliable service to users.
+
+**People Management and Talent Acquisition:**
+
+* Lead and develop their teams with a focus on building management and technical capabilities.
+* Cultivate a positive and productive work environment, promoting a culture of excellence, accountability, and continuous improvement.
+* Implement effective talent management strategies, including recruitment, retention, professional growth, and succession planning.
+* Directly responsible for hiring and assembling a skilled team to meet the strategic and operational needs of their department.
+
+**Team Efficiency and Flexibility:**
+
+* Ensure the efficiency and flexibility of their teams by adapting processes and resources to meet changing demands and opportunities.
+* Foster a responsive team environment where agility and continuous learning are prioritized to meet business needs.
+
+
+<!-- Platform only -->
+**Systems Deployment and Infrastructure Management:**
+* Focus on developing and maintaining the systems and infrastructure critical to software development and deployment.
+* Ensure that the underlying hardware, networks, and services are scalable, secure, and resilient to meet current and future demands.
+* Streamline deployment processes to enhance operational efficiency and agility.
+* Manage cloud services, ensuring optimal configuration, cost-efficiency, and security.
+* Maintain high system uptime and quickly address any service disruptions or performance issues.
+**Data Architecture and Management:**
+* Provide performant, accurate, and well-architected data to empower product, finance, and revenue teams.
+* Serve as a consultant to teams consuming platform data, advising on optimal use and enhancing data quality and accessibility.
+* Identify and address gaps in data availability and integrity, ensuring data-driven decisions can be made effectively across the organization.
+**AI Platform Development and Team Leadership:**
+* Responsible for building and managing Packback's AI platform, ensuring the implementation follows best practices as outlined by the Director of Product Delivery
+* Lead the dedicated team in deploying innovative, robust, and scalable AI solutions that support organizational goals.
+<!-- Software only -->
+**Roadmap Management and Prioritization:**
+* Oversee the development and prioritization of non-functional roadmaps, balancing long-term infrastructure enhancements with immediate operational needs.
+* Collaborate with other directors and senior leaders to ensure that the roadmap aligns with overall business priorities and technological trends.
+
+
 
 **Responsibilities:**
 
