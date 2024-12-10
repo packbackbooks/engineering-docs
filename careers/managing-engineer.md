@@ -8,7 +8,7 @@ Regardless of the level, all managers are fundamentally measured by whether thei
 * foster growth, productivity, and excellence
 * operate as a black box while offering full observability
 
-## Team Lead (Senior Engineer)
+## Team Lead / Senior Engineer (Manager 4 / IC 5)
 
 A Team Lead manages a team according to agile principles. They are learning the ropes of people management and are proficient project managers. As a leader they track the team's efficiency and quality of work and work alongside their teammates to ensure timely delivery of high quality work. They should be focused on making a 10x impact on the team; which can only be done by empowering others, optimizing processes, and identifying the highest impact projects.
 
@@ -31,7 +31,7 @@ In particular, leaders in this role are capable of identifying the most high-val
 * Project planning and management
 * ~80% direct contributorship
 
-## Engineering Manager
+## Engineering Manager (Manager 5)
 
 The Engineering Manager is a senior manager responsible for running several teams. They are comfortable with management practices and are strong project managers. As a leader they track the team's efficiency and quality of work, and they assist in regularly adjusting processes and timelines to ensure high-quality work is delivered.
 
@@ -52,11 +52,11 @@ The Engineering Manager is a senior manager responsible for running several team
 
 ## Summary of Senior Management Levels
 
-* **CTO:** The CTO is responsible for the management of IT, R&D and data, steering product development, and ensuring the organization's technology aligns with its business goals. 
-* **VP:** They are charged with overseeing the design, development, and delivery of software applications, ensuring platform stability, and owning the technical team's strategic vision.
-* **Director:** The Director of Engineering plays a crucial role in managing the software engineering teams and ensuring that software delivery aligns with the company's and team's strategic objectives. This position focuses on enhancing team efficiency, defining clear metrics for team effectiveness, and managing service level agreements.
+* **CTO (C-Suite):** The CTO is responsible for the management of IT, R&D and data, steering product development, and ensuring the organization's technology aligns with its business goals.
+* **VP (Executive VP):** They are charged with overseeing the design, development, and delivery of software applications, ensuring platform stability, and owning the technical team's strategic vision.
+* **Director (Manager 7):** The Director of Engineering plays a crucial role in managing the software engineering teams and ensuring that software delivery aligns with the company's and team's strategic objectives. This position focuses on enhancing team efficiency, defining clear metrics for team effectiveness, and managing service level agreements.
 
-## Director of Engineering
+## Director of Engineering (Manager 7)
 
 The Director of Engineering plays a crucial role in managing the software engineering teams and ensuring that software delivery aligns with the company's strategic objectives. This position focuses on enhancing team efficiency, defining clear metrics for team effectiveness, and managing service level agreements.
 
@@ -97,7 +97,7 @@ The Director of Engineering plays a crucial role in managing the software engine
 * Manage vendor and external relationships
 * Less than 20% direct contributorship with a focus on strategic, high-impact contributions
 
-## VP of Engineering
+## VP of Engineering (Executives VPs)
 
 The VP of Software Development is essential for fostering a culture of innovation and operational excellence within the development teams. They are charged with overseeing the design, development, and delivery of software applications, ensuring platform stability, and owning the technical team's strategic technology vision.
 
@@ -131,7 +131,7 @@ The VP of Software Development is essential for fostering a culture of innovatio
 * Implement rigorous testing and validation processes to ensure the functionality and security of applications.
 * Continuously monitor and update compliance and quality assurance standards in response to evolving industry trends and regulatory changes.
 
-## CTO
+## CTO (C-Suite)
 
 The CTO is responsible for the overarching management of IT, R&D and data, steering product development, and ensuring the organization's technology aligns with its business goals. The CTO is also responsible for driving transformative, "step-function", changes in their team.  This role not only involves leading internal and external AI strategies but also acting as the public face of the company's technological initiatives.
 

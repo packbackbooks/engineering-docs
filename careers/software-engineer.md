@@ -2,7 +2,7 @@
 
 The goal of the Software Engineer path is to train engineers to master the fundamentals of software engineering and prepare them to succeed in one of the senior pathways.
 
-## Apprentice
+## Apprentice (IC 1)
 
 An apprentice engineer focuses on learning the basic skills of software engineering.
 
@@ -16,7 +16,7 @@ An apprentice engineer focuses on learning the basic skills of software engineer
 
 **Collaboration:** They pair frequently. When starting a new task, they develop a plan for how to accomplish it and validate that plan with a teammate. When stuck for more than 30 minutes on a problem, they get help. They actively participate in code review with the help of a teammate.
 
-## Engineer I
+## Engineer I (IC 2)
 
 An engineer I is capable of taking on well-defined technical problems and managing their own work each sprint.
 
@@ -30,7 +30,7 @@ An engineer I is capable of taking on well-defined technical problems and managi
 
 **Collaboration:** They pair frequently. They are able to quickly recognize when they are stuck and ask for help. For more complicated tasks, they leverage the knowledge of their peers to plan and execute their work on time. They provide constructive feedback in code review and know when they need help constructing meaningful feedback.
 
-## Engineer II
+## Engineer II (IC 3a)
 
 An engineer II is capable of taking on most technical problems and coordinating work spanning several sprints.
 
@@ -44,7 +44,7 @@ An engineer II is capable of taking on most technical problems and coordinating 
 
 **Collaboration:** They are mindful of the work that others are doing and can critique or suggest improvements to the proposed plans of others. They get help from others when stuck, but are also capable of helping unstick their peers. They are capable of effectively running small to medium-sized projects with regular coaching.
 
-## Engineer III
+## Engineer III (IC 4a)
 
 An engineer III is capable of taking on complex technical problems and coordinating work spanning several months.
 
@@ -52,7 +52,7 @@ An engineer III is capable of taking on complex technical problems and coordinat
 
 **Productivity:** They are capable of delivering a large volume of work regardless of the complexity/uncertainty of the work. They provide reliable estimates for features that take longer than a single sprint to complete.
 
-**Impact:** An Engineer III takes ownership over the "how" of the feature they implement with a "buck stops here" attitude. They can independently plan work for multiple engineers that will take several sprints to complete. They can identify strategic opportunities and risks with a proposed plan and affect the direction of the team. 
+**Impact:** An Engineer III takes ownership over the "how" of the feature they implement with a "buck stops here" attitude. They can independently plan work for multiple engineers that will take several sprints to complete. They can identify strategic opportunities and risks with a proposed plan and affect the direction of the team.
 
 **Communication:** They point out novel opportunities for refactoring during code review. They proactively work to minimize or mitigate potential problems before they arise.
 
