@@ -54,15 +54,15 @@ The Engineering Manager is a senior manager responsible for running several team
 
 * **CTO (C-Suite):** The CTO is responsible for the management of IT, R&D and data, steering product development, and ensuring the organization's technology aligns with its business goals.
 * **VP (Executive VP):** They are charged with overseeing the design, development, and delivery of software applications, ensuring platform stability, and owning the technical team's strategic vision.
-* **Director (Manager 7):** The Director of Engineering plays a crucial role in managing the software engineering teams and ensuring that software delivery aligns with the company's and team's strategic objectives. This position focuses on enhancing team efficiency, defining clear metrics for team effectiveness, and managing service level agreements.
+* **Director (Manager 7):** The Director of Engineering plays a crucial role in managing the software engineering teams and ensuring that software delivery aligns with the company's and team's long-term objectives. This position focuses on enhancing team efficiency, defining clear metrics for team effectiveness, and managing service level agreements.
 
 ## Director of Engineering (Manager 7)
 
-The Director of Engineering plays a crucial role in managing the software engineering teams and ensuring that software delivery aligns with the company's strategic objectives. This position focuses on enhancing team efficiency, defining clear metrics for team effectiveness, and managing service level agreements.
+The Director of Engineering plays a crucial role in managing the software engineering teams and ensuring that software delivery aligns with the company's and team's long-term objectives. This position focuses on enhancing team efficiency, defining clear metrics for team effectiveness, and managing service level agreements.
 
 **Strategic Execution and Contribution:**
 
-* Independently execute and contribute to the strategic vision within their functional area with minimal oversight from VP-level leadership.
+* Independently execute and contribute to the long-term vision within their functional area with minimal oversight from VP-level leadership.
 * Proactively identify opportunities and challenges, making strategic decisions that align with the broader goals of the organization.
 * Oversee the development and prioritization of non-functional roadmaps, balancing long-term infrastructure enhancements with immediate operational needs.
 * Collaborate with other directors and senior leaders to ensure that the roadmap aligns with overall business priorities and technological trends.
@@ -89,6 +89,7 @@ The Director of Engineering plays a crucial role in managing the software engine
 
 **Responsibilities:**
 
+* Deliver roadmap projects on time, within budget, and in alignment with quality standards
 * Run of a group of teams focused on a sector of the business
 * Define relevant performance metrics, agile project management skills
 * Manage team leads and engineering managers
