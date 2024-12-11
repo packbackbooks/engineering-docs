@@ -100,7 +100,7 @@ The Director of Engineering plays a crucial role in managing the software engine
 
 ## VP of Engineering (Executives VPs)
 
-The VP of Software Development is essential for fostering a culture of innovation and operational excellence within the development teams. They are charged with overseeing the design, development, and delivery of software applications, ensuring platform stability, and owning the technical team's strategic technology vision.
+The VP of Engineering is essential for fostering a culture of innovation and operational excellence within the development teams. They are charged with overseeing the design, development, and delivery of software applications, ensuring platform stability, and owning the technical team's strategic technology vision.
 
 **Leadership and Team Management:**
 
