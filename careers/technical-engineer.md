@@ -2,7 +2,7 @@
 
 The technical engineer focuses on individual contributorship and technical leadership. Their contributions level up the quality, effectiveness and efficiency of the entire organization. Whereas the [software engineer path](software-engineer.md) focused on mastering the fundamentals of software development using a defined set of criteria, the senior technical path focuses more on projects/efforts that have strategic value for the company while driving technical design and up-leveling their team. Their impact is no longer additive, it is multiplicative. As engineers progress down this path, examples of success will be less pre-defined and more dependent on the contextual needs of the business.
 
-## Senior Engineer
+## Senior Engineer (IC 5)
 
 The senior engineer displays a mastery of the core competencies of software engineering. Strong technical knowledge and high productivity are table stakes at this level. Growth opportunities focus on developing impact, communication, and collaboration skills for Senior Engineers and higher.
 
@@ -16,7 +16,7 @@ The senior engineer displays a mastery of the core competencies of software engi
 
 **Collaboration:** They ensure that they do not become a single point of failure for their domain by mentoring and training others. When relevant, they work effectively with others outside the organization (whether in other departments or with vendors). They are capable of effectively running projects of any size independently.
 
-## Staff Engineer
+## Staff Engineer (IC 6)
 
 **Technical Direction:** Technology cannot speak for itself and requires effective advocates on its behalf. Staff engineers successfully advance technology by being pragmatic, deliberate, and focused more on the long-term trend of progress than viewing each individual decision as a make-or-break crisis. Staff engineers essentially act like part-time product managers for technology. They are able to get everyone focused on a goal and lay out the steps to get there.
 
@@ -74,7 +74,7 @@ Concrete examples could include:
 - raising the organization's profile through public speaking/writing
 - simplifying security and compliance concerns
 
-## Principal Engineer
+## Principal Engineer (IC 7)
 
 This person acts as the "chief architect" for our business. They have significant strategic vision and can take a high-level 3-5 year plan for growth at a business level and translate that into a strategic technology roadmap. They are deeply technically savvy, and their primary job is focusing on the architectural and technological needs to grow the business over the longer-term horizon. The principal engineer is able to plan and execute on tasks across all of Packback's engineering domains (including but not limited to: frontend dev, backend dev, site-reliability-engineering, QA, and data analysis)
 

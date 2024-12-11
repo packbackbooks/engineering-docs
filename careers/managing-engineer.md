@@ -2,13 +2,19 @@
 
 The managing engineer path focuses on team and organizational leadership.
 
-## Team Lead (Senior Engineer)
+Regardless of the level, all managers are fundamentally measured by whether their team(s):
 
-A Team Lead is the manager of a small to mid-sized team according to agile principles. They are learning the ropes of people management and are proficient project managers. As a leader they track the team's efficiency and quality of work and work alongside their teammates to ensure timely delivery of high quality work. They should be focused on making a 10x impact on the team; which can only be done by empowering others, optimizing processes, and identifying the highest impact projects.
+* build the right thing the right way
+* foster growth, productivity, and excellence
+* operate as a black box while offering full observability
 
-**Technical Ability:** Still primarily focused on writing code, they should start identifying bottlenecks in the process and roadblocks to success for their team and clearing these roadblocks. They are capable of owning technical design for projects of moderate complexity (measured in multiple sprints). They hold a depth of knowledge in systems that enables them to debug those systems effectively without issues. In addition to writing consistently high-quality (i.e. largely bug free, idiomatic, performant, secure, architecturally sound, appropriately abstracted) code they are aware of industry best practices and trends, and have acquired at least one major skill outside of core coding such as monitoring, documentation, integration testing, visual design, performance optimization.
+## Team Lead / Senior Engineer (Manager 4 / IC 5)
 
-**Technical Scope:** They are responsible for complex tasks and complete them despite roadblocks, grabbing others for help or insight as necessary. The Team Lead requires very little oversight beyond high-level direction; they can take a complex user story, break it down into sub-tasks, and complete their sub-tasks with relative ease.
+A Team Lead manages a team according to agile principles. They are learning the ropes of people management and are proficient project managers. As a leader they track the team's efficiency and quality of work and work alongside their teammates to ensure timely delivery of high quality work. They should be focused on making a 10x impact on the team; which can only be done by empowering others, optimizing processes, and identifying the highest impact projects.
+
+**Technical Ability:** Still primarily focused on writing code, they should start identifying bottlenecks in the process and roadblocks to success for their team and clearing these roadblocks. They are capable of owning technical design for projects of moderate complexity. They hold a depth of knowledge in systems that enables them to debug those systems effectively without issues. In addition to writing consistently high-quality (i.e. largely bug free, idiomatic, performant, secure, architecturally sound, appropriately abstracted) code they are aware of industry best practices and trends, and have acquired at least one major skill outside of their core area expertise such as monitoring, documentation, integration testing, visual design, performance optimization.
+
+**Technical Scope:** They are responsible for complex tasks and complete them despite roadblocks, grabbing others for help or insight as necessary. The Team Lead requires very little oversight beyond high-level direction; they can take a complex user story, break it down into the necessary tasks, and complete it with relative ease.
 
 In particular, leaders in this role are capable of identifying the most high-value projects and keeping their team focused on these projects. As part of keeping the team focused, the Team Lead will partner closely with the product team to manage project scope and ensure the technical deliverables are met. In addition to focusing on the performance of their current team, they assist with any hiring and recruitment efforts for their team.
 
@@ -25,9 +31,9 @@ In particular, leaders in this role are capable of identifying the most high-val
 * Project planning and management
 * ~80% direct contributorship
 
-## Engineering Manager
+## Engineering Manager (Manager 5)
 
-The Engineering Manager is the manager of a small to mid-sized team. They are comfortable with management practice and are strong project managers. As a leader they ensure that they are tracking the team's efficiency and quality of work, they assist in regularly adjusting processes and timelines to ensure high quality work is delivered.
+The Engineering Manager is a senior manager responsible for running several teams. They are comfortable with management practices and are strong project managers. As a leader they track the team's efficiency and quality of work, and they assist in regularly adjusting processes and timelines to ensure high-quality work is delivered.
 
 **Technical Ability:** The Engineering Manager will spend less time writing code, but there is an expectation that they still engage in some technical deliverables such as bug fixes and small features, without blocking or slowing down the progress of their team. More than writing code, they hold responsibility for identifying bottlenecks in the process and roadblocks to success for their team. They work actively to clear these roadblocks.
 
@@ -44,22 +50,46 @@ The Engineering Manager is the manager of a small to mid-sized team. They are co
 * Implement major process improvements
 * 20-80% direct contributorship
 
-## Director of Engineering
+## Summary of Senior Management Levels
 
-The Engineering Director is responsible for functional slices of the Engineering organization. The Engineering Director will typically lead engineering managers across multiple teams.
+* **CTO (C-Suite):** The CTO is responsible for the management of IT, R&D and data, steering product development, and ensuring the organization's technology aligns with its business goals.
+* **VP (Executive VP):** They are charged with overseeing the design, development, and delivery of software applications, ensuring platform stability, and owning the technical team's strategic vision.
+* **Director (Manager 7):** The Director of Engineering plays a crucial role in managing the software engineering teams and ensuring that software delivery aligns with the company's and team's long-term objectives. This position focuses on enhancing team efficiency, defining clear metrics for team effectiveness, and managing service level agreements.
 
-**Technical Ability:** The Engineering Director is not generally expected to write code on a daily basis, although part of every sprint should be spent in technical work. The Engineering Director should have a strong technical background and spend some of their time researching new technologies and staying abreast of trends in the tech industry. They will be expected to help debug and triage critical systems, and should understand the systems they oversee well enough to perform code reviews and help research problems as needed. They should contribute to the architecture and design efforts primarily by serving as the technically-savvy voice that asks business and product questions of the engineers on their teams, ensuring that the code we are writing matches the product and business needs and can scale appropriately as those needs grow.
+## Director of Engineering (Manager 7)
 
-**Technical Scope:** The Engineering Director is primarily concerned with ensuring smooth execution of complex deliverables. To that end, they focus on ensuring that we continually evaluate and refine our development/infrastructure standards and processes to create technology that will deliver sustained value to the business. They are responsible for creating high performance, high velocity organizations, measuring and iterating on processes as we grow and evolve as a business. They are the leaders for recruiting, headcount management and planning, career growth and training for the organization. As necessary, directors will manage vendor relationships and participate in the budgeting process.
+The Director of Engineering plays a crucial role in managing the software engineering teams and ensuring that software delivery aligns with the company's and team's long-term objectives. This position focuses on enhancing team efficiency, defining clear metrics for team effectiveness, and managing service level agreements.
 
-The impact of an Engineering Director should reach across multiple areas of the technology organization. They are responsible for creating and growing the next generation of leadership and management talent in the organization, helping that talent learn how to balance technical and people management. They are obsessed with creating high-functioning, engaged and motivated organizations, and they are expected to own retention goals in their organization. Additionally, Engineering Directors are responsible for strategically balancing immediate and long-term product/business focused work with technical debt and strategic technical development.
+**Strategic Execution and Contribution:**
 
-**Communication:** Directors are strong leaders, and set the example for cross-functional collaboration both between Engineering and other areas of the company, and across Engineering teams. The goal of this collaboration is to create both a strategic and tactical roadmap that tackles both business needs, efficiencies and revenue as well as fundamental technology innovation. 
+* Independently execute and contribute to the long-term vision within their functional area with minimal oversight from VP-level leadership.
+* Proactively identify opportunities and challenges, making strategic decisions that align with the broader goals of the organization.
+* Oversee the development and prioritization of non-functional roadmaps, balancing long-term infrastructure enhancements with immediate operational needs.
+* Collaborate with other directors and senior leaders to ensure that the roadmap aligns with overall business priorities and technological trends.
 
-The engineering director is able to take business direction and explain it to the technology team in a way that inspires and guides them. Directors of Engineering help to create a positive public presence for Packback Engineering and are capable of selling the company to potential candidates.
+**People Management and Talent Acquisition:**
+
+* Lead and develop their teams with a focus on building management and technical capabilities.
+* Cultivate a positive and productive work environment, promoting a culture of excellence, accountability, and continuous improvement.
+* Implement effective talent management strategies, including recruitment, retention, professional growth, and succession planning.
+* Directly responsible for hiring and assembling a skilled team to meet the strategic and operational needs of their department.
+
+**Team & Process Design:**
+
+* Ensure the efficiency and flexibility of their teams by adapting processes and resources to meet changing demands and opportunities.
+* Foster a responsive team environment where agility and continuous learning are prioritized to meet business needs.
+
+**Metrics Optimization and Reporting:**
+
+* Define clear metrics that measure team and platform effectiveness and align with organizational objectives.
+* Regularly analyze and report these metrics to upper management, providing insights and recommendations for improvements.
+* Ensure continuous improvement in service delivery and user satisfaction.
+* Manage their segment of the platform to meet or exceed committed Service Level Objectives (SLOs) and Service Level Agreements (SLAs).
+* Ensure high availability and performance standards to deliver consistent, reliable service to users.
 
 **Responsibilities:**
 
+* Deliver roadmap projects on time, within budget, and in alignment with quality standards
 * Run of a group of teams focused on a sector of the business
 * Define relevant performance metrics, agile project management skills
 * Manage team leads and engineering managers
@@ -68,17 +98,67 @@ The engineering director is able to take business direction and explain it to th
 * Manage vendor and external relationships
 * Less than 20% direct contributorship with a focus on strategic, high-impact contributions
 
-## VP of Engineering
+## VP of Engineering (Executives VPs)
 
-The VP of Engineering is responsible for nurturing the team's culture and recognizing when to let the team evolve and when to guide its growth. They oversee the team's capacity and availability and are an advocate for steady progress on the product, the infrastructure, and the total system health.
+The VP of Engineering is essential for fostering a culture of innovation and operational excellence within the development teams. They are charged with overseeing the design, development, and delivery of software applications, ensuring platform stability, and owning the technical team's strategic technology vision.
 
-The VP represents Engineering and Data on the senior team to articulate the capabilities and needs of the department. They are responsible for understanding the system's construction and having a sense of opportunity and cost. They communicate technical impact in simple, clear terms.
+**Leadership and Team Management:**
 
-**Responsibilities:**
+* Lead and manage internal development teams, fostering a culture of innovation and excellence in software engineering.
+* Mentor and develop team leads and senior engineers, ensuring professional growth and alignment with business objectives.
+* Drive recruitment efforts to attract top-tier talent and build high-performing teams.
 
-* Run of multiple sectors of the business
-* Develop staffing plans and recruit top talent
-* Identify bottlenecks across the organization and work to remove them
-* Develop cross-functional relationships with other business units (Sales, Retention, Revenue)
-* Standardize the development process where needed
-* Measure and improve the happiness of Engineering & ensure psychological safety
+**Software Development Oversight:**
+
+* Oversee the design, development, and delivery of software applications that meet the needs of both internal stakeholders and external customers.
+* Implement best practices in software development processes, including Agile and DevOps methodologies, to enhance productivity and efficiency.
+* Ensure the delivery of projects on time, within budget, and in alignment with quality standards.
+
+**Platform Stability and Reliability:**
+
+* Ensure the highest levels of platform stability and reliability through robust architecture and proactive maintenance strategies.
+* Develop and implement comprehensive disaster recovery and business continuity plans to minimize downtime and maintain operational excellence.
+* Monitor and optimize system performance, scalability, and security to support growing business demands.
+
+**Technology Strategy and Innovation:**
+
+* Collaborate with the CTO and other technology leaders to align software development initiatives with the company's technology strategy.
+* Drive innovation in software engineering practices, incorporating emerging technologies and methodologies to enhance product offerings and operational capabilities.
+* Lead research and development initiatives that contribute to long-term technological advancements.
+
+**Quality Assurance and Compliance:**
+
+* Ensure that all software developed adheres to the highest standards of quality and meets compliance requirements.
+* Implement rigorous testing and validation processes to ensure the functionality and security of applications.
+* Continuously monitor and update compliance and quality assurance standards in response to evolving industry trends and regulatory changes.
+
+## CTO (C-Suite)
+
+The CTO is responsible for the overarching management of IT, R&D and data, steering product development, and ensuring the organization's technology aligns with its business goals. The CTO is also responsible for driving transformative, "step-function", changes in their team.  This role not only involves leading internal and external AI strategies but also acting as the public face of the company's technological initiatives.
+
+**Strategic IT Management and Development:**
+
+* Oversee the management and strategic direction of the organization's IT infrastructure and data.
+* Accountable for the development and enhancement of products and services for both internal operations and external customers.
+* Directly driving transformative change in the engineering organization.
+
+**AI Strategy Implementation:**
+
+* Lead both internal and external AI strategies, ensuring measurable outcomes and alignment with business objectives.
+* Develop a differentiated AI roadmap that leverages technological innovations for competitive advantage.
+
+**Executive Leadership and Technological Vision:**
+
+* Serve as the public face of the company's technological vision, representing the company in tech-industry forums and public discussions.
+* Provide sound technical leadership across all aspects of the business.
+* Develop and execute a comprehensive technology strategy utilizing technological resources to drive business growth.
+* Identify and integrate cutting-edge technologies to maintain and enhance competitive edge.
+* Ensure alignment of technology, products, and services with the company's overarching business goals.
+* Act as the principal technology architect, setting the architectural direction and leading innovation initiatives.
+
+**Information and Cybersecurity Oversight:**
+
+* Oversee the organization's information security, cybersecurity, and technology security strategies.
+* Develop, implement, and enforce robust security policies to protect critical data and infrastructure.
+* Minimize organizational security risks and ensure compliance with industry standards and regulations.
+* Continuously monitor regulatory changes to maintain compliance status and adapt strategies as necessary.
