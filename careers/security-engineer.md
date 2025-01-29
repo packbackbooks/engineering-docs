@@ -49,7 +49,7 @@ The Cybersecurity Engineer designs, implements, and maintains security solutions
 
 **Impact:** Enhances Packback’s overall security posture by implementing and maintaining robust technical defenses. Mitigates risks by proactively identifying and addressing vulnerabilities, ensuring systems remain resilient against attacks. Plays a critical role in ensuring the secure deployment and operation of new technologies.
 
-**Communication:** Translates complex technical issues into actionable insights for non-technical stakeholders. Provides detailed documentation and recommendations for improvements to leadership or other departments. Ensures clear **Communication:** of vulnerabilities, their potential **Impact:**s, and proposed mitigations.
+**Communication:** Translates complex technical issues into actionable insights for non-technical stakeholders. Provides detailed documentation and recommendations for improvements to leadership or other departments. Ensures clear communication of vulnerabilities, their potential impacts, and proposed mitigations.
 
 **Collaboration:** Partners with SOC Analysts, developers, and IT teams to implement security tools and practices. Collaborates with external consultants or vendors on penetration testing, tool optimization, and technology upgrades. Works closely with cloud and DevOps teams to ensure secure deployment pipelines.
 
@@ -79,7 +79,7 @@ The Head of Information Security oversees Packback’s security operations, focu
 * Oversees the security team’s operations and ensures alignment with organizational priorities.
 * Tracks regulatory changes and updates internal policies to ensure ongoing compliance.
 * Develops and enforces policies, procedures, and standards for information security and compliance (e.g., SOC-2, GDPR).
-* Manages security incident escalations, coordinates response efforts, and communicates **Impact:** to leadership.
+* Manages security incident escalations, coordinates response efforts, and communicates impact to leadership.
 * Evaluates and selects cybersecurity vendors and technologies to address Packback’s needs.
 * Leads security awareness initiatives and promotes cybersecurity best practices across Packback.
 
@@ -91,9 +91,9 @@ The Director of Information Security sets the strategic direction for Packback�
 
 **Impact:** Drives the strategic direction of cybersecurity initiatives, ensuring alignment with Packback’s mission and long-term success. Protects Packback from advanced threats while fostering innovation and growth. Oversees the development and implementation of security programs to address the evolving threat landscape. Positions Packback as a leader in secure AI adoption by implementing cutting-edge technologies and frameworks.
 
-**Communication:** Delivers high-level security strategies and risk assessments to the executive team and board of directors. Represents Packback’s cybersecurity stance in external **Communication:**s, such as partnerships, audits, or regulatory discussions. Engages in thought leadership by presenting at industry events or publishing whitepapers. Articulates AI-related risks and opportunities to leadership, providing clear guidance on secure adoption strategies.
+**Communication:** Delivers high-level security strategies and risk assessments to the executive team and board of directors. Represents Packback’s cybersecurity stance in external communications, such as partnerships, audits, or regulatory discussions. Engages in thought leadership by presenting at industry events or publishing whitepapers. Articulates AI-related risks and opportunities to leadership, providing clear guidance on secure adoption strategies.
 
-**Collaboration:** Leads **Collaboration:** across departments to integrate security into all levels of Packback. Partners with senior executives, external consultants, and industry experts to stay ahead of emerging trends and threats. Builds relationships with key stakeholders, such as external auditors and regulatory bodies, to ensure compliance and security standards are met.
+**Collaboration:** Leads collaboration across departments to integrate security into all levels of Packback. Partners with senior executives, external consultants, and industry experts to stay ahead of emerging trends and threats. Builds relationships with key stakeholders, such as external auditors and regulatory bodies, to ensure compliance and security standards are met.
 
 ### Example Activities
 
