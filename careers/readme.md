@@ -7,6 +7,7 @@ The general Software Engineer levels are common to all engineer paths. At the Se
 * [Software Engineer Path](software-engineer.md)
 * [Managing Engineer Path](managing-engineer.md)
 * [Technical Engineer Path](technical-engineer.md)
+* [Security Engineer Path](security-engineer.md)
 
 ## Levels
 
@@ -30,6 +31,12 @@ All engineers at Packback should be positive and knowledgeable representatives f
   * [*Senior Engineer (IC 5):*](technical-engineer.md#senior-engineer) **Owns the development for an entire product, or large project.** Champions process, writes tech specs and identifies risks before starting major projects. Sets standards. Goes out of their way to reduce complexity.
   * [*Staff Engineer (IC 6):*](technical-engineer.md#staff-engineer) **Owns cross-team shared projects.** Works with leadership to choose new technologies, and promote culture/process. Has deep technical expertise in a business-critical area. Does serious research to evaluate and test options. Understands implications (and trade-offs) of reliability, scalability, operational costs, ease of adoption by the organization, recruiting, etc.
   * [*Principal Engineer (IC 7):*](technical-engineer.md#principal-engineer) **"Chief architect" for our business.** They have significant strategic vision and can take a high-level 3-5 year plan for growth at a business level and translate that into a strategic technology roadmap.
+* **Security Engineer**
+  * [*GRC Analyst (IC 2):*](security-engineer.md#grc-analyst) **Ensures compliance and manages security risks.** Tracks regulatory changes, maintains compliance documentation, and assists in risk assessment and audit preparation.
+  * [*SOC Analyst (IC 3):*](security-engineer.md#soc-analyst) **Monitors and responds to security threats.** Investigates alerts, escalates incidents, and helps protect the organization from cyber threats.
+  * [*Cybersecurity Engineer (IC 4):*](security-engineer.md#cybersecurity-engineer) **Builds and maintains security systems.** Implements security controls, conducts vulnerability assessments, and ensures infrastructure resilience
+  * [*Head of Information Security (IC 5):*](security-engineer.md#head-of-information-security) **Leads operational security strategy.** Oversees security policies, incident response, and risk management to align with business goals.
+  * [*Director of Information Security (Manager 6):*](security-engineer.md#director-of-information-security) **Defines long-term security strategy.** Guides AI-driven risk management, compliance, and the integration of cutting-edge security innovations at the organizational level.
 
 ### Internal Levels
 
