@@ -20,39 +20,41 @@ The senior engineer displays a mastery of the core competencies of software engi
 
 **Technical Direction:** Technology cannot speak for itself and requires effective advocates on its behalf. Staff engineers successfully advance technology by being pragmatic, deliberate, and focused more on the long-term trend of progress than viewing each individual decision as a make-or-break crisis. Staff engineers essentially act like part-time product managers for technology. They are able to get everyone focused on a goal and lay out the steps to get there.
 
+**Engineering Perspective:** Staff-plus engineers are the folks who will often get unexpectedly pulled into the room where critical decisions need to be made (often without the luxury of have time or the full context). This gives them the opportunity to inject the engineering context and perspective into a decision while it's still possible to change the outcome. These brief moments of input on critical decisions are unduly impactful and will allow you to inject an engineering perspective where it would otherwise be missed.
+
+**Mentorship:** A Staff Engineer is far more likely to change your company's long-term trajectory by growing other engineers than through personal heroics. Their effort here leads to a well-trained team with multiple experts in each domain.
+
+Effective mentorship is not a checkbox on the career ladder that can be satisfied by simply sharing advice and experience. Staff engineers build an ongoing relationship, understand the context of their mentee(s), and [sponsor](https://larahogan.me/blog/what-sponsorship-looks-like/) them.
+
+**Exploration:** Our teams are already optimized to incrementally improve. The role of the staff engineer is to be *transformative*. A staff engineer does more than improve their part of the codebase; they solve ambiguous, important problems that the company's current systems are ill-shaped to address. They tackle impossible technical problems (high ambiguity, no in-house expertise, poorly defined). They identify and reduce existential risks. They look beyond their team and project to address organization-level problems (2-3 year growth, org health). They set the technical direction for a department.
+
+**Be Glue:** Perhaps most difficult to define, Staff Engineers do [glue work](https://noidea.dog/glue). They see the important things that need done and make sure they happen (whether doing it themselves or finding the right person or process for the job).
+
+### Responsibilities
+
 Concrete examples could include:
+
+**Technical Direction**
 
 - Lead or delegate extra-large projects across teams
 - Oversee cross-team initiatives (a11y, code quality, testing, reliability, etc.)
 - Solve problems that span multiple groups
 
-**Engineering Perspective:** Staff-plus engineers are the folks who will often get unexpectedly pulled into the room where critical decisions need to be made (often without the luxury of have time or the full context). This gives them the opportunity to inject the engineering context and perspective into a decision while it's still possible to change the outcome. These brief moments of input on critical decisions are unduly impactful and will allow you to inject an engineering perspective where it would otherwise be missed.
-
-Concrete examples could include:
+**Engineering Perspective**
 
 - Having your perspective sought out in critical decisions
 - Actively inserting yourself into these critical moments
 - Advocating for effective solutions and strategies
 - Bringing perspective from other teams or departments
 
-**Mentorship:**
-
-A Staff Engineer is far more likely to change your company's long-term trajectory by growing other engineers than through personal heroics. Their effort here leads to a well-trained team with multiple experts in each domain.
-
-Effective mentorship is not a checkbox on the career ladder that can be satisfied by simply sharing advice and experience. Staff engineers build an ongoing relationship, understand the context of their mentee(s), and [sponsor](https://larahogan.me/blog/what-sponsorship-looks-like/) them.
-
-Concrete examples could include:
+**Mentorship**
 
 - Owning onboarding and continuing education initiatives
 - No bus-factor-one concerns / building redundancy in systems and knowledge
 - Providing critical feedback on architectural design documents
 - Encouraging other engineers to take a specific online training or certification course
 
-**Exploration:**
-
-Our teams are already optimized to incrementally improve. The role of the staff engineer is to be *transformative*. A staff engineer does more than improve their part of the codebase; they solve ambiguous, important problems that the company's current systems are ill-shaped to address. They tackle impossible technical problems (high ambiguity, no in-house expertise, poorly defined). They identify and reduce existential risks. They look beyond their team and project to address organization-level problems (2-3 year growth, org health). They set the technical direction for a department.
-
-Concrete examples could include:
+**Exploration**
 
 - Reduce infrastructure costs by an order of magnitude
 - Identify a multi-region strategy that takes six months instead of three years
@@ -60,11 +62,7 @@ Concrete examples could include:
 - Altering our CI/CD strategy to improve DORA metrics by 50% across the board
 - Identifying a software vendor that reduces churn and increases revenue by 10%
 
-**Be Glue:**
-
-Perhaps most difficult to define, Staff Engineers do [glue work](https://noidea.dog/glue). They see the important things that need done and make sure they happen (whether doing it themselves or finding the right person or process for the job).
-
-Concrete examples could include:
+**Be Glue**
 
 - decreasing onboarding time
 - getting the team to agree on coding standards
@@ -88,7 +86,7 @@ A Principal Engineer is still acting in a very hands-on role, and as such, they 
 
 **Communication:** The Principal Engineer has excellent abilities to influence without requiring reporting authority to do so. They effectively facilitate cross-team work and are influential far beyond their individual group. They are capable of driving groups of disparate interests to decisions, and clearly communicating and seeing those decisions through to impact. The Principal Engineer is capable of setting short, medium, and long term strategic direction for parts of the technology stack; identifying areas of critical need based on future growth; and developing roadmaps to attack those problems.
 
-**Responsibilities:**
+### Responsibilities
 
 - Defining strategic technical initiatives
 - Solving technical problems of the highest scope and complexity for the entire organization
