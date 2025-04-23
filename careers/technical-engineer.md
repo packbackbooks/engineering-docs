@@ -18,7 +18,7 @@ The senior engineer displays a mastery of the core competencies of software engi
 
 ### Responsibilties
 
-- TBD
+- @TODO
 
 ## Staff Engineer (IC 6)
 
@@ -38,43 +38,34 @@ Effective mentorship is not a checkbox on the career ladder that can be satisfie
 
 Concrete examples could include:
 
-**Technical Direction**
-
-- Lead or delegate extra-large projects across teams
-- Oversee cross-team initiatives (a11y, code quality, testing, reliability, etc.)
-- Solve problems that span multiple groups
-
-**Engineering Perspective**
-
-- Having your perspective sought out in critical decisions
-- Actively inserting yourself into these critical moments
-- Advocating for effective solutions and strategies
-- Bringing perspective from other teams or departments
-
-**Mentorship**
-
-- Owning onboarding and continuing education initiatives
-- No bus-factor-one concerns / building redundancy in systems and knowledge
-- Providing critical feedback on architectural design documents
-- Encouraging other engineers to take a specific online training or certification course
-
-**Exploration**
-
-- Reduce infrastructure costs by an order of magnitude
-- Identify a multi-region strategy that takes six months instead of three years
-- Addressing the sudden realization that your primary database only has three months of remaining disk space, and you can't upgrade to a larger size
-- Altering our CI/CD strategy to improve DORA metrics by 50% across the board
-- Identifying a software vendor that reduces churn and increases revenue by 10%
-
-**Be Glue**
-
-- decreasing onboarding time
-- getting the team to agree on coding standards
-- reviewing designs and architecture decisions
-- making us build the right thing
-- making our customers happier
-- raising the organization's profile through public speaking/writing
-- simplifying security and compliance concerns
+* **Technical Direction**
+    - Lead or delegate extra-large projects across teams
+    - Oversee cross-team initiatives (a11y, code quality, testing, reliability, etc.)
+    - Solve problems that span multiple groups
+* **Engineering Perspective**
+    - Having your perspective sought out in critical decisions
+    - Actively inserting yourself into these critical moments
+    - Advocating for effective solutions and strategies
+    - Bringing perspective from other teams or departments
+* **Mentorship**
+    - Owning onboarding and continuing education initiatives
+    - No bus-factor-one concerns / building redundancy in systems and knowledge
+    - Providing critical feedback on architectural design documents
+    - Encouraging other engineers to take a specific online training or certification course
+* **Exploration**
+    - Reduce infrastructure costs by an order of magnitude
+    - Identify a multi-region strategy that takes six months instead of three years
+    - Addressing the sudden realization that your primary database only has three months of remaining disk space, and you can't upgrade to a larger size
+    - Altering our CI/CD strategy to improve DORA metrics by 50% across the board
+    - Identifying a software vendor that reduces churn and increases revenue by 10%
+* **Be Glue**
+    - decreasing onboarding time
+    - getting the team to agree on coding standards
+    - reviewing designs and architecture decisions
+    - making us build the right thing
+    - making our customers happier
+    - raising the organization's profile through public speaking/writing
+    - simplifying security and compliance concerns
 
 ## Principal Engineer (IC 7)
 

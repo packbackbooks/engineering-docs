@@ -18,7 +18,7 @@ An apprentice engineer focuses on learning the basic skills of software engineer
 
 ### Responsibilties
 
-- TBD
+- @TODO
 
 ## Engineer I (IC 2)
 
@@ -36,7 +36,7 @@ An engineer I is capable of taking on well-defined technical problems and managi
 
 ### Responsibilties
 
-- TBD
+- @TODO
 
 ## Engineer II (IC 3a)
 
@@ -54,7 +54,7 @@ An engineer II is capable of taking on most technical problems and coordinating 
 
 ### Responsibilties
 
-- TBD
+- @TODO
 
 ## Engineer III (IC 4a)
 
@@ -72,4 +72,4 @@ An engineer III is capable of taking on complex technical problems and coordinat
 
 ### Responsibilties
 
-- TBD
+- @TODO
