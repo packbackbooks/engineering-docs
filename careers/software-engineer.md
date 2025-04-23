@@ -16,6 +16,10 @@ An apprentice engineer focuses on learning the basic skills of software engineer
 
 **Collaboration:** They pair frequently. When starting a new task, they develop a plan for how to accomplish it and validate that plan with a teammate. When stuck for more than 30 minutes on a problem, they get help. They actively participate in code review with the help of a teammate.
 
+### Responsibilties
+
+- TBD
+
 ## Engineer I (IC 2)
 
 An engineer I is capable of taking on well-defined technical problems and managing their own work each sprint.
@@ -29,6 +33,10 @@ An engineer I is capable of taking on well-defined technical problems and managi
 **Communication:** They ask questions to understand how their work fits into the larger context. They proactively communicate whether their work is ahead, on track, or behind, and are especially mindful about communicating when work is taking longer than expected. They welcome feedback and apply the feedback they received in other contexts.
 
 **Collaboration:** They pair frequently. They are able to quickly recognize when they are stuck and ask for help. For more complicated tasks, they leverage the knowledge of their peers to plan and execute their work on time. They provide constructive feedback in code review and know when they need help constructing meaningful feedback.
+
+### Responsibilties
+
+- TBD
 
 ## Engineer II (IC 3a)
 
@@ -44,6 +52,10 @@ An engineer II is capable of taking on most technical problems and coordinating 
 
 **Collaboration:** They are mindful of the work that others are doing and can critique or suggest improvements to the proposed plans of others. They get help from others when stuck, but are also capable of helping unstick their peers. They are capable of effectively running small to medium-sized projects with regular coaching.
 
+### Responsibilties
+
+- TBD
+
 ## Engineer III (IC 4a)
 
 An engineer III is capable of taking on complex technical problems and coordinating work spanning several months.
@@ -57,3 +69,7 @@ An engineer III is capable of taking on complex technical problems and coordinat
 **Communication:** They point out novel opportunities for refactoring during code review. They proactively work to minimize or mitigate potential problems before they arise.
 
 **Collaboration:** Others on the team reach out for help in their area of expertise, and they make themselves available. They are capable of effectively running small to medium-sized projects with little to no coaching, but need help to successfully manage large projects.
+
+### Responsibilties
+
+- TBD

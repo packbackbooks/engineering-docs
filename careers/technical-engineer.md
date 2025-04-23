@@ -16,6 +16,10 @@ The senior engineer displays a mastery of the core competencies of software engi
 
 **Collaboration:** They ensure that they do not become a single point of failure for their domain by mentoring and training others. When relevant, they work effectively with others outside the organization (whether in other departments or with vendors). They are capable of effectively running projects of any size independently.
 
+### Responsibilties
+
+- TBD
+
 ## Staff Engineer (IC 6)
 
 **Technical Direction:** Technology cannot speak for itself and requires effective advocates on its behalf. Staff engineers successfully advance technology by being pragmatic, deliberate, and focused more on the long-term trend of progress than viewing each individual decision as a make-or-break crisis. Staff engineers essentially act like part-time product managers for technology. They are able to get everyone focused on a goal and lay out the steps to get there.

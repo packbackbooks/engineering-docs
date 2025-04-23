@@ -1,6 +1,6 @@
-# Managing Engineer Path
+# Senior Manager Path
 
-The managing engineer path focuses on team and organizational leadership.
+The senior manager path focuses on team and organizational leadership.
 
 Regardless of the level, all managers are fundamentally measured by whether their team(s):
 
