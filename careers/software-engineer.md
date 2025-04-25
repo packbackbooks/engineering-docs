@@ -37,13 +37,13 @@ An engineer I is capable of taking on well-defined technical problems and managi
 ### Responsibilties
 
 - Write and debug code for small features or components.
-- Conduct software testing and quality assurance on your own code and may assist senior engineers with larger systems.
+- Conduct software testing and quality assurance on your own code.
 - Create technical documentation for your code, often with guidance.
-- Support senior engineers on complex tasks and projects.
+- Participate in code review and offer constructive feedback.
 - Learn the codebase, development processes, and team tools.
 - Work on small, self-contained tasks with clear instructions.
 - Participate in team meetings and provide progress updates.
-- Adhere to team coding standards and best practices.
+- Adhere to team norms, coding standards and best practices.
 - Troubleshoot basic software issues and bugs.
 
 
@@ -66,10 +66,10 @@ An engineer II is capable of taking on most technical problems and coordinating 
 - Design and develop software components or features with moderate complexity.
 - Write clean, efficient, and well-documented code with less direct supervision.
 - Perform more thorough software testing, including unit and integration tests.
-- Contribute to technical specifications and requirements under senior direction.
+- Contribute to technical specifications and requirements.
 - Troubleshoot and debug more complex software issues and identify root causes.
-- Assist in code reviews and provide constructive feedback to junior engineers.
-- Work independently on small to medium-sized tasks and may lead small projects.
+- Participate in code reviews and provide constructive feedback including opportunities to improve code quality.
+- Work independently on medium-sized tasks and lead small projects.
 - Participate in design discussions and offer technical insights.
 - Understand and apply software architecture and design principles.
 
@@ -96,6 +96,7 @@ An engineer III is capable of taking on complex technical problems and coordinat
 - Collaborate with cross-functional teams to define requirements and contribute to technical roadmaps.
 - Drive the adoption of best practices around coding, design, quality, and performance within your team.
 - Troubleshoot and debug complex technical issues, often involving multiple systems.
+- Participate in code reviews, ensuring that the code we deliver is of the highest possible quality.
 - Participate in and potentially lead technical design discussions and architecture reviews.
 - Understand and contribute to broader business objectives and align technical solutions.
 - Estimate effort for development tasks with greater accuracy and assist with project planning.

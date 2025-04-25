@@ -18,12 +18,12 @@ The senior engineer displays a mastery of the core competencies of software engi
 
 ### Responsibilties
 
-- Provide technical leadership and guidance to multiple development teams.
+- Provide technical leadership and guidance across the product and engineering organizations.
 - Make key architectural decisions and ensure the scalability, performance, and reliability of critical systems.
 - Mentor and coach junior and mid-level engineers to foster their technical growth.
 - Collaborate with product managers, designers, and stakeholders to define requirements and solutions.
 - Drive the technical vision and strategy for your area of responsibility, aligning with organizational goals.
-- Conduct thorough code reviews and ensure adherence to standards across your teams.
+- Conduct thorough code reviews to continually improve the overall quality of our codebase.
 - Take ownership of significant software systems or components, ensuring their long-term health.
 - Identify and proactively mitigate technical risks and challenges.
 - Stay updated with industry trends and recommend their adoption to ensure organizational innovation.
