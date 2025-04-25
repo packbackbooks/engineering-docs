@@ -25,7 +25,6 @@ All engineers at Packback should be positive and knowledgeable representatives f
 * **Managing Engineer**
   * [*Team Lead (IC 5):*](managing-engineer.md#team-lead-senior-engineer) **Coaches a team on major projects.** Tracks the team's efficiency and quality of work. Champions process and leverages their experience to ensure the team hits their goals.
   * [*Engineering Manager (Manager 5):*](managing-engineer.md#engineering-manager) **Runs an agile engineering team.** Comfortable with management practice. Strong project managers. Track the team's efficiency and quality of work, assist in regularly adjusting processes and timelines to deliver high quality work.
-* **Senior Manager**
   * [*Director of Engineering (Manager 7):*](managing-engineer.md#director-of-engineering) **Runs a "slice" of the engineering organization.** Grow the next generation of leadership at Packback. Manage other engineering managers. Strategically balance immediate and long-term product/business focused work with technical debt and strategic technical development. Guide the planning process for their team.
   * [*VP of Engineering:*](managing-engineer.md#vp-of-engineering) **Runs of multiple sectors of the engineering organization.** Works cross-functionally to solve problems for the product or company. Builds a healthy, robust engineering organization.
 * **Technical Engineer**
