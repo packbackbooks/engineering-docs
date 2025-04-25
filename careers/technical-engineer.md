@@ -18,15 +18,15 @@ The senior engineer displays a mastery of the core competencies of software engi
 
 ### Responsibilties
 
-- Provide technical leadership and guidance across the product and engineering organizations.
-- Make key architectural decisions and ensure the scalability, performance, and reliability of critical systems.
-- Mentor and coach junior and mid-level engineers to foster their technical growth.
-- Collaborate with product managers, designers, and stakeholders to define requirements and solutions.
-- Drive the technical vision and strategy for your area of responsibility, aligning with organizational goals.
-- Conduct thorough code reviews to continually improve the overall quality of our codebase.
-- Take ownership of significant software systems or components, ensuring their long-term health.
-- Identify and proactively mitigate technical risks and challenges.
-- Stay updated with industry trends and recommend their adoption to ensure organizational innovation.
+* Provide technical leadership and guidance across the product and engineering organizations.
+* Make key architectural decisions and ensure the scalability, performance, and reliability of critical systems.
+* Mentor and coach junior and mid-level engineers to foster their technical growth.
+* Collaborate with product managers, designers, and stakeholders to define requirements and solutions.
+* Drive the technical vision and strategy for your area of responsibility, aligning with organizational goals.
+* Conduct thorough code reviews to continually improve the overall quality of our codebase.
+* Take ownership of significant software systems or components, ensuring their long-term health.
+* Identify and proactively mitigate technical risks and challenges.
+* Stay updated with industry trends and recommend their adoption to ensure organizational innovation.
 
 ## Staff Engineer (IC 6)
 
@@ -47,33 +47,33 @@ Effective mentorship is not a checkbox on the career ladder that can be satisfie
 Concrete examples could include:
 
 * **Technical Direction**
-    - Lead or delegate extra-large projects across teams
-    - Oversee cross-team initiatives (a11y, code quality, testing, reliability, etc.)
-    - Solve problems that span multiple groups
+    * Lead or delegate extra-large projects across teams
+    * Oversee cross-team initiatives (a11y, code quality, testing, reliability, etc.)
+    * Solve problems that span multiple groups
 * **Engineering Perspective**
-    - Having your perspective sought out in critical decisions
-    - Actively inserting yourself into these critical moments
-    - Advocating for effective solutions and strategies
-    - Bringing perspective from other teams or departments
+    * Having your perspective sought out in critical decisions
+    * Actively inserting yourself into these critical moments
+    * Advocating for effective solutions and strategies
+    * Bringing perspective from other teams or departments
 * **Mentorship**
-    - Owning onboarding and continuing education initiatives
-    - No bus-factor-one concerns / building redundancy in systems and knowledge
-    - Providing critical feedback on architectural design documents
-    - Encouraging other engineers to take a specific online training or certification course
+    * Owning onboarding and continuing education initiatives
+    * No bus-factor-one concerns / building redundancy in systems and knowledge
+    * Providing critical feedback on architectural design documents
+    * Encouraging other engineers to take a specific online training or certification course
 * **Exploration**
-    - Reduce infrastructure costs by an order of magnitude
-    - Identify a multi-region strategy that takes six months instead of three years
-    - Addressing the sudden realization that your primary database only has three months of remaining disk space, and you can't upgrade to a larger size
-    - Altering our CI/CD strategy to improve DORA metrics by 50% across the board
-    - Identifying a software vendor that reduces churn and increases revenue by 10%
+    * Reduce infrastructure costs by an order of magnitude
+    * Identify a multi-region strategy that takes six months instead of three years
+    * Addressing the sudden realization that your primary database only has three months of remaining disk space, and you can't upgrade to a larger size
+    * Altering our CI/CD strategy to improve DORA metrics by 50% across the board
+    * Identifying a software vendor that reduces churn and increases revenue by 10%
 * **Be Glue**
-    - decreasing onboarding time
-    - getting the team to agree on coding standards
-    - reviewing designs and architecture decisions
-    - making us build the right thing
-    - making our customers happier
-    - raising the organization's profile through public speaking/writing
-    - simplifying security and compliance concerns
+    * decreasing onboarding time
+    * getting the team to agree on coding standards
+    * reviewing designs and architecture decisions
+    * making us build the right thing
+    * making our customers happier
+    * raising the organization's profile through public speaking/writing
+    * simplifying security and compliance concerns
 
 ## Principal Engineer (IC 7)
 
@@ -91,10 +91,10 @@ A Principal Engineer is still acting in a very hands-on role, and as such, they 
 
 ### Responsibilities
 
-- Defining strategic technical initiatives
-- Solving technical problems of the highest scope and complexity for the entire organization
-- Actively seeking out and prioritizing our toughest technical challenges to deliver significant improvements
-- Defining code quality standards and metrics
-- Providing mentorship to Senior and Staff Engineers to help them grow in their technical responsibilities
-- Ensuring the safety and reliability of Packback's technology
-- Managing projects across multiple years
+* Defining strategic technical initiatives
+* Solving technical problems of the highest scope and complexity for the entire organization
+* Actively seeking out and prioritizing our toughest technical challenges to deliver significant improvements
+* Defining code quality standards and metrics
+* Providing mentorship to Senior and Staff Engineers to help them grow in their technical responsibilities
+* Ensuring the safety and reliability of Packback's technology
+* Managing projects across multiple years

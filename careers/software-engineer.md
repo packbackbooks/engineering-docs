@@ -18,7 +18,7 @@ An apprentice engineer focuses on learning the basic skills of software engineer
 
 ### Responsibilties
 
-- @TODO
+* @TODO
 
 ## Engineer I (IC 2)
 
@@ -36,15 +36,15 @@ An engineer I is capable of taking on well-defined technical problems and managi
 
 ### Responsibilties
 
-- Write and debug code for small features or components.
-- Conduct software testing and quality assurance on your own code.
-- Create technical documentation for your code, often with guidance.
-- Participate in code review and offer constructive feedback.
-- Learn the codebase, development processes, and team tools.
-- Work on small, self-contained tasks with clear instructions.
-- Participate in team meetings and provide progress updates.
-- Adhere to team norms, coding standards and best practices.
-- Troubleshoot basic software issues and bugs.
+* Write and debug code for small features or components.
+* Conduct software testing and quality assurance on your own code.
+* Create technical documentation for your code, often with guidance.
+* Participate in code review and offer constructive feedback.
+* Learn the codebase, development processes, and team tools.
+* Work on small, self-contained tasks with clear instructions.
+* Participate in team meetings and provide progress updates.
+* Adhere to team norms, coding standards and best practices.
+* Troubleshoot basic software issues and bugs.
 
 
 ## Engineer II (IC 3a)
@@ -63,15 +63,15 @@ An engineer II is capable of taking on most technical problems and coordinating 
 
 ### Responsibilties
 
-- Design and develop software components or features with moderate complexity.
-- Write clean, efficient, and well-documented code with less direct supervision.
-- Perform more thorough software testing, including unit and integration tests.
-- Contribute to technical specifications and requirements.
-- Troubleshoot and debug more complex software issues and identify root causes.
-- Participate in code reviews and provide constructive feedback including opportunities to improve code quality.
-- Work independently on medium-sized tasks and lead small projects.
-- Participate in design discussions and offer technical insights.
-- Understand and apply software architecture and design principles.
+* Design and develop software components or features with moderate complexity.
+* Write clean, efficient, and well-documented code with less direct supervision.
+* Perform more thorough software testing, including unit and integration tests.
+* Contribute to technical specifications and requirements.
+* Troubleshoot and debug more complex software issues and identify root causes.
+* Participate in code reviews and provide constructive feedback including opportunities to improve code quality.
+* Work independently on medium-sized tasks and lead small projects.
+* Participate in design discussions and offer technical insights.
+* Understand and apply software architecture and design principles.
 
 
 ## Engineer III (IC 4a)
@@ -90,13 +90,13 @@ An engineer III is capable of taking on complex technical problems and coordinat
 
 ### Responsibilties
 
-- Lead the design and development of medium to large-scale software features or systems.
-- Establish and contribute to team-level software architecture and development standards.
-- Mentor and provide technical guidance to junior and mid-level engineers.
-- Collaborate with cross-functional teams to define requirements and contribute to technical roadmaps.
-- Drive the adoption of best practices around coding, design, quality, and performance within your team.
-- Troubleshoot and debug complex technical issues, often involving multiple systems.
-- Participate in code reviews, ensuring that the code we deliver is of the highest possible quality.
-- Participate in and potentially lead technical design discussions and architecture reviews.
-- Understand and contribute to broader business objectives and align technical solutions.
-- Estimate effort for development tasks with greater accuracy and assist with project planning.
+* Lead the design and development of medium to large-scale software features or systems.
+* Establish and contribute to team-level software architecture and development standards.
+* Mentor and provide technical guidance to junior and mid-level engineers.
+* Collaborate with cross-functional teams to define requirements and contribute to technical roadmaps.
+* Drive the adoption of best practices around coding, design, quality, and performance within your team.
+* Troubleshoot and debug complex technical issues, often involving multiple systems.
+* Participate in code reviews, ensuring that the code we deliver is of the highest possible quality.
+* Participate in and potentially lead technical design discussions and architecture reviews.
+* Understand and contribute to broader business objectives and align technical solutions.
+* Estimate effort for development tasks with greater accuracy and assist with project planning.
