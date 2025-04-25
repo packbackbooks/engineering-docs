@@ -14,7 +14,7 @@ The GRC Analyst supports Packback by ensuring compliance with regulatory require
 
 **Collaboration:** Works with IT and security teams to document and implement compliance controls. Assists auditors and regulatory bodies by providing necessary documentation and evidence. Collaborates with business units to ensure processes align with compliance and governance requirements.
 
-### Example Activities
+### Example Responsibilities
 
 * Maintains documentation for compliance frameworks, including policies, procedures, and risk assessments.
 * Conducts control testing and gathers evidence to support audits and assessments.
@@ -33,7 +33,7 @@ The SOC Analyst monitors security systems and responds to alerts, investigating 
 
 **Collaboration:** Works closely with engineers and IT teams to escalate incidents and support broader security efforts. Coordinates with external vendors or managed service providers for tool updates and system maintenance. Collaborates across departments to implement initial security measures during incidents and provide support as needed.
 
-### Example Activities
+### Example Responsibilities
 
 * Monitors security information and event management (SIEM) tools for suspicious activities and anomalies.
 * Investigates alerts, triages incidents, and escalates critical issues to higher-level teams.
@@ -53,7 +53,7 @@ The Cybersecurity Engineer designs, implements, and maintains security solutions
 
 **Collaboration:** Partners with SOC Analysts, developers, and IT teams to implement security tools and practices. Collaborates with external consultants or vendors on penetration testing, tool optimization, and technology upgrades. Works closely with cloud and DevOps teams to ensure secure deployment pipelines.
 
-### Example Activities
+### Example Responsibilities
 
 * Designs and implements security solutions, such as firewalls, intrusion detection systems (IDS), and endpoint protection tools.
 * Conducts vulnerability scans, patches systems, and remediates security issues across infrastructure.
@@ -74,7 +74,7 @@ The Head of Information Security oversees Packback’s security operations, focu
 
 **Collaboration:** Works cross-functionally with other department leads to integrate security into business processes. Engages with external auditors, legal teams, and regulatory agencies to align policies and practices with industry standards. Coordinates with IT and engineering teams to implement security improvements and mitigate risks.
 
-### Example Activities
+### Example Responsibilities
 
 * Oversees the security team’s operations and ensures alignment with organizational priorities.
 * Tracks regulatory changes and updates internal policies to ensure ongoing compliance.
@@ -95,7 +95,7 @@ The Director of Information Security sets the strategic direction for Packback�
 
 **Collaboration:** Leads collaboration across departments to integrate security into all levels of Packback. Partners with senior executives, external consultants, and industry experts to stay ahead of emerging trends and threats. Builds relationships with key stakeholders, such as external auditors and regulatory bodies, to ensure compliance and security standards are met.
 
-### Example Activities
+### Example Responsibilities
 
 * Defines Packback’s long-term cybersecurity strategy and ensures alignment with business objectives.
 * Establishes and oversees security programs, including risk management, threat intelligence, and incident response.
