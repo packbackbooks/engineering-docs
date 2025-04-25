@@ -18,7 +18,16 @@ An apprentice engineer focuses on learning the basic skills of software engineer
 
 ### Responsibilities
 
-* @TODO
+* Assist other engineers in developing and maintaining software applications.
+* Learn and apply fundamental software development concepts and practices.
+* Write and test basic code modules under close supervision.
+* Participate in code reviews to learn and provide feedback.
+* Contribute to basic technical documentation for assigned tasks.
+* Follow team coding standards and established best practices.
+* Troubleshoot and debug simple software issues with guidance.
+* Attend team meetings and actively participate in discussions.
+* Complete assigned learning tasks and training programs.
+* Seek guidance and mentorship from other team members.
 
 ## Engineer I (IC 2)
 
