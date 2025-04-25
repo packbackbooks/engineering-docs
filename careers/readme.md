@@ -6,7 +6,6 @@ The general Software Engineer levels are common to all engineer paths. At the Se
 
 * [Software Engineer Path](software-engineer.md)
 * [Managing Engineer Path](managing-engineer.md)
-* [Senior Manager Path](senior-manager.md)
 * [Technical Engineer Path](technical-engineer.md)
 * [Security Engineer Path](security-engineer.md)
 
