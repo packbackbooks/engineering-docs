@@ -1,6 +1,6 @@
 # Senior Manager Path
 
-The senior manager path focuses on team and organizational leadership.
+The senior manager path focuses on team and organizational leadership. It is a continuation of the [managing engineer path](managing-engineer.md).
 
 Regardless of the level, all managers are fundamentally measured by whether their team(s):
 
