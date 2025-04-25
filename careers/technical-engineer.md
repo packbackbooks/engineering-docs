@@ -1,12 +1,12 @@
 # Technical Engineer Path
 
-The technical engineer focuses on individual contributorship and technical leadership. Their contributions level up the quality, effectiveness and efficiency of the entire organization. Whereas the [software engineer path](software-engineer.md) focused on mastering the fundamentals of software development using a defined set of criteria, the senior technical path focuses more on projects/efforts that have strategic value for the company while driving technical design and up-leveling their team. Their impact is no longer additive, it is multiplicative. As engineers progress down this path, examples of success will be less pre-defined and more dependent on the contextual needs of the business.
+The technical engineer focuses on individual contributorship and technical leadership. Their contributions level up the quality, effectiveness and efficiency of the entire organization. Whereas the [software engineer path](software-engineer.md) focuses on mastering the fundamentals of software development using a defined set of criteria, the senior technical path focuses more on projects/efforts that have strategic value for the company while driving technical design and up-leveling their team. Their impact is no longer additive, it is multiplicative. As engineers progress down this path, examples of success will be less pre-defined and more dependent on the contextual needs of the business.
 
 ## Senior Engineer (IC 5)
 
 The senior engineer displays a mastery of the core competencies of software engineering. Strong technical knowledge and high productivity are table stakes at this level. Growth opportunities focus on developing impact, communication, and collaboration skills for Senior Engineers and higher.
 
-**Technical Knowledge:** They have deep understanding of their technical specialty, and a working knowledge of other domains. They take responsibility for the overall health and quality of their domain. They have responsibilities beyond writing code (managing audits, running on-call rotations, owning a backlog, etc.) to help them manage their domain within the organization. Feedback on their code usually revolves around subjective decisions, rather than objective issues. They proactively stay abreast of industry best practices and trends, and have acquired at least one major skill outside of core coding such as monitoring, documentation, integration testing, visual design, and performance optimization.
+**Technical Knowledge:** They have a deep understanding of their technical specialty, and a working knowledge of other domains. They take responsibility for the overall health and quality of their domain. They have responsibilities beyond writing code (managing audits, running on-call rotations, owning a backlog, etc.) to help them manage their domain within the organization. Feedback on their code usually revolves around subjective decisions, rather than objective issues. They proactively stay abreast of industry best practices and trends, and have acquired at least one major skill outside of core coding such as monitoring, documentation, integration testing, visual design, and performance optimization.
 
 **Productivity:** A senior engineer regularly delivers a high volume of complex, critical work while also balancing other responsibilities or initiatives. The Senior Engineer requires very little oversight beyond high-level direction. They hold a depth of knowledge about the larger software ecosystem that enables them to debug quickly and effectively.
 
@@ -16,7 +16,7 @@ The senior engineer displays a mastery of the core competencies of software engi
 
 **Collaboration:** They ensure that they do not become a single point of failure for their domain by mentoring and training others. When relevant, they work effectively with others outside the organization (whether in other departments or with vendors). They are capable of effectively running projects of any size independently.
 
-### Responsibilties
+### Responsibilities
 
 * Provide technical leadership and guidance across the product and engineering organizations.
 * Make key architectural decisions and ensure the scalability, performance, and reliability of critical systems.

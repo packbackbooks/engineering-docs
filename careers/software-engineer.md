@@ -16,7 +16,7 @@ An apprentice engineer focuses on learning the basic skills of software engineer
 
 **Collaboration:** They pair frequently. When starting a new task, they develop a plan for how to accomplish it and validate that plan with a teammate. When stuck for more than 30 minutes on a problem, they get help. They actively participate in code review with the help of a teammate.
 
-### Responsibilties
+### Responsibilities
 
 * @TODO
 
@@ -34,7 +34,7 @@ An engineer I is capable of taking on well-defined technical problems and managi
 
 **Collaboration:** They pair frequently. They are able to quickly recognize when they are stuck and ask for help. For more complicated tasks, they leverage the knowledge of their peers to plan and execute their work on time. They provide constructive feedback in code review and know when they need help constructing meaningful feedback.
 
-### Responsibilties
+### Responsibilities
 
 * Write and debug code for small features or components.
 * Conduct software testing and quality assurance on your own code.
@@ -61,7 +61,7 @@ An engineer II is capable of taking on most technical problems and coordinating 
 
 **Collaboration:** They are mindful of the work that others are doing and can critique or suggest improvements to the proposed plans of others. They get help from others when stuck, but are also capable of helping unstick their peers. They are capable of effectively running small to medium-sized projects with regular coaching.
 
-### Responsibilties
+### Responsibilities
 
 * Design and develop software components or features with moderate complexity.
 * Write clean, efficient, and well-documented code with less direct supervision.
@@ -88,7 +88,7 @@ An engineer III is capable of taking on complex technical problems and coordinat
 
 **Collaboration:** Others on the team reach out for help in their area of expertise, and they make themselves available. They are capable of effectively running small to medium-sized projects with little to no coaching, but need help to successfully manage large projects.
 
-### Responsibilties
+### Responsibilities
 
 * Lead the design and development of medium to large-scale software features or systems.
 * Establish and contribute to team-level software architecture and development standards.
