@@ -29,6 +29,7 @@ The senior engineer displays a mastery of the core competencies of software engi
 * Evaluate and improve team processes, dynamics, and working strategies.
 * Stay updated with industry trends and recommend their adoption to ensure organizational innovation.
 * Participate in prioritization of nonfunctional requirements and technical debt on the engineering roadmap.
+* Participate in on-call rotations and serve as an escalation point for other engineers.
 
 ## Staff Engineer (IC 6)
 
