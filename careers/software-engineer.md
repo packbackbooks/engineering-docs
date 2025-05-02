@@ -85,6 +85,7 @@ An engineer II is capable of taking on most technical problems and coordinating 
 * Work closely with product to lead small-to-medium sized projects.
 * Participate in design discussions and offer technical insights.
 * Understand and apply software architecture and design principles.
+* Participate in on-call rotations and independently handle routine issues.
 
 
 ## Engineer III (IC 4a)
@@ -113,3 +114,4 @@ An engineer III is capable of taking on complex technical problems and coordinat
 * Participate in and potentially lead technical design discussions and architecture reviews.
 * Understand and contribute to broader business objectives and align technical solutions.
 * Estimate effort for development tasks with greater accuracy and assist with project planning.
+* Participate in on-call rotations and handle complex issues.
