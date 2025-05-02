@@ -26,7 +26,9 @@ The senior engineer displays a mastery of the core competencies of software engi
 * Conduct thorough code reviews to continually improve the overall quality of our codebase.
 * Take ownership of significant software systems or components, ensuring their long-term health.
 * Identify and proactively mitigate technical risks and challenges.
+* Evaluate and improve team processes, dynamics, and working strategies.
 * Stay updated with industry trends and recommend their adoption to ensure organizational innovation.
+* Participate in prioritization of nonfunctional requirements and technical debt on the engineering roadmap.
 
 ## Staff Engineer (IC 6)
 

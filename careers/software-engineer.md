@@ -19,6 +19,7 @@ An apprentice engineer focuses on learning the basic skills of software engineer
 ### Responsibilities
 
 * Assist other engineers in developing and maintaining software applications.
+* Work independently on small, well-defined features and bug fixes with guidance.
 * Learn and apply fundamental software development concepts and practices.
 * Write and test basic code modules under close supervision.
 * Participate in code reviews to learn and provide feedback.
@@ -54,6 +55,8 @@ An engineer I is capable of taking on well-defined technical problems and managi
 * Participate in team meetings and provide progress updates.
 * Adhere to team norms, coding standards and best practices.
 * Troubleshoot basic software issues and bugs.
+* Participate in on-call rotations with support from senior engineers.
+* Support project leads and learn the fundamentals of project leadership.
 
 
 ## Engineer II (IC 3a)
@@ -78,7 +81,8 @@ An engineer II is capable of taking on most technical problems and coordinating 
 * Contribute to technical specifications and requirements.
 * Troubleshoot and debug more complex software issues and identify root causes.
 * Participate in code reviews and provide constructive feedback including opportunities to improve code quality.
-* Work independently on medium-sized tasks and lead small projects.
+* Work independently on medium-sized tasks.
+* Work closely with product to lead small-to-medium sized projects.
 * Participate in design discussions and offer technical insights.
 * Understand and apply software architecture and design principles.
 
