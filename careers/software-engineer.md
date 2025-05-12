@@ -76,12 +76,12 @@ An engineer II is capable of taking on most technical problems and coordinating 
 ### Responsibilities
 
 * Design and develop software components or features with moderate complexity.
-* Write clean, efficient, and well-documented code with less direct supervision.
-* Perform more thorough software testing, including unit and integration tests.
+* Making independent decisions about architecture, implementation, and documentation that align with team standards.
+* Demonstrate sound judgment in testing strategies, selecting appropriate testing methods to ensure feature/component quality.
 * Contribute to technical specifications and requirements.
 * Troubleshoot and debug more complex software issues and identify root causes.
 * Participate in code reviews and provide constructive feedback including opportunities to improve code quality.
-* Work independently on medium-sized tasks.
+* Plan and implement features that require multiple components or span several sprints.
 * Work closely with product to lead small-to-medium sized projects.
 * Participate in design discussions and offer technical insights.
 * Understand and apply software architecture and design principles.
@@ -110,8 +110,8 @@ An engineer III is capable of taking on complex technical problems and coordinat
 * Collaborate with cross-functional teams to define requirements and contribute to technical roadmaps.
 * Drive the adoption of best practices around coding, design, quality, and performance within your team.
 * Troubleshoot and debug complex technical issues, often involving multiple systems.
-* Participate in code reviews, ensuring that the code we deliver is of the highest possible quality.
-* Participate in and potentially lead technical design discussions and architecture reviews.
-* Understand and contribute to broader business objectives and align technical solutions.
+* Improve code quality through insightful reviews that identify non-obvious refactoring opportunities.
+* Lead technical design discussions and actively contribute to broader architectural decisions.
+* Identify and respond to strategic technical opportunities or risks that affect business objectives.
 * Estimate effort for development tasks with greater accuracy and assist with project planning.
 * Participate in on-call rotations and handle complex issues.
