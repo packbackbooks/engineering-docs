@@ -20,7 +20,8 @@ The senior engineer displays a mastery of the core competencies of software engi
 
 * Provide technical leadership and guidance across the product and engineering organizations.
 * Mentor and coach junior and mid-level engineers to foster their technical growth.
-* Collaborate with product managers, designers, and stakeholders to define requirements and solutions.
+* Partner with product managers, designers, and stakeholders to define and own requirements.
+* Identify technical risks early and lead the team in architecting solutions that support business objectives.
 * Drive the technical vision and strategy for your area of responsibility, aligning with organizational goals.
 * Elevate code quality through thoughtful reviews that help others develop sound technical judgment.
 * Take ownership of significant software systems or components, ensuring their long-term health and maintainability.
