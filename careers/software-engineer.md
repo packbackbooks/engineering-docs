@@ -16,6 +16,20 @@ An apprentice engineer focuses on learning the basic skills of software engineer
 
 **Collaboration:** They pair frequently. When starting a new task, they develop a plan for how to accomplish it and validate that plan with a teammate. When stuck for more than 30 minutes on a problem, they get help. They actively participate in code review with the help of a teammate.
 
+### Responsibilities
+
+* Assist other engineers in developing and maintaining software applications.
+* Work independently on small, well-defined features and bug fixes with guidance.
+* Learn and apply fundamental software development concepts and practices.
+* Write and test basic code modules under close supervision.
+* Participate in code reviews to learn and provide feedback.
+* Contribute to basic technical documentation for assigned tasks.
+* Follow team coding standards and established best practices.
+* Troubleshoot and debug simple software issues with guidance.
+* Attend team meetings and actively participate in discussions.
+* Complete assigned learning tasks and training programs.
+* Seek guidance and mentorship from other team members.
+
 ## Engineer I (IC 2)
 
 An engineer I is capable of taking on well-defined technical problems and managing their own work each sprint.
@@ -29,6 +43,21 @@ An engineer I is capable of taking on well-defined technical problems and managi
 **Communication:** They ask questions to understand how their work fits into the larger context. They proactively communicate whether their work is ahead, on track, or behind, and are especially mindful about communicating when work is taking longer than expected. They welcome feedback and apply the feedback they received in other contexts.
 
 **Collaboration:** They pair frequently. They are able to quickly recognize when they are stuck and ask for help. For more complicated tasks, they leverage the knowledge of their peers to plan and execute their work on time. They provide constructive feedback in code review and know when they need help constructing meaningful feedback.
+
+### Responsibilities
+
+* Write and debug code for small features or components.
+* Conduct software testing and quality assurance on your own code.
+* Create technical documentation for your code, often with guidance.
+* Participate in code review and offer constructive feedback.
+* Learn the codebase, development processes, and team tools.
+* Work on small, self-contained tasks with clear instructions.
+* Participate in team meetings and provide progress updates.
+* Adhere to team norms, coding standards and best practices.
+* Troubleshoot basic software issues and bugs.
+* Participate in on-call rotations with support from senior engineers.
+* Support project leads and learn the fundamentals of project leadership.
+
 
 ## Engineer II (IC 3a)
 
@@ -44,6 +73,21 @@ An engineer II is capable of taking on most technical problems and coordinating 
 
 **Collaboration:** They are mindful of the work that others are doing and can critique or suggest improvements to the proposed plans of others. They get help from others when stuck, but are also capable of helping unstick their peers. They are capable of effectively running small to medium-sized projects with regular coaching.
 
+### Responsibilities
+
+* Design and develop software components or features with moderate complexity.
+* Making independent decisions about architecture, implementation, and documentation that align with team standards.
+* Demonstrate sound judgment in testing strategies, selecting appropriate testing methods to ensure feature/component quality.
+* Contribute to technical specifications and requirements.
+* Troubleshoot and debug more complex software issues and identify root causes.
+* Participate in code reviews and provide constructive feedback including opportunities to improve code quality.
+* Plan and implement features that require multiple components or span several sprints.
+* Work closely with product to lead small-to-medium sized projects.
+* Participate in design discussions and offer technical insights.
+* Understand and apply software architecture and design principles.
+* Participate in on-call rotations and independently handle routine issues.
+
+
 ## Engineer III (IC 4a)
 
 An engineer III is capable of taking on complex technical problems and coordinating work spanning several months.
@@ -57,3 +101,17 @@ An engineer III is capable of taking on complex technical problems and coordinat
 **Communication:** They point out novel opportunities for refactoring during code review. They proactively work to minimize or mitigate potential problems before they arise.
 
 **Collaboration:** Others on the team reach out for help in their area of expertise, and they make themselves available. They are capable of effectively running small to medium-sized projects with little to no coaching, but need help to successfully manage large projects.
+
+### Responsibilities
+
+* Lead the design and development of medium to large-scale software features or systems.
+* Establish and contribute to team-level software architecture and development standards.
+* Mentor and provide technical guidance to junior and mid-level engineers.
+* Collaborate with cross-functional teams to define requirements and contribute to technical roadmaps.
+* Drive the adoption of best practices around coding, design, quality, and performance within your team.
+* Troubleshoot and debug complex technical issues, often involving multiple systems.
+* Improve code quality through insightful reviews that identify non-obvious refactoring opportunities.
+* Lead technical design discussions and actively contribute to broader architectural decisions.
+* Identify and respond to strategic technical opportunities or risks that affect business objectives.
+* Estimate effort for development tasks with greater accuracy and assist with project planning.
+* Participate in on-call rotations and handle complex issues.

@@ -20,7 +20,7 @@ In particular, leaders in this role are capable of identifying the most high-val
 
 **Communication:** The Team Lead gets support from their manager. They focus on developing skills to manage team members with different skill sets from their own. They communicate expectations clearly to all team members, and they solicit and deliver individual feedback frequently. Additionally, they identify areas of technical debt, do the cost/benefit analysis for resolving this debt and communicate suggested timelines for prioritizing this to the Product and Engineering teams.
 
-**Responsibilities:**
+### Responsibilities
 
 * Run a productive, agile team
 * Run [sprint-cadence team meetings](../the-sprint.md#what-goes-into-a-sprint)
@@ -41,7 +41,7 @@ The Engineering Manager is a senior manager responsible for running several team
 
 **Communication:** The Engineering Manager is an independent manager. They are comfortable managing team members with different skill sets from their own. They communicate expectations clearly to all team members and solicit and deliver individual feedback frequently. Additionally, they identify areas of technical debt, do the cost/benefit analysis for resolving this debt and communicate suggested timelines for prioritizing this to the Product and Engineering teams.
 
-**Responsibilities:**
+### Responsibilities
 
 * Everything a team lead does plus...
 * Run periodic meetings (Team OKRs, Term/Year retros)
